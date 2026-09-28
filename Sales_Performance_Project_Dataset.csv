@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer,Product,Category,Region,Quantity,Unit_Price,Sales,Cost,Profit
+ORD10691,2025-01-01,Tech Solutions,Standing Desk,Furniture,East,1,19066.02,19066.02,12698.2,6367.82
+ORD10096,2025-01-01,Silver Stores,Monitor 27-inch,Electronics,South,3,18071.23,54213.69,40060.23,14153.46
+ORD10224,2025-01-01,Quest Supplies,Cloud Backup,Software,South,2,4937.86,9875.72,5140.4,4735.32
+ORD10802,2025-01-02,Westline Traders,Scanner,Electronics,West,6,8406.13,50436.78,36708.67,13728.11
+ORD10929,2025-01-02,Smart Retail,Antivirus License,Software,South,6,2534.94,15209.64,7170.25,8039.39
+ORD10245,2025-01-02,Jade Enterprises,Printer,Electronics,West,3,14004.76,42014.28,30696.5,11317.78
+ORD11178,2025-01-02,Greenfield Retail,Desk Chair,Furniture,West,1,8550.5,8550.5,5597.27,2953.23
+ORD11115,2025-01-03,Digital Hub,Keyboard,Electronics,West,5,1394.84,6974.2,4173.19,2801.01
+ORD10898,2025-01-03,Quantum Solutions,External SSD,Electronics,North,10,7434.99,74349.9,56881.17,17468.73
+ORD10634,2025-01-03,Nimbus Stores,Desk Chair,Furniture,North,4,8803.75,35215.0,23143.0,12072.0
+ORD10038,2025-01-04,Titan Supplies,Visitor Chair,Furniture,Central,5,4013.81,20069.05,14034.11,6034.94
+ORD11170,2025-01-04,Apex Supplies,External SSD,Electronics,South,3,8254.87,24764.61,17377.12,7387.49
+ORD10194,2025-01-04,Smart Retail,Wi-Fi Adapter,Networking,West,1,1909.89,1909.89,1052.27,857.62
+ORD11499,2025-01-04,Westline Traders,Conference Table,Furniture,East,5,30665.28,153326.4,102231.76,51094.64
+ORD11119,2025-01-04,River Enterprises,Bookshelf,Furniture,East,2,7098.23,14196.46,8848.97,5347.49
+ORD10399,2025-01-05,Kite Retail,Wi-Fi Adapter,Networking,North,4,1819.23,7276.92,4043.58,3233.34
+ORD11225,2025-01-05,Beacon Supplies,Network Switch,Networking,South,8,6274.34,50194.72,34086.34,16108.38
+ORD10257,2025-01-05,Harbor Enterprises,Conference Camera,Electronics,East,4,16256.61,65026.44,45132.64,19893.8
+ORD10860,2025-01-05,Flame Retail,Office Suite,Software,East,4,6117.74,24470.96,13359.56,11111.4
+ORD10274,2025-01-05,Pioneer Retail,Antivirus License,Software,North,1,2346.07,2346.07,1198.52,1147.55
+ORD10117,2025-01-05,Heritage Enterprises,Antivirus License,Software,South,4,2443.2,9772.8,4745.79,5027.01
+ORD11360,2025-01-05,Apex Supplies,Printer,Electronics,North,2,14020.66,28041.32,20494.46,7546.86
+ORD11037,2025-01-06,Junction Traders,Visitor Chair,Furniture,Central,2,4310.36,8620.72,5228.45,3392.27
+ORD10039,2025-01-06,Liberty Supplies,Visitor Chair,Furniture,Central,5,4510.38,22551.9,13317.21,9234.69
+ORD10630,2025-01-06,Nimbus Stores,Barcode Scanner,Electronics,South,3,5796.37,17389.11,11142.15,6246.96
+ORD10210,2025-01-07,Pacific Traders,Filing Cabinet,Furniture,East,8,7352.55,58820.4,39374.74,19445.66
+ORD11007,2025-01-07,Jupiter Mart,Email Security,Software,North,8,5518.98,44151.84,21816.7,22335.14
+ORD10746,2025-01-07,Horizon Supplies,Conference Camera,Electronics,Central,5,16262.08,81310.4,57844.95,23465.45
+ORD10324,2025-01-07,Jupiter Mart,USB Hub,Electronics,North,8,1048.12,8384.96,5024.99,3359.97
+ORD11063,2025-01-08,Acme Solutions,Pen Set,Office Accessories,North,3,310.82,932.46,371.88,560.58
+ORD10094,2025-01-08,Harbor Enterprises,Monitor 24-inch,Electronics,East,1,12436.71,12436.71,9285.69,3151.02
+ORD10737,2025-01-08,Apex Supplies,Keyboard,Electronics,North,1,1372.06,1372.06,877.02,495.04
+ORD10454,2025-01-08,Everest Traders,Power Bank,Electronics,West,5,1767.88,8839.4,5309.06,3530.34
+ORD10397,2025-01-08,Eagle Traders,Tablet,Electronics,East,6,22933.13,137598.78,104081.59,33517.19
+ORD10770,2025-01-09,Jupiter Mart,Bookshelf,Furniture,West,10,6567.74,65677.4,41342.87,24334.53
+ORD11133,2025-01-09,Delta Stores,Printer,Electronics,West,1,14446.82,14446.82,10708.03,3738.79
+ORD11369,2025-01-09,Lighthouse Supplies,Pen Set,Office Accessories,West,10,313.1,3131.0,1225.51,1905.49
+ORD11387,2025-01-09,Unity Enterprises,Wi-Fi Adapter,Networking,West,3,1863.36,5590.08,3129.43,2460.65
+ORD11222,2025-01-10,Indigo Stores,Network Switch,Networking,Central,1,6317.47,6317.47,4126.5,2190.97
+ORD10304,2025-01-10,Galaxy Supplies,Office Suite,Software,South,5,6386.48,31932.4,16575.71,15356.69
+ORD10854,2025-01-10,Flame Retail,Email Security,Software,West,2,5625.34,11250.68,5609.65,5641.03
+ORD10475,2025-01-10,Orbit Stores,Project Management Tool,Software,North,2,7711.52,15423.04,7673.05,7749.99
+ORD10285,2025-01-10,Acme Solutions,Office Suite,Software,East,6,6289.33,37735.98,20214.52,17521.46
+ORD10569,2025-01-11,Jupiter Mart,Standing Desk,Furniture,North,1,18081.96,18081.96,12229.37,5852.59
+ORD11489,2025-01-11,Prime Retail,USB Hub,Electronics,North,3,1081.62,3244.86,1803.51,1441.35
+ORD10681,2025-01-11,Heritage Enterprises,Email Security,Software,North,3,5320.79,15962.37,8332.24,7630.13
+ORD10450,2025-01-11,Nexus Stores,UPS,Networking,South,2,5589.38,11178.76,6439.98,4738.78
+ORD11299,2025-01-12,Metro Stores,Printer,Electronics,East,5,14450.51,72252.55,51169.43,21083.12
+ORD10642,2025-01-12,Beta Enterprises,Printer,Electronics,West,6,15293.65,91761.9,61610.57,30151.33
+ORD10886,2025-01-13,Union Retail,Bookshelf,Furniture,East,3,6864.84,20594.52,12793.49,7801.03
+ORD11421,2025-01-14,Lighthouse Supplies,Monitor 27-inch,Electronics,South,3,17948.6,53845.8,41039.83,12805.97
+ORD10418,2025-01-14,Titan Supplies,Tablet,Electronics,East,2,21767.14,43534.28,33035.44,10498.84
+ORD10268,2025-01-14,Alpha Retail,Desk Chair,Furniture,South,2,8100.3,16200.6,11084.26,5116.34
+ORD11093,2025-01-14,Nexus Stores,Conference Table,Furniture,East,2,30340.21,60680.42,40436.68,20243.74
+ORD10558,2025-01-14,Ultra Traders,Filing Cabinet,Furniture,South,10,7619.53,76195.3,47471.74,28723.56
+ORD10100,2025-01-14,Horizon Supplies,Webcam,Electronics,South,4,2967.38,11869.52,6935.79,4933.73
+ORD11381,2025-01-15,Dawn Stores,Monitor 24-inch,Electronics,Central,5,13220.85,66104.25,43813.91,22290.34
+ORD10995,2025-01-15,Pioneer Retail,Antivirus License,Software,West,4,2433.97,9735.88,4962.5,4773.38
+ORD11446,2025-01-15,Diamond Supplies,UPS,Networking,West,4,5382.49,21529.96,13679.52,7850.44
+ORD11375,2025-01-15,Core Systems,Monitor 27-inch,Electronics,South,1,18751.37,18751.37,13817.35,4934.02
+ORD10121,2025-01-15,Smart Retail,External SSD,Electronics,North,3,8161.84,24485.52,16898.31,7587.21
+ORD10124,2025-01-15,Keystone Retail,External SSD,Electronics,West,3,7903.17,23709.51,16677.64,7031.87
+ORD10990,2025-01-15,Pacific Traders,UPS,Networking,South,4,5075.68,20302.72,13601.44,6701.28
+ORD11053,2025-01-15,Future Tech,Filing Cabinet,Furniture,West,5,7427.17,37135.85,23945.66,13190.19
+ORD10947,2025-01-16,Golden Traders,Notebook Pack,Office Accessories,North,2,535.22,1070.44,553.36,517.08
+ORD10776,2025-01-16,Indigo Stores,Whiteboard,Office Accessories,North,3,3360.09,10080.27,5898.27,4182.0
+ORD10975,2025-01-16,Digital Hub,Visitor Chair,Furniture,East,1,4372.39,4372.39,2755.92,1616.47
+ORD10341,2025-01-16,Capital Traders,Laptop Stand,Office Accessories,South,3,1293.52,3880.56,2128.21,1752.35
+ORD10919,2025-01-16,Apex Supplies,Wi-Fi Adapter,Networking,West,2,1919.45,3838.9,2112.42,1726.48
+ORD10963,2025-01-17,Acme Solutions,Keyboard,Electronics,Central,6,1474.02,8844.12,4977.97,3866.15
+ORD11453,2025-01-17,Silver Stores,Cloud Backup,Software,South,1,4633.85,4633.85,2654.22,1979.63
+ORD10865,2025-01-17,Vantage Supplies,Monitor 27-inch,Electronics,Central,12,18266.46,219197.52,162495.33,56702.19
+ORD10133,2025-01-17,Westline Traders,Pen Set,Office Accessories,South,4,291.46,1165.84,462.1,703.74
+ORD10949,2025-01-18,Nexus Stores,Power Bank,Electronics,East,8,1874.29,14994.32,8404.97,6589.35
+ORD11280,2025-01-19,Matrix Systems,Printer,Electronics,East,4,14452.35,57809.4,41917.21,15892.19
+ORD10250,2025-01-19,Beta Enterprises,Conference Table,Furniture,North,3,29548.27,88644.81,59510.03,29134.78
+ORD10312,2025-01-19,Dawn Stores,Conference Table,Furniture,North,1,29800.05,29800.05,20066.81,9733.24
+ORD10622,2025-01-19,Vision Mart,Visitor Chair,Furniture,Central,1,4183.65,4183.65,2710.94,1472.71
+ORD10524,2025-01-19,Pioneer Retail,Keyboard,Electronics,South,4,1457.79,5831.16,3310.7,2520.46
+ORD10146,2025-01-20,Trinity Stores,Monitor 27-inch,Electronics,South,2,19436.07,38872.14,26703.56,12168.58
+ORD10306,2025-01-20,Xenon Stores,Filing Cabinet,Furniture,Central,5,7628.08,38140.4,23943.01,14197.39
+ORD10889,2025-01-20,Greenfield Retail,Standing Desk,Furniture,South,2,18690.88,37381.76,24266.57,13115.19
+ORD10076,2025-01-20,ABC Enterprises,Ethernet Cable,Networking,East,1,635.82,635.82,295.07,340.75
+ORD10326,2025-01-21,Omega Traders,Ethernet Cable,Networking,South,1,678.78,678.78,292.59,386.19
+ORD10982,2025-01-21,Quantum Solutions,Conference Table,Furniture,West,2,27758.33,55516.66,40991.85,14524.81
+ORD11274,2025-01-21,River Enterprises,Visitor Chair,Furniture,South,4,4110.75,16443.0,10600.52,5842.48
+ORD11012,2025-01-22,Quest Supplies,Keyboard,Electronics,Central,1,1414.09,1414.09,877.41,536.68
+ORD11068,2025-01-22,Cobalt Retail,Pen Set,Office Accessories,North,4,301.49,1205.96,468.51,737.45
+ORD10036,2025-01-22,Quantum Solutions,Power Bank,Electronics,South,12,1801.98,21623.76,12995.18,8628.58
+ORD10532,2025-01-22,Golden Traders,USB Hub,Electronics,East,2,1122.47,2244.94,1286.43,958.51
+ORD10299,2025-01-22,Terra Traders,Tablet,Electronics,North,1,21371.37,21371.37,16305.04,5066.33
+ORD11443,2025-01-22,Jade Enterprises,Notebook Pack,Office Accessories,Central,2,584.27,1168.54,572.61,595.93
+ORD10417,2025-01-23,Summit Enterprises,Barcode Scanner,Electronics,East,3,6054.36,18163.08,11210.81,6952.27
+ORD10425,2025-01-23,Apex Supplies,Office Suite,Software,Central,5,6427.11,32135.55,17633.82,14501.73
+ORD10528,2025-01-25,Future Tech,Keyboard,Electronics,North,3,1444.37,4333.11,2588.48,1744.63
+ORD10161,2025-01-25,Pacific Traders,Ethernet Cable,Networking,North,3,636.19,1908.57,935.11,973.46
+ORD10637,2025-01-25,Platinum Retail,Scanner,Electronics,North,1,8445.86,8445.86,5700.25,2745.61
+ORD10271,2025-01-25,Orbit Stores,Printer,Electronics,North,2,13903.5,27807.0,20203.36,7603.64
+ORD11226,2025-01-25,Jade Enterprises,Monitor 27-inch,Electronics,Central,2,17998.38,35996.76,27618.9,8377.86
+ORD10968,2025-01-26,Metro Stores,USB Hub,Electronics,West,2,1162.15,2324.3,1243.62,1080.68
+ORD10564,2025-01-26,Urban Office,Filing Cabinet,Furniture,North,4,7172.21,28688.84,18511.86,10176.98
+ORD10334,2025-01-26,Heritage Enterprises,Wireless Mouse,Electronics,East,1,909.28,909.28,537.02,372.26
+ORD11277,2025-01-26,Lighthouse Supplies,Notebook Pack,Office Accessories,West,3,568.52,1705.56,813.66,891.9
+ORD11376,2025-01-26,Orbit Stores,Headset,Electronics,Central,3,2313.47,6940.41,3804.01,3136.4
+ORD10848,2025-01-27,Harbor Enterprises,Monitor 24-inch,Electronics,West,10,12354.29,123542.9,89823.34,33719.56
+ORD10871,2025-01-27,Jade Traders,Tablet,Electronics,South,6,21298.83,127792.98,101358.08,26434.9
+ORD11249,2025-01-28,Emerald Enterprises,Headset,Electronics,West,1,2262.67,2262.67,1216.39,1046.28
+ORD11098,2025-01-28,Capital Traders,UPS,Networking,East,12,5067.04,60804.48,38485.05,22319.43
+ORD10154,2025-01-29,Zeta Traders,Office Suite,Software,South,6,6242.38,37454.28,21078.12,16376.16
+ORD11203,2025-01-29,Omega Traders,Keyboard,Electronics,West,3,1370.99,4112.97,2500.45,1612.52
+ORD10179,2025-01-29,Terra Traders,Desk Chair,Furniture,West,1,9016.67,9016.67,5488.15,3528.52
+ORD11417,2025-01-29,Jade Enterprises,Antivirus License,Software,North,3,2285.03,6855.09,3489.71,3365.38
+ORD11294,2025-01-29,Kite Retail,Standing Desk,Furniture,North,6,18122.46,108734.76,75146.62,33588.14
+ORD11231,2025-01-29,Liberty Supplies,Access Point,Networking,Central,4,6878.33,27513.32,17638.47,9874.85
+ORD10169,2025-01-29,Vertex Retail,External SSD,Electronics,North,1,7896.5,7896.5,5636.18,2260.32
+ORD11388,2025-01-30,Willow Supplies,Office Desk,Furniture,East,8,12667.54,101340.32,68710.66,32629.66
+ORD11293,2025-01-31,Vision Mart,Office Desk,Furniture,West,5,12210.07,61050.35,41649.5,19400.85
+ORD10574,2025-01-31,Vertex Retail,Filing Cabinet,Furniture,East,3,7592.36,22777.08,13982.0,8795.08
+ORD11183,2025-02-01,Liberty Supplies,Barcode Scanner,Electronics,Central,6,6327.66,37965.96,22232.84,15733.12
+ORD11221,2025-02-01,Willow Supplies,Email Security,Software,North,5,5196.03,25980.15,14505.56,11474.59
+ORD11361,2025-02-01,Falcon Stores,Pen Set,Office Accessories,West,3,292.48,877.44,355.21,522.23
+ORD11122,2025-02-02,Mosaic Enterprises,Wi-Fi Adapter,Networking,North,8,1744.4,13955.2,8541.72,5413.48
+ORD11406,2025-02-02,Kingdom Traders,Tablet,Electronics,West,8,22317.75,178542.0,132392.07,46149.93
+ORD10698,2025-02-02,NextGen Systems,Office Desk,Furniture,West,6,13419.62,80517.72,49050.03,31467.69
+ORD11257,2025-02-02,Royal Distributors,Monitor 24-inch,Electronics,Central,4,13392.67,53570.68,35145.83,18424.85
+ORD10168,2025-02-03,Everest Traders,Power Bank,Electronics,North,1,1753.4,1753.4,1040.25,713.15
+ORD11316,2025-02-03,Insight Solutions,Conference Table,Furniture,North,1,29586.6,29586.6,20618.17,8968.43
+ORD10887,2025-02-04,Willow Supplies,Keyboard,Electronics,East,2,1424.33,2848.66,1730.22,1118.44
+ORD11323,2025-02-04,Vantage Supplies,Document Shredder,Office Accessories,North,10,6793.49,67934.9,45590.67,22344.23
+ORD10362,2025-02-04,Brighton Traders,Wi-Fi Adapter,Networking,South,1,1933.66,1933.66,1010.11,923.55
+ORD10247,2025-02-05,Keystone Retail,Cloud Backup,Software,East,3,5062.94,15188.82,7831.34,7357.48
+ORD10156,2025-02-05,Nimbus Stores,Cloud Backup,Software,West,1,5085.11,5085.11,2672.05,2413.06
+ORD10851,2025-02-06,Beta Enterprises,Printer,Electronics,South,4,14934.4,59737.6,40910.26,18827.34
+ORD10409,2025-02-06,Anchor Retail,Laptop Stand,Office Accessories,West,1,1140.88,1140.88,724.48,416.4
+ORD11428,2025-02-06,Silver Stores,Project Management Tool,Software,North,3,7265.56,21796.68,12093.37,9703.31
+ORD10910,2025-02-06,Royal Distributors,Project Management Tool,Software,North,10,7511.68,75116.8,37829.59,37287.21
+ORD11220,2025-02-06,Apex Supplies,Barcode Scanner,Electronics,Central,2,5829.48,11658.96,7336.41,4322.55
+ORD11357,2025-02-07,Falcon Stores,Laptop Stand,Office Accessories,North,2,1295.55,2591.1,1430.51,1160.59
+ORD11498,2025-02-07,Beta Enterprises,CRM Subscription,Software,East,5,11537.48,57687.4,31858.87,25828.53
+ORD10599,2025-02-07,Indigo Stores,CRM Subscription,Software,South,8,12552.94,100423.52,48716.98,51706.54
+ORD10297,2025-02-08,Kingdom Traders,Bookshelf,Furniture,Central,8,6682.98,53463.84,35101.88,18361.96
+ORD10899,2025-02-08,Woodland Enterprises,UPS,Networking,West,2,4954.63,9909.26,6384.46,3524.8
+ORD10820,2025-02-08,Quest Supplies,Pen Set,Office Accessories,North,3,315.54,946.62,367.2,579.42
+ORD10029,2025-02-08,Pioneer Retail,Ethernet Cable,Networking,Central,6,674.6,4047.6,1833.87,2213.73
+ORD10246,2025-02-08,Beacon Supplies,Printer,Electronics,North,1,14331.6,14331.6,10746.46,3585.14
+ORD11236,2025-02-10,Titan Supplies,Webcam,Electronics,South,5,2966.42,14832.1,8363.33,6468.77
+ORD10011,2025-02-10,Cobalt Retail,External SSD,Electronics,South,6,7485.59,44913.54,34908.75,10004.79
+ORD10384,2025-02-10,Xpress Enterprises,Notebook Pack,Office Accessories,North,2,564.13,1128.26,554.23,574.03
+ORD10209,2025-02-10,Crest Enterprises,Bookshelf,Furniture,East,8,7091.25,56730.0,35230.36,21499.64
+ORD10503,2025-02-10,Summit Enterprises,Cloud Backup,Software,North,2,4968.09,9936.18,5332.44,4603.74
+ORD10220,2025-02-10,Kite Retail,Scanner,Electronics,West,3,8471.95,25415.85,17831.62,7584.23
+ORD10913,2025-02-11,Granite Supplies,Webcam,Electronics,West,4,2763.3,11053.2,6905.46,4147.74
+ORD11456,2025-02-11,Bright Mart,Conference Camera,Electronics,North,2,16885.43,33770.86,21709.24,12061.62
+ORD11309,2025-02-11,Nimbus Stores,Wi-Fi Adapter,Networking,North,3,1787.46,5362.38,3210.56,2151.82
+ORD10773,2025-02-11,Greenfield Retail,Standing Desk,Furniture,South,6,18391.07,110346.42,76253.39,34093.03
+ORD10562,2025-02-12,Prime Retail,Router,Networking,East,6,4428.33,26569.98,16175.23,10394.75
+ORD10484,2025-02-12,Global Traders,Office Desk,Furniture,West,6,12975.37,77852.22,51510.12,26342.1
+ORD10623,2025-02-13,Flame Retail,Pen Set,Office Accessories,South,4,299.56,1198.24,470.6,727.64
+ORD11159,2025-02-13,Global Traders,External SSD,Electronics,South,3,7894.69,23684.07,16761.52,6922.55
+ORD10159,2025-02-13,Crest Enterprises,Wi-Fi Adapter,Networking,Central,10,1814.37,18143.7,10235.51,7908.19
+ORD10587,2025-02-14,ABC Enterprises,Cloud Backup,Software,South,2,4704.8,9409.6,5102.39,4307.21
+ORD10936,2025-02-14,Quest Supplies,Desk Chair,Furniture,West,1,8886.46,8886.46,5709.91,3176.55
+ORD10373,2025-02-14,Beacon Supplies,Laptop Stand,Office Accessories,West,2,1253.86,2507.72,1442.81,1064.91
+ORD10627,2025-02-14,Xpress Enterprises,Wireless Mouse,Electronics,South,8,964.31,7714.48,4298.58,3415.9
+ORD10878,2025-02-14,Vision Mart,Standing Desk,Furniture,North,6,17648.0,105888.0,77062.88,28825.12
+ORD10780,2025-02-14,Jade Traders,Document Shredder,Office Accessories,Central,1,6702.21,6702.21,4664.03,2038.18
+ORD10684,2025-02-15,Ultra Traders,Pen Set,Office Accessories,South,10,323.03,3230.3,1231.99,1998.31
+ORD11040,2025-02-15,Everest Traders,Project Management Tool,Software,North,1,7829.77,7829.77,3754.14,4075.63
+ORD10386,2025-02-16,Alpha Retail,Cloud Backup,Software,South,2,4882.76,9765.52,5149.63,4615.89
+ORD10489,2025-02-16,Terra Traders,Access Point,Networking,North,10,7440.66,74406.6,44603.61,29802.99
+ORD10176,2025-02-16,Beacon Supplies,Notebook Pack,Office Accessories,North,8,588.83,4710.64,2328.69,2381.95
+ORD11193,2025-02-16,Emerald Enterprises,Scanner,Electronics,West,2,8143.08,16286.16,11481.4,4804.76
+ORD10694,2025-02-16,Emerald Enterprises,UPS,Networking,South,4,4994.5,19978.0,13664.18,6313.82
+ORD10556,2025-02-17,Royal Distributors,Antivirus License,Software,East,6,2398.29,14389.74,7125.98,7263.76
+ORD11247,2025-02-17,Acme Solutions,Filing Cabinet,Furniture,North,5,7273.08,36365.4,24588.47,11776.93
+ORD10098,2025-02-17,Summit Enterprises,Wi-Fi Adapter,Networking,North,2,1898.65,3797.3,2141.71,1655.59
+ORD11174,2025-02-17,ABC Enterprises,Office Desk,Furniture,Central,8,12364.87,98918.96,65794.39,33124.57
+ORD11118,2025-02-17,River Enterprises,Conference Camera,Electronics,West,2,16888.83,33777.66,22607.07,11170.59
+ORD11176,2025-02-17,Cobalt Retail,Headset,Electronics,North,10,2248.68,22486.8,12341.02,10145.78
+ORD10969,2025-02-17,Loyalty Retail,Desk Organizer,Office Accessories,North,1,878.56,878.56,398.19,480.37
+ORD10014,2025-02-17,Acme Solutions,Notebook Pack,Office Accessories,Central,4,570.11,2280.44,1128.18,1152.26
+ORD10733,2025-02-17,Horizon Supplies,Access Point,Networking,South,5,7563.22,37816.1,22378.22,15437.88
+ORD10533,2025-02-18,Eagle Traders,Ethernet Cable,Networking,Central,2,685.42,1370.84,596.81,774.03
+ORD11130,2025-02-18,Metro Stores,Access Point,Networking,West,4,6876.32,27505.28,17158.98,10346.3
+ORD10928,2025-02-18,Yellow Stores,CRM Subscription,Software,West,1,11410.67,11410.67,6183.64,5227.03
+ORD10846,2025-02-18,Fusion Retail,Pen Set,Office Accessories,South,1,316.1,316.1,120.08,196.02
+ORD10799,2025-02-18,Smart Retail,Desk Organizer,Office Accessories,South,3,881.95,2645.85,1165.35,1480.5
+ORD10318,2025-02-18,Tech Solutions,Office Suite,Software,North,3,6279.27,18837.81,9900.92,8936.89
+ORD10993,2025-02-19,Dawn Stores,Scanner,Electronics,West,3,8765.73,26297.19,18331.8,7965.39
+ORD10300,2025-02-19,Loyalty Retail,UPS,Networking,East,3,5041.86,15125.58,9775.17,5350.41
+ORD11278,2025-02-20,Fusion Retail,Wi-Fi Adapter,Networking,North,2,1909.68,3819.36,2161.07,1658.29
+ORD11198,2025-02-20,Willow Supplies,Monitor 24-inch,Electronics,West,3,13068.12,39204.36,26039.04,13165.32
+ORD10901,2025-02-20,Junction Traders,Wireless Mouse,Electronics,West,6,937.08,5622.48,3109.85,2512.63
+ORD10390,2025-02-20,Core Systems,USB Hub,Electronics,Central,5,1110.57,5552.85,3047.73,2505.12
+ORD10086,2025-02-20,Zenith Solutions,Printer,Electronics,South,2,15430.45,30860.9,21431.76,9429.14
+ORD10129,2025-02-20,ABC Enterprises,External SSD,Electronics,North,1,8262.21,8262.21,5783.99,2478.22
+ORD11206,2025-02-21,Zeta Traders,Office Desk,Furniture,South,1,12759.3,12759.3,8165.45,4593.85
+ORD10023,2025-02-21,Willow Supplies,Bookshelf,Furniture,North,2,6899.57,13799.14,8463.0,5336.14
+ORD10244,2025-02-21,Beta Enterprises,Conference Camera,Electronics,West,10,16816.7,168167.0,112725.15,55441.85
+ORD10615,2025-02-21,ABC Enterprises,Desk Organizer,Office Accessories,North,4,858.1,3432.4,1525.87,1906.53
+ORD10085,2025-02-22,Nimbus Stores,CRM Subscription,Software,North,5,11989.45,59947.25,30357.89,29589.36
+ORD10896,2025-02-22,Pacific Traders,Email Security,Software,East,2,5706.44,11412.88,5810.33,5602.55
+ORD11147,2025-02-23,Vertex Retail,Cloud Backup,Software,Central,2,4863.29,9726.58,5268.27,4458.31
+ORD11330,2025-02-23,Dawn Stores,Router,Networking,South,4,4108.01,16432.04,10475.61,5956.43
+ORD11191,2025-02-23,Platinum Retail,Project Management Tool,Software,South,12,7672.12,92065.44,47501.76,44563.68
+ORD10639,2025-02-23,Zeta Traders,Filing Cabinet,Furniture,East,3,6849.07,20547.21,14812.36,5734.85
+ORD10008,2025-02-23,Zenith Solutions,Monitor 24-inch,Electronics,South,1,13450.58,13450.58,9198.1,4252.48
+ORD10674,2025-02-23,Jupiter Mart,Pen Set,Office Accessories,East,3,288.42,865.26,347.5,517.76
+ORD11080,2025-02-23,Vertex Retail,Access Point,Networking,West,2,7478.09,14956.18,8594.28,6361.9
+ORD11424,2025-02-23,Kite Retail,Email Security,Software,West,2,5586.51,11173.02,5523.39,5649.63
+ORD10088,2025-02-23,Mosaic Enterprises,Monitor 27-inch,Electronics,South,1,19479.32,19479.32,13597.15,5882.17
+ORD10139,2025-02-24,Zenith Solutions,Access Point,Networking,South,5,7094.87,35474.35,22699.48,12774.87
+ORD11473,2025-02-24,Liberty Supplies,Cloud Backup,Software,North,2,4893.92,9787.84,5278.88,4508.96
+ORD10415,2025-02-24,Greenfield Retail,Conference Camera,Electronics,East,1,16926.09,16926.09,11506.64,5419.45
+ORD10984,2025-02-24,Pacific Traders,Laptop Stand,Office Accessories,West,10,1283.06,12830.6,7046.72,5783.88
+ORD11128,2025-02-24,Beacon Supplies,Desk Organizer,Office Accessories,North,6,848.27,5089.62,2406.38,2683.24
+ORD10782,2025-02-24,Smart Retail,Document Shredder,Office Accessories,South,3,7008.29,21024.87,13475.96,7548.91
+ORD10941,2025-02-24,Trinity Stores,Keyboard,Electronics,South,12,1416.37,16996.44,10457.9,6538.54
+ORD10275,2025-02-25,Nimbus Stores,Router,Networking,West,12,4120.59,49447.08,30307.05,19140.03
+ORD10509,2025-02-25,Fusion Retail,Office Suite,Software,South,3,6594.22,19782.66,10312.57,9470.09
+ORD10067,2025-02-26,Jade Enterprises,Access Point,Networking,North,1,7302.78,7302.78,4244.26,3058.52
+ORD11131,2025-02-26,Titan Supplies,External SSD,Electronics,North,2,8257.59,16515.18,10842.74,5672.44
+ORD11151,2025-02-26,Matrix Systems,Ethernet Cable,Networking,East,2,656.44,1312.88,608.22,704.66
+ORD11382,2025-02-26,Golden Traders,Webcam,Electronics,South,1,2837.57,2837.57,1674.78,1162.79
+ORD10258,2025-02-27,Vantage Supplies,Keyboard,Electronics,Central,1,1339.53,1339.53,841.74,497.79
+ORD11026,2025-02-27,Value Retail,External SSD,Electronics,West,12,7587.79,91053.48,64566.38,26487.1
+ORD11009,2025-02-27,Orbit Stores,Desk Chair,Furniture,West,5,8745.42,43727.1,27740.28,15986.82
+ORD11195,2025-02-28,Everest Traders,Conference Table,Furniture,South,3,28307.78,84923.34,59390.21,25533.13
+ORD10440,2025-02-28,Royal Distributors,Monitor 24-inch,Electronics,South,8,13028.97,104231.76,74519.3,29712.46
+ORD10184,2025-02-28,Dawn Stores,Printer,Electronics,West,6,15089.73,90538.38,63907.91,26630.47
+ORD11415,2025-02-28,Emerald Enterprises,Project Management Tool,Software,North,3,8049.04,24147.12,11350.28,12796.84
+ORD11124,2025-02-28,Golden Traders,Document Shredder,Office Accessories,North,10,7284.84,72848.4,46334.42,26513.98
+ORD11092,2025-03-01,Galaxy Supplies,Document Shredder,Office Accessories,East,1,6605.03,6605.03,4422.67,2182.36
+ORD10555,2025-03-02,Indigo Stores,External SSD,Electronics,East,5,7858.49,39292.45,28464.57,10827.88
+ORD10611,2025-03-02,Zeta Traders,Monitor 27-inch,Electronics,Central,1,17756.96,17756.96,13350.46,4406.5
+ORD11027,2025-03-03,Value Retail,Whiteboard,Office Accessories,North,3,3230.61,9691.83,5902.93,3788.9
+ORD10536,2025-03-03,Terra Traders,Desk Chair,Furniture,North,1,8963.97,8963.97,5824.4,3139.57
+ORD11212,2025-03-03,Prime Retail,UPS,Networking,South,2,5101.71,10203.42,6751.52,3451.9
+ORD11171,2025-03-03,Capital Traders,Wi-Fi Adapter,Networking,West,1,1720.27,1720.27,1068.51,651.76
+ORD10064,2025-03-03,Omega Traders,Cloud Backup,Software,North,6,4759.71,28558.26,16093.61,12464.65
+ORD10535,2025-03-03,Falcon Stores,Monitor 24-inch,Electronics,South,3,13049.45,39148.35,27338.54,11809.81
+ORD10856,2025-03-03,Insight Solutions,UPS,Networking,West,3,5572.62,16717.86,9865.99,6851.87
+ORD10504,2025-03-04,Fusion Retail,Document Shredder,Office Accessories,South,2,6699.39,13398.78,8818.24,4580.54
+ORD11005,2025-03-04,Golden Traders,Whiteboard,Office Accessories,West,1,3372.16,3372.16,1931.5,1440.66
+ORD10132,2025-03-04,Falcon Stores,Desk Organizer,Office Accessories,West,6,909.49,5456.94,2333.58,3123.36
+ORD10046,2025-03-04,Kite Retail,Project Management Tool,Software,South,4,7154.74,28618.96,15022.61,13596.35
+ORD11385,2025-03-04,Prime Retail,Notebook Pack,Office Accessories,West,5,579.52,2897.6,1404.25,1493.35
+ORD10134,2025-03-04,Vantage Supplies,Project Management Tool,Software,Central,2,7332.36,14664.72,7809.47,6855.25
+ORD10119,2025-03-04,Granite Supplies,Router,Networking,East,4,4184.03,16736.12,10309.71,6426.41
+ORD10598,2025-03-04,Willow Supplies,Antivirus License,Software,South,4,2466.36,9865.44,4858.9,5006.54
+ORD10723,2025-03-05,Horizon Supplies,Notebook Pack,Office Accessories,East,3,552.41,1657.23,830.44,826.79
+ORD10983,2025-03-07,Kite Retail,Desk Chair,Furniture,South,5,8098.37,40491.85,28315.17,12176.68
+ORD11127,2025-03-07,Xpress Enterprises,Project Management Tool,Software,South,3,8036.45,24109.35,12013.52,12095.83
+ORD10607,2025-03-07,Acme Solutions,Power Bank,Electronics,North,10,1851.29,18512.9,10805.03,7707.87
+ORD11032,2025-03-08,Vantage Supplies,Access Point,Networking,West,2,7368.8,14737.6,8510.05,6227.55
+ORD10103,2025-03-08,Urban Office,Ethernet Cable,Networking,East,1,662.89,662.89,302.08,360.81
+ORD11445,2025-03-09,Brighton Traders,Standing Desk,Furniture,West,4,19622.82,78491.28,50436.78,28054.5
+ORD10931,2025-03-10,Crest Enterprises,Desk Chair,Furniture,Central,4,8598.85,34395.4,23485.25,10910.15
+ORD10964,2025-03-10,Granite Supplies,Desk Chair,Furniture,East,10,8277.1,82771.0,57307.54,25463.46
+ORD11338,2025-03-10,Fusion Retail,CRM Subscription,Software,West,5,12712.65,63563.25,31291.88,32271.37
+ORD10488,2025-03-10,Junction Traders,Document Shredder,Office Accessories,North,2,6842.57,13685.14,9133.52,4551.62
+ORD10996,2025-03-10,Alpha Retail,Monitor 24-inch,Electronics,North,1,12606.35,12606.35,8787.4,3818.95
+ORD11172,2025-03-11,Acme Solutions,Laptop Stand,Office Accessories,North,4,1140.06,4560.24,2868.52,1691.72
+ORD10609,2025-03-11,Acme Solutions,Notebook Pack,Office Accessories,East,4,589.11,2356.44,1148.76,1207.68
+ORD10697,2025-03-11,Titan Supplies,Headset,Electronics,West,6,2224.28,13345.68,7453.59,5892.09
+ORD11074,2025-03-12,Yardley Traders,Router,Networking,South,6,4165.06,24990.36,15198.56,9791.8
+ORD11091,2025-03-12,Zenith Solutions,Notebook Pack,Office Accessories,Central,10,535.05,5350.5,2727.77,2622.73
+ORD11347,2025-03-13,Nimbus Stores,Webcam,Electronics,East,1,2818.81,2818.81,1762.87,1055.94
+ORD11343,2025-03-13,Union Retail,Desk Chair,Furniture,West,3,8146.83,24440.49,17545.02,6895.47
+ORD10174,2025-03-13,Oak Traders,Cloud Backup,Software,North,6,4703.88,28223.28,16012.64,12210.64
+ORD10087,2025-03-13,Pioneer Retail,Access Point,Networking,West,4,7327.01,29308.04,17983.42,11324.62
+ORD11216,2025-03-13,Jupiter Mart,CRM Subscription,Software,Central,2,11699.32,23398.64,11964.73,11433.91
+ORD10337,2025-03-13,Heritage Enterprises,Desk Chair,Furniture,South,2,9086.17,18172.34,11430.12,6742.22
+ORD10097,2025-03-14,Icon Supplies,Whiteboard,Office Accessories,North,5,3301.21,16506.05,9182.14,7323.91
+ORD10157,2025-03-14,Heritage Enterprises,Desk Chair,Furniture,South,2,8531.14,17062.28,11586.89,5475.39
+ORD10677,2025-03-14,Keystone Retail,Access Point,Networking,West,8,7307.96,58463.68,35848.38,22615.3
+ORD11485,2025-03-15,Silver Stores,UPS,Networking,Central,8,5025.21,40201.68,27192.44,13009.24
+ORD10559,2025-03-16,Diamond Supplies,Office Suite,Software,East,4,5933.84,23735.36,13756.95,9978.41
+ORD10315,2025-03-16,Beacon Supplies,Access Point,Networking,Central,4,7390.15,29560.6,17155.74,12404.86
+ORD10829,2025-03-17,Acme Solutions,Wireless Mouse,Electronics,West,1,967.75,967.75,514.88,452.87
+ORD10797,2025-03-17,Summit Enterprises,Keyboard,Electronics,West,3,1484.42,4453.26,2522.1,1931.16
+ORD11370,2025-03-17,Haven Retail,Conference Table,Furniture,West,6,27575.32,165451.92,122691.53,42760.39
+ORD10151,2025-03-17,Unity Enterprises,Notebook Pack,Office Accessories,West,1,532.51,532.51,274.71,257.8
+ORD11088,2025-03-18,Nexus Stores,Desk Organizer,Office Accessories,North,1,905.68,905.68,388.19,517.49
+ORD10549,2025-03-18,Delta Stores,Email Security,Software,North,1,5655.1,5655.1,2870.05,2785.05
+ORD10973,2025-03-18,Acme Solutions,Barcode Scanner,Electronics,South,5,5784.24,28921.2,18706.02,10215.18
+ORD11450,2025-03-19,Rapid Supplies,Barcode Scanner,Electronics,West,6,6055.76,36334.56,21759.88,14574.68
+ORD10292,2025-03-19,Kingdom Traders,Desk Organizer,Office Accessories,North,3,812.14,2436.42,1213.85,1222.57
+ORD11036,2025-03-20,Horizon Supplies,Desk Chair,Furniture,West,2,9053.94,18107.88,11650.73,6457.15
+ORD10783,2025-03-20,Matrix Systems,Keyboard,Electronics,West,1,1356.58,1356.58,879.79,476.79
+ORD10286,2025-03-20,Vision Mart,Wi-Fi Adapter,Networking,Central,1,1831.31,1831.31,1020.61,810.7
+ORD10981,2025-03-21,BlueSky Enterprises,Webcam,Electronics,South,2,2858.06,5716.12,3414.07,2302.05
+ORD11192,2025-03-21,Nexus Stores,Filing Cabinet,Furniture,West,2,7236.68,14473.36,9715.1,4758.26
+ORD11184,2025-03-21,Platinum Retail,Webcam,Electronics,Central,10,2731.0,27310.0,17626.37,9683.63
+ORD10761,2025-03-22,Rapid Supplies,Access Point,Networking,North,6,7082.99,42497.94,25347.47,17150.47
+ORD11458,2025-03-22,Urban Office,Project Management Tool,Software,South,5,7331.42,36657.1,18946.65,17710.45
+ORD10182,2025-03-22,Fusion Retail,Barcode Scanner,Electronics,West,3,6300.3,18900.9,11163.33,7737.57
+ORD11348,2025-03-22,Smart Retail,Bookshelf,Furniture,North,6,6767.66,40605.96,26609.4,13996.56
+ORD11077,2025-03-23,Junction Traders,Laptop Stand,Office Accessories,North,1,1193.92,1193.92,717.23,476.69
+ORD11341,2025-03-23,Brighton Traders,Whiteboard,Office Accessories,South,1,3291.72,3291.72,1884.15,1407.57
+ORD11296,2025-03-23,Greenfield Retail,Pen Set,Office Accessories,South,6,298.51,1791.06,747.25,1043.81
+ORD10236,2025-03-23,Cobalt Retail,Printer,Electronics,South,5,14596.07,72980.35,53834.9,19145.45
+ORD10933,2025-03-23,Crest Enterprises,Access Point,Networking,North,2,7450.54,14901.08,8733.26,6167.82
+ORD10635,2025-03-24,Royal Distributors,Monitor 27-inch,Electronics,North,2,18889.23,37778.46,26821.14,10957.32
+ORD11454,2025-03-24,Sharma Distributors,Document Shredder,Office Accessories,West,8,6539.66,52317.28,36778.99,15538.29
+ORD11494,2025-03-24,Elite Stores,Conference Camera,Electronics,South,5,15953.22,79766.1,55792.82,23973.28
+ORD10455,2025-03-25,Core Systems,Pen Set,Office Accessories,North,5,318.35,1591.75,604.95,986.8
+ORD11444,2025-03-25,Bright Mart,Document Shredder,Office Accessories,West,2,7188.5,14377.0,8643.83,5733.17
+ORD10991,2025-03-25,Zeta Traders,Router,Networking,West,4,4371.86,17487.44,10077.19,7410.25
+ORD11110,2025-03-26,Granite Supplies,Barcode Scanner,Electronics,North,2,6261.49,12522.98,7361.33,5161.65
+ORD11060,2025-03-27,Sharma Distributors,Desk Organizer,Office Accessories,West,3,882.25,2646.75,1140.98,1505.77
+ORD10553,2025-03-27,Vision Mart,Email Security,Software,North,1,5773.46,5773.46,2846.18,2927.28
+ORD10448,2025-03-27,Prime Retail,Ethernet Cable,Networking,North,3,632.74,1898.22,897.02,1001.2
+ORD10573,2025-03-27,Brighton Traders,Monitor 24-inch,Electronics,North,1,12431.8,12431.8,9262.55,3169.25
+ORD11329,2025-03-27,Granite Supplies,Ethernet Cable,Networking,South,1,645.22,645.22,303.85,341.37
+ORD10305,2025-03-27,Zenith Solutions,Whiteboard,Office Accessories,West,6,3386.4,20318.4,10954.06,9364.34
+ORD10804,2025-03-28,Global Traders,Router,Networking,North,2,4201.68,8403.36,5049.56,3353.8
+ORD10140,2025-03-28,Xpress Enterprises,Tablet,Electronics,North,6,23379.6,140277.6,100057.99,40219.61
+ORD11254,2025-03-28,Alpha Retail,External SSD,Electronics,North,6,7712.73,46276.38,34739.02,11537.36
+ORD10287,2025-03-28,ABC Enterprises,CRM Subscription,Software,North,1,11459.31,11459.31,6322.12,5137.19
+ORD11207,2025-03-28,Harbor Enterprises,Barcode Scanner,Electronics,Central,2,6278.21,12556.42,7585.38,4971.04
+ORD10766,2025-03-28,River Enterprises,Pen Set,Office Accessories,West,1,300.28,300.28,122.9,177.38
+ORD11181,2025-03-29,Golden Traders,Pen Set,Office Accessories,West,6,294.07,1764.42,726.2,1038.22
+ORD11144,2025-03-29,Anchor Retail,Filing Cabinet,Furniture,East,4,7130.02,28520.08,18563.78,9956.3
+ORD10002,2025-03-29,Cobalt Retail,Conference Table,Furniture,West,1,29486.54,29486.54,19772.51,9714.03
+ORD10477,2025-03-29,ABC Enterprises,Wireless Mouse,Electronics,North,4,938.58,3754.32,2073.63,1680.69
+ORD10237,2025-03-30,Kingdom Traders,Office Suite,Software,South,2,6185.37,12370.74,6743.52,5627.22
+ORD11237,2025-03-30,Terra Traders,Antivirus License,Software,West,4,2496.15,9984.6,4942.45,5042.15
+ORD10759,2025-03-30,Alpha Retail,Power Bank,Electronics,Central,3,1808.79,5426.37,3221.84,2204.53
+ORD11342,2025-03-30,Diamond Supplies,Conference Camera,Electronics,West,1,15802.03,15802.03,10846.44,4955.59
+ORD10178,2025-03-30,Willow Supplies,Desk Chair,Furniture,North,8,9025.44,72203.52,45444.71,26758.81
+ORD10661,2025-03-30,Vertex Retail,Wireless Mouse,Electronics,North,3,869.79,2609.37,1501.07,1108.3
+ORD10577,2025-03-30,Elite Stores,Ethernet Cable,Networking,North,4,683.16,2732.64,1234.77,1497.87
+ORD11177,2025-03-30,Omega Traders,Laptop Stand,Office Accessories,West,3,1165.07,3495.21,2180.35,1314.86
+ORD10563,2025-03-31,Granite Supplies,Power Bank,Electronics,Central,8,1846.77,14774.16,8624.31,6149.85
+ORD10912,2025-03-31,Brighton Traders,External SSD,Electronics,West,5,8044.41,40222.05,28180.89,12041.16
+ORD10696,2025-03-31,Emerald Enterprises,Webcam,Electronics,North,4,2777.61,11110.44,7065.34,4045.1
+ORD10845,2025-03-31,Iris Stores,Email Security,Software,East,5,5184.39,25921.95,13756.19,12165.76
+ORD10370,2025-03-31,Ultra Traders,Access Point,Networking,Central,6,7375.44,44252.64,26426.75,17825.89
+ORD11394,2025-03-31,Xpress Enterprises,Pen Set,Office Accessories,East,3,295.74,887.22,353.23,533.99
+ORD11243,2025-04-01,Mosaic Enterprises,Notebook Pack,Office Accessories,North,2,526.01,1052.02,538.99,513.03
+ORD10436,2025-04-02,Icon Supplies,Bookshelf,Furniture,South,1,6474.98,6474.98,4392.93,2082.05
+ORD11156,2025-04-02,Silver Stores,Desk Chair,Furniture,North,4,8764.73,35058.92,22128.83,12930.09
+ORD11057,2025-04-02,Sharma Distributors,Power Bank,Electronics,North,3,1730.15,5190.45,3164.9,2025.55
+ORD11058,2025-04-02,Summit Enterprises,Filing Cabinet,Furniture,North,2,7328.43,14656.86,9665.78,4991.08
+ORD10395,2025-04-02,Rapid Supplies,Pen Set,Office Accessories,West,12,290.87,3490.44,1476.49,2013.95
+ORD10449,2025-04-03,Platinum Retail,Headset,Electronics,West,2,2104.29,4208.58,2568.73,1639.85
+ORD10688,2025-04-03,Mosaic Enterprises,Router,Networking,East,3,4528.25,13584.75,7488.12,6096.63
+ORD10238,2025-04-03,Emerald Enterprises,Desk Organizer,Office Accessories,East,4,867.8,3471.2,1553.06,1918.14
+ORD11470,2025-04-03,Nexus Stores,Bookshelf,Furniture,East,3,6867.55,20602.65,12720.32,7882.33
+ORD10223,2025-04-03,Urban Office,Office Desk,Furniture,East,4,12111.85,48447.4,33862.46,14584.94
+ORD11182,2025-04-04,BlueSky Enterprises,Conference Camera,Electronics,East,5,17094.11,85470.55,54818.79,30651.76
+ORD10114,2025-04-04,Silver Stores,UPS,Networking,Central,10,5501.5,55015.0,34227.67,20787.33
+ORD10542,2025-04-04,Vantage Supplies,Power Bank,Electronics,East,8,1828.65,14629.2,8190.28,6438.92
+ORD10521,2025-04-04,Vision Mart,Project Management Tool,Software,Central,3,7461.6,22384.8,11619.69,10765.11
+ORD11136,2025-04-04,Apex Supplies,CRM Subscription,Software,East,6,11814.99,70889.94,37470.27,33419.67
+ORD11476,2025-04-05,Zenith Solutions,CRM Subscription,Software,North,3,12248.92,36746.76,18664.68,18082.08
+ORD10270,2025-04-05,Summit Enterprises,Scanner,Electronics,East,1,9067.58,9067.58,6055.44,3012.14
+ORD10125,2025-04-05,Apex Supplies,Conference Table,Furniture,Central,3,28007.92,84023.76,60740.82,23282.94
+ORD10582,2025-04-05,Zeta Traders,Monitor 24-inch,Electronics,North,12,13390.02,160680.24,110087.45,50592.79
+ORD11317,2025-04-05,Insight Solutions,Wi-Fi Adapter,Networking,North,2,1794.99,3589.98,2024.78,1565.2
+ORD10632,2025-04-06,Vision Mart,Monitor 24-inch,Electronics,West,2,12255.08,24510.16,17583.68,6926.48
+ORD10421,2025-04-06,Galaxy Supplies,Project Management Tool,Software,South,5,7186.12,35930.6,20029.37,15901.23
+ORD10781,2025-04-07,Junction Traders,Router,Networking,North,4,4455.7,17822.8,10080.36,7742.44
+ORD11223,2025-04-07,Greenfield Retail,Antivirus License,Software,East,2,2280.4,4560.8,2327.07,2233.73
+ORD10907,2025-04-07,Dawn Stores,Webcam,Electronics,North,1,2697.08,2697.08,1755.91,941.17
+ORD10764,2025-04-07,Indigo Stores,Laptop Stand,Office Accessories,West,1,1219.93,1219.93,691.53,528.4
+ORD10122,2025-04-07,Granite Supplies,CRM Subscription,Software,West,5,11623.28,58116.4,30267.27,27849.13
+ORD10670,2025-04-08,Silver Stores,Monitor 27-inch,Electronics,North,1,18541.88,18541.88,13747.25,4794.63
+ORD11016,2025-04-08,Trinity Stores,Desk Chair,Furniture,Central,1,8505.33,8505.33,5905.98,2599.35
+ORD10040,2025-04-09,Westline Traders,Document Shredder,Office Accessories,South,1,6730.24,6730.24,4388.73,2341.51
+ORD10952,2025-04-09,Pioneer Retail,Scanner,Electronics,Central,3,8217.97,24653.91,17524.16,7129.75
+ORD10396,2025-04-09,Core Systems,Ethernet Cable,Networking,West,4,665.61,2662.44,1211.58,1450.86
+ORD10332,2025-04-09,Acme Solutions,Barcode Scanner,Electronics,North,2,5731.33,11462.66,7299.49,4163.17
+ORD10900,2025-04-09,Yardley Traders,Visitor Chair,Furniture,North,4,4526.44,18105.76,11155.81,6949.95
+ORD11462,2025-04-09,Union Retail,Access Point,Networking,East,10,7599.86,75998.6,44851.25,31147.35
+ORD10720,2025-04-09,Brighton Traders,Standing Desk,Furniture,East,4,18680.45,74721.8,50703.05,24018.75
+ORD10868,2025-04-09,Elite Stores,Notebook Pack,Office Accessories,North,2,547.31,1094.62,556.94,537.68
+ORD10742,2025-04-09,Acme Solutions,Ethernet Cable,Networking,South,2,643.97,1287.94,606.53,681.41
+ORD10353,2025-04-10,Yardley Traders,Headset,Electronics,North,1,2208.05,2208.05,1280.24,927.81
+ORD10423,2025-04-10,Willow Supplies,Ethernet Cable,Networking,Central,8,654.16,5233.28,2478.71,2754.57
+ORD10497,2025-04-10,Vertex Retail,Wireless Mouse,Electronics,East,6,965.77,5794.62,3021.63,2772.99
+ORD10943,2025-04-10,Titan Supplies,Project Management Tool,Software,East,2,7563.44,15126.88,7703.45,7423.43
+ORD10456,2025-04-11,Cobalt Retail,Tablet,Electronics,West,10,21554.02,215540.2,169805.85,45734.35
+ORD11149,2025-04-11,Golden Traders,Bookshelf,Furniture,North,6,6518.19,39109.14,26197.47,12911.67
+ORD10427,2025-04-11,Horizon Supplies,Access Point,Networking,East,3,7245.03,21735.09,13155.33,8579.76
+ORD10047,2025-04-11,Iris Stores,Document Shredder,Office Accessories,West,6,6700.04,40200.24,28004.94,12195.3
+ORD10727,2025-04-11,Galaxy Supplies,Tablet,Electronics,East,4,22369.2,89476.8,66061.28,23415.52
+ORD11255,2025-04-11,Kite Retail,Webcam,Electronics,North,5,2819.19,14095.95,8794.2,5301.75
+ORD10401,2025-04-12,Platinum Retail,Filing Cabinet,Furniture,Central,2,7553.04,15106.08,9512.86,5593.22
+ORD11404,2025-04-12,Terra Traders,Document Shredder,Office Accessories,West,2,6905.91,13811.82,9175.72,4636.1
+ORD10434,2025-04-12,Orbit Stores,Wi-Fi Adapter,Networking,Central,8,1772.4,14179.2,8551.1,5628.1
+ORD10204,2025-04-12,Quest Supplies,Headset,Electronics,Central,5,2304.26,11521.3,6072.96,5448.34
+ORD10342,2025-04-12,Prime Retail,UPS,Networking,East,4,5027.76,20111.04,13397.33,6713.71
+ORD10934,2025-04-12,Xpress Enterprises,Ethernet Cable,Networking,North,8,632.49,5059.92,2305.35,2754.57
+ORD10445,2025-04-12,Liberty Supplies,Pen Set,Office Accessories,North,5,306.01,1530.05,578.91,951.14
+ORD10001,2025-04-13,Xenon Stores,External SSD,Electronics,North,1,8200.61,8200.61,5643.39,2557.22
+ORD11441,2025-04-13,Summit Enterprises,Standing Desk,Furniture,North,1,18070.55,18070.55,12147.55,5923.0
+ORD10127,2025-04-14,Quest Supplies,Ethernet Cable,Networking,North,4,619.03,2476.12,1235.72,1240.4
+ORD11426,2025-04-14,Icon Supplies,Power Bank,Electronics,North,5,1792.44,8962.2,5165.56,3796.64
+ORD10033,2025-04-14,Orbit Stores,Cloud Backup,Software,North,4,4792.3,19169.2,10766.19,8403.01
+ORD10120,2025-04-14,Meridian Enterprises,Access Point,Networking,West,1,7719.68,7719.68,4444.95,3274.73
+ORD10378,2025-04-15,Woodland Enterprises,Office Desk,Furniture,North,2,12839.7,25679.4,16333.78,9345.62
+ORD11084,2025-04-15,Sharma Distributors,Project Management Tool,Software,North,2,7252.19,14504.38,7495.85,7008.53
+ORD11301,2025-04-15,Brighton Traders,Wireless Mouse,Electronics,South,3,894.0,2682.0,1553.65,1128.35
+ORD11004,2025-04-16,Titan Supplies,Headset,Electronics,East,2,2356.45,4712.9,2420.97,2291.93
+ORD10656,2025-04-16,Pioneer Retail,Pen Set,Office Accessories,West,3,287.38,862.14,353.89,508.25
+ORD11013,2025-04-17,Haven Retail,External SSD,Electronics,East,10,8090.26,80902.6,56736.62,24165.98
+ORD10508,2025-04-17,Core Systems,Desk Organizer,Office Accessories,West,2,903.1,1806.2,805.91,1000.29
+ORD10242,2025-04-17,Platinum Retail,Network Switch,Networking,South,4,6933.84,27735.36,16063.45,11671.91
+ORD11268,2025-04-17,Sharma Distributors,UPS,Networking,South,1,4946.22,4946.22,3333.6,1612.62
+ORD10885,2025-04-17,Yardley Traders,Keyboard,Electronics,West,2,1411.23,2822.46,1730.87,1091.59
+ORD10323,2025-04-17,Pioneer Retail,Cloud Backup,Software,South,4,4910.68,19642.72,10271.81,9370.91
+ORD11333,2025-04-18,Nexus Stores,Antivirus License,Software,West,1,2485.02,2485.02,1187.05,1297.97
+ORD10348,2025-04-18,Future Tech,Filing Cabinet,Furniture,North,6,7077.72,42466.32,27719.69,14746.63
+ORD10302,2025-04-18,Future Tech,Desk Organizer,Office Accessories,West,5,825.19,4125.95,1944.0,2181.95
+ORD10495,2025-04-18,Zenith Solutions,Antivirus License,Software,West,4,2482.33,9929.32,4710.68,5218.64
+ORD11010,2025-04-18,Oak Traders,Desk Organizer,Office Accessories,South,3,826.72,2480.16,1154.79,1325.37
+ORD10858,2025-04-18,Falcon Stores,Office Desk,Furniture,East,3,13351.91,40055.73,26081.79,13973.94
+ORD10019,2025-04-18,Golden Traders,Cloud Backup,Software,South,8,4896.55,39172.4,21311.58,17860.82
+ORD11488,2025-04-19,Insight Solutions,Visitor Chair,Furniture,East,2,4149.1,8298.2,5539.42,2758.78
+ORD10368,2025-04-19,Willow Supplies,Visitor Chair,Furniture,East,1,4323.49,4323.49,2652.63,1670.86
+ORD10870,2025-04-19,Acme Solutions,Laptop Stand,Office Accessories,South,2,1162.39,2324.78,1364.77,960.01
+ORD10925,2025-04-19,Trinity Stores,CRM Subscription,Software,North,1,11660.28,11660.28,6410.17,5250.11
+ORD11397,2025-04-19,Urban Office,Wireless Mouse,Electronics,Central,3,903.21,2709.63,1502.04,1207.59
+ORD11150,2025-04-19,Future Tech,Project Management Tool,Software,North,8,7524.77,60198.16,31155.06,29043.1
+ORD10239,2025-04-20,Pacific Traders,Scanner,Electronics,Central,4,8587.16,34348.64,23373.04,10975.6
+ORD11486,2025-04-20,Junction Traders,Keyboard,Electronics,East,4,1474.13,5896.52,3422.58,2473.94
+ORD11455,2025-04-20,Brighton Traders,Visitor Chair,Furniture,East,4,4138.82,16555.28,11121.02,5434.26
+ORD10545,2025-04-20,Trinity Stores,Printer,Electronics,West,4,15327.8,61311.2,40532.15,20779.05
+ORD11117,2025-04-20,Mosaic Enterprises,Filing Cabinet,Furniture,West,5,7469.3,37346.5,24059.91,13286.59
+ORD10359,2025-04-20,Haven Retail,Project Management Tool,Software,West,8,7305.7,58445.6,30149.11,28296.49
+ORD10713,2025-04-21,Liberty Supplies,Desk Chair,Furniture,Central,3,8101.53,24304.59,16874.79,7429.8
+ORD10106,2025-04-22,Nova Enterprises,Monitor 24-inch,Electronics,Central,6,12017.82,72106.92,55321.34,16785.58
+ORD10520,2025-04-22,Sharma Distributors,Notebook Pack,Office Accessories,West,3,575.45,1726.35,864.39,861.96
+ORD10816,2025-04-22,Ultra Traders,Headset,Electronics,West,5,2200.27,11001.35,6253.34,4748.01
+ORD10709,2025-04-23,Meridian Enterprises,CRM Subscription,Software,South,3,11915.41,35746.23,18732.75,17013.48
+ORD11197,2025-04-23,Royal Distributors,Barcode Scanner,Electronics,South,5,5755.51,28777.55,18781.31,9996.24
+ORD10024,2025-04-23,ABC Enterprises,Wireless Mouse,Electronics,North,3,861.02,2583.06,1532.38,1050.68
+ORD10377,2025-04-23,Global Traders,Document Shredder,Office Accessories,West,3,6743.84,20231.52,13769.84,6461.68
+ORD11042,2025-04-23,Prime Retail,Notebook Pack,Office Accessories,North,8,536.17,4289.36,2260.68,2028.68
+ORD10932,2025-04-24,Terra Traders,Scanner,Electronics,South,2,8423.87,16847.74,12075.05,4772.69
+ORD11304,2025-04-24,Jade Enterprises,Conference Table,Furniture,West,8,28734.63,229877.04,164399.81,65477.23
+ORD11308,2025-04-25,Future Tech,Conference Table,Furniture,West,5,29929.38,149646.9,102496.87,47150.03
+ORD11186,2025-04-25,Union Retail,Conference Camera,Electronics,Central,2,15765.52,31531.04,22393.36,9137.68
+ORD10060,2025-04-25,Smart Retail,Webcam,Electronics,North,1,2913.61,2913.61,1717.54,1196.07
+ORD10352,2025-04-25,Liberty Supplies,Document Shredder,Office Accessories,South,8,6460.17,51681.36,35046.95,16634.41
+ORD10592,2025-04-26,Brighton Traders,Router,Networking,East,8,4268.38,34147.04,20802.12,13344.92
+ORD10466,2025-04-26,Liberty Supplies,External SSD,Electronics,North,2,7709.83,15419.66,11284.05,4135.61
+ORD10649,2025-04-26,Woodland Enterprises,Router,Networking,North,6,4357.51,26145.06,16004.79,10140.27
+ORD10888,2025-04-26,Granite Supplies,Standing Desk,Furniture,Central,3,17640.13,52920.39,37347.8,15572.59
+ORD10202,2025-04-27,Meridian Enterprises,Wireless Mouse,Electronics,South,5,891.31,4456.55,2590.69,1865.86
+ORD10240,2025-04-27,Core Systems,External SSD,Electronics,North,2,7795.52,15591.04,11109.35,4481.69
+ORD10917,2025-04-27,Cobalt Retail,Power Bank,Electronics,North,2,1894.61,3789.22,2146.13,1643.09
+ORD10163,2025-04-27,Brighton Traders,Webcam,Electronics,West,2,2996.48,5992.96,3528.13,2464.83
+ORD10685,2025-04-28,Apex Supplies,Monitor 24-inch,Electronics,South,2,13103.91,26207.82,17934.02,8273.8
+ORD11466,2025-04-28,Horizon Supplies,Monitor 27-inch,Electronics,North,6,17674.51,106047.06,80215.19,25831.87
+ORD10432,2025-04-28,Capital Traders,Office Desk,Furniture,South,3,12037.28,36111.84,25883.61,10228.23
+ORD10798,2025-04-28,Ultra Traders,Webcam,Electronics,South,2,2858.23,5716.46,3275.17,2441.29
+ORD10110,2025-04-28,Mosaic Enterprises,Monitor 24-inch,Electronics,West,3,12699.87,38099.61,26443.61,11656.0
+ORD10518,2025-04-28,Harbor Enterprises,Monitor 27-inch,Electronics,South,4,19590.17,78360.68,55549.86,22810.82
+ORD11461,2025-04-29,Crest Enterprises,Router,Networking,South,10,4459.09,44590.9,25434.98,19155.92
+ORD11429,2025-04-29,Lighthouse Supplies,CRM Subscription,Software,North,1,12295.9,12295.9,6260.53,6035.37
+ORD10049,2025-04-30,Crest Enterprises,Antivirus License,Software,West,3,2304.48,6913.44,3463.3,3450.14
+ORD10790,2025-04-30,Crest Enterprises,Document Shredder,Office Accessories,West,1,7265.17,7265.17,4322.18,2942.99
+ORD10225,2025-04-30,Jupiter Mart,Tablet,Electronics,North,6,22496.28,134977.68,101121.8,33855.88
+ORD11395,2025-04-30,Kingdom Traders,CRM Subscription,Software,North,10,12318.19,123181.9,61542.39,61639.51
+ORD10583,2025-04-30,Union Retail,Tablet,Electronics,South,1,23343.19,23343.19,16787.59,6555.6
+ORD11419,2025-04-30,Haven Retail,Wireless Mouse,Electronics,West,3,911.58,2734.74,1517.3,1217.44
+ORD11219,2025-05-01,Cobalt Retail,Document Shredder,Office Accessories,North,3,6666.01,19998.03,13579.52,6418.51
+ORD10956,2025-05-01,Smart Retail,Power Bank,Electronics,Central,3,1937.65,5812.95,3025.23,2787.72
+ORD10249,2025-05-01,Iris Stores,Headset,Electronics,South,5,2249.2,11246.0,6127.82,5118.18
+ORD11210,2025-05-01,Everest Traders,Monitor 27-inch,Electronics,South,5,18116.7,90583.5,68479.88,22103.62
+ORD10356,2025-05-01,Beacon Supplies,Antivirus License,Software,North,8,2315.13,18521.04,9756.43,8764.61
+ORD10522,2025-05-02,Royal Distributors,Office Desk,Furniture,South,4,12820.98,51283.92,32962.09,18321.83
+ORD10383,2025-05-02,Royal Distributors,Power Bank,Electronics,East,3,1896.82,5690.46,3231.25,2459.21
+ORD11082,2025-05-02,Falcon Stores,Wireless Mouse,Electronics,South,2,857.91,1715.82,998.73,717.09
+ORD11321,2025-05-02,Woodland Enterprises,Office Desk,Furniture,North,1,12094.67,12094.67,8632.73,3461.94
+ORD10877,2025-05-02,Zenith Solutions,Wi-Fi Adapter,Networking,North,2,1869.42,3738.84,2136.29,1602.55
+ORD10123,2025-05-03,Cobalt Retail,Office Desk,Furniture,East,2,13209.54,26419.08,16470.46,9948.62
+ORD10705,2025-05-03,Sharma Distributors,Keyboard,Electronics,South,1,1366.82,1366.82,842.3,524.52
+ORD10835,2025-05-03,Unity Enterprises,Network Switch,Networking,North,2,7008.0,14016.0,8422.13,5593.87
+ORD10693,2025-05-03,Smart Retail,Conference Camera,Electronics,North,4,15993.23,63972.92,43624.76,20348.16
+ORD10441,2025-05-04,Metro Stores,Notebook Pack,Office Accessories,East,4,564.13,2256.52,1163.92,1092.6
+ORD11478,2025-05-04,Silver Stores,CRM Subscription,Software,South,3,11568.83,34706.49,19244.77,15461.72
+ORD10254,2025-05-05,Liberty Supplies,Access Point,Networking,North,5,6854.81,34274.05,21720.32,12553.73
+ORD10331,2025-05-05,Anchor Retail,Access Point,Networking,South,3,6898.29,20694.87,13213.2,7481.67
+ORD11086,2025-05-05,Westline Traders,Wi-Fi Adapter,Networking,West,4,1894.06,7576.24,4037.81,3538.43
+ORD11137,2025-05-06,Vantage Supplies,Desk Organizer,Office Accessories,East,4,894.24,3576.96,1596.85,1980.11
+ORD10093,2025-05-06,Jade Enterprises,Filing Cabinet,Furniture,South,1,6960.63,6960.63,4657.17,2303.46
+ORD10387,2025-05-06,Zenith Solutions,Filing Cabinet,Furniture,West,2,7473.78,14947.56,9681.24,5266.32
+ORD11484,2025-05-06,Harbor Enterprises,USB Hub,Electronics,East,1,1150.65,1150.65,642.81,507.84
+ORD10392,2025-05-06,Core Systems,Wi-Fi Adapter,Networking,South,2,1789.65,3579.3,2106.96,1472.34
+ORD11085,2025-05-06,Xenon Stores,Webcam,Electronics,West,3,2875.23,8625.69,5257.83,3367.86
+ORD10211,2025-05-07,Capital Traders,Scanner,Electronics,South,1,8141.69,8141.69,5780.63,2361.06
+ORD10506,2025-05-07,Prime Retail,Antivirus License,Software,East,3,2368.39,7105.17,3682.59,3422.58
+ORD10859,2025-05-07,Ultra Traders,Network Switch,Networking,Central,10,6605.07,66050.7,40845.27,25205.43
+ORD11287,2025-05-07,Yardley Traders,Monitor 27-inch,Electronics,East,2,19230.34,38460.68,26394.6,12066.08
+ORD10586,2025-05-07,Loyalty Retail,UPS,Networking,West,2,5530.87,11061.74,6467.83,4593.91
+ORD11095,2025-05-07,Kingdom Traders,Ethernet Cable,Networking,East,4,629.18,2516.72,1192.91,1323.81
+ORD10830,2025-05-07,Matrix Systems,CRM Subscription,Software,East,2,12727.48,25454.96,12247.09,13207.87
+ORD10099,2025-05-07,Global Traders,Project Management Tool,Software,West,2,7865.96,15731.92,7819.51,7912.41
+ORD10410,2025-05-07,NextGen Systems,Laptop Stand,Office Accessories,West,6,1235.72,7414.32,4061.77,3352.55
+ORD11438,2025-05-08,Capital Traders,UPS,Networking,East,1,5598.88,5598.88,3327.42,2271.46
+ORD10041,2025-05-08,Liberty Supplies,Ethernet Cable,Networking,North,3,696.61,2089.83,914.11,1175.72
+ORD11145,2025-05-08,Haven Retail,Tablet,Electronics,North,3,21023.47,63070.41,49632.31,13438.1
+ORD10914,2025-05-09,Harbor Enterprises,Notebook Pack,Office Accessories,East,4,535.66,2142.64,1084.67,1057.97
+ORD10654,2025-05-09,Pioneer Retail,Filing Cabinet,Furniture,North,3,7569.63,22708.89,13842.66,8866.23
+ORD10818,2025-05-09,Jade Traders,Whiteboard,Office Accessories,West,5,3055.27,15276.35,9480.82,5795.53
+ORD10459,2025-05-09,Jupiter Mart,Barcode Scanner,Electronics,West,3,5974.35,17923.05,11220.27,6702.78
+ORD11199,2025-05-09,ABC Enterprises,Visitor Chair,Furniture,Central,1,4225.69,4225.69,2768.59,1457.1
+ORD10050,2025-05-09,Diamond Supplies,Laptop Stand,Office Accessories,West,3,1177.41,3532.23,2031.77,1500.46
+ORD10788,2025-05-10,Anchor Retail,Conference Table,Furniture,North,3,28605.56,85816.68,60020.78,25795.9
+ORD10025,2025-05-10,Platinum Retail,Whiteboard,Office Accessories,South,12,3140.69,37688.28,23113.98,14574.3
+ORD11292,2025-05-10,Meridian Enterprises,Scanner,Electronics,South,3,8778.55,26335.65,17305.27,9030.38
+ORD10741,2025-05-10,Kite Retail,Desk Organizer,Office Accessories,South,5,871.04,4355.2,1904.26,2450.94
+ORD10226,2025-05-10,Alpha Retail,Desk Chair,Furniture,South,3,9109.95,27329.85,16469.82,10860.03
+ORD10739,2025-05-10,Smart Retail,Notebook Pack,Office Accessories,South,4,579.97,2319.88,1082.7,1237.18
+ORD10966,2025-05-10,Metro Stores,Conference Camera,Electronics,Central,10,17103.46,171034.6,114891.01,56143.59
+ORD10214,2025-05-11,Dawn Stores,Tablet,Electronics,North,1,22845.45,22845.45,16225.03,6620.42
+ORD11132,2025-05-11,Matrix Systems,Desk Chair,Furniture,North,6,8384.04,50304.24,33356.0,16948.24
+ORD11179,2025-05-11,Westline Traders,Monitor 24-inch,Electronics,South,3,12121.12,36363.36,26874.39,9488.97
+ORD10032,2025-05-11,Platinum Retail,Cloud Backup,Software,Central,8,5046.64,40373.12,21036.34,19336.78
+ORD11451,2025-05-12,Greenfield Retail,Notebook Pack,Office Accessories,South,4,529.41,2117.64,1160.48,957.16
+ORD10307,2025-05-12,Core Systems,Monitor 24-inch,Electronics,West,5,13315.07,66575.35,45334.96,21240.39
+ORD10695,2025-05-12,Icon Supplies,Power Bank,Electronics,South,1,1821.58,1821.58,1060.93,760.65
+ORD10876,2025-05-13,Terra Traders,Email Security,Software,East,5,5490.89,27454.45,14312.89,13141.56
+ORD10496,2025-05-14,Kite Retail,Router,Networking,South,3,4236.07,12708.21,7907.36,4800.85
+ORD10437,2025-05-14,Yellow Stores,Webcam,Electronics,North,1,2766.76,2766.76,1737.15,1029.61
+ORD11319,2025-05-14,Orbit Stores,Laptop Stand,Office Accessories,West,2,1253.96,2507.92,1348.52,1159.4
+ORD10950,2025-05-14,Golden Traders,Email Security,Software,North,1,5547.08,5547.08,2849.12,2697.96
+ORD10193,2025-05-14,Liberty Supplies,Router,Networking,South,6,4127.87,24767.22,14977.28,9789.94
+ORD10800,2025-05-14,Pacific Traders,Network Switch,Networking,North,3,6734.14,20202.42,12023.62,8178.8
+ORD11314,2025-05-14,Dawn Stores,Monitor 27-inch,Electronics,South,1,18305.46,18305.46,13954.76,4350.7
+ORD11480,2025-05-15,Jupiter Mart,Monitor 27-inch,Electronics,North,1,19428.4,19428.4,13631.57,5796.83
+ORD11270,2025-05-15,Summit Enterprises,Keyboard,Electronics,North,4,1488.57,5954.28,3268.2,2686.08
+ORD11332,2025-05-15,Yellow Stores,Headset,Electronics,Central,5,2114.48,10572.4,6091.73,4480.67
+ORD10291,2025-05-16,Beta Enterprises,Desk Organizer,Office Accessories,East,12,881.24,10574.88,4496.7,6078.18
+ORD10537,2025-05-16,Everest Traders,Desk Chair,Furniture,West,4,8939.07,35756.28,23259.19,12497.09
+ORD10261,2025-05-16,Metro Stores,Cloud Backup,Software,West,3,4798.7,14396.1,7562.77,6833.33
+ORD10012,2025-05-16,Alpha Retail,Pen Set,Office Accessories,West,1,292.75,292.75,122.03,170.72
+ORD10256,2025-05-16,Omega Traders,Document Shredder,Office Accessories,West,2,6773.82,13547.64,8689.99,4857.65
+ORD11447,2025-05-17,Elite Stores,Email Security,Software,South,3,5515.74,16547.22,8519.9,8027.32
+ORD11248,2025-05-17,Emerald Enterprises,Whiteboard,Office Accessories,North,2,3403.84,6807.68,3819.42,2988.26
+ORD11189,2025-05-17,Meridian Enterprises,Printer,Electronics,North,3,13974.25,41922.75,31989.06,9933.69
+ORD10429,2025-05-17,Brighton Traders,Desk Chair,Furniture,East,6,8882.2,53293.2,34604.14,18689.06
+ORD10115,2025-05-17,Loyalty Retail,Standing Desk,Furniture,North,1,17734.92,17734.92,12741.12,4993.8
+ORD10651,2025-05-17,Alpha Retail,UPS,Networking,East,12,5600.64,67207.68,40530.82,26676.86
+ORD11233,2025-05-18,Beacon Supplies,Desk Organizer,Office Accessories,West,12,812.61,9751.32,4626.0,5125.32
+ORD10500,2025-05-18,Sharma Distributors,Conference Table,Furniture,Central,5,29361.91,146809.55,104463.15,42346.4
+ORD11112,2025-05-18,Alpha Retail,Filing Cabinet,Furniture,East,10,6939.48,69394.8,49313.22,20081.58
+ORD10531,2025-05-19,Granite Supplies,Power Bank,Electronics,North,4,1713.63,6854.52,4126.38,2728.14
+ORD11352,2025-05-19,River Enterprises,Conference Camera,Electronics,North,3,16019.49,48058.47,33171.76,14886.71
+ORD10827,2025-05-20,Metro Stores,Pen Set,Office Accessories,North,3,289.42,868.26,350.55,517.71
+ORD11390,2025-05-20,ABC Enterprises,Whiteboard,Office Accessories,West,1,3046.24,3046.24,1848.49,1197.75
+ORD10779,2025-05-20,Yellow Stores,USB Hub,Electronics,North,4,1103.8,4415.2,2512.41,1902.79
+ORD11437,2025-05-20,Digital Hub,Email Security,Software,West,12,5644.07,67728.84,34344.43,33384.41
+ORD10938,2025-05-21,Beacon Supplies,Access Point,Networking,North,12,7608.31,91299.72,51876.96,39422.76
+ORD11071,2025-05-21,Unity Enterprises,Ethernet Cable,Networking,East,10,623.36,6233.6,2989.54,3244.06
+ORD10525,2025-05-21,Omega Traders,Laptop Stand,Office Accessories,East,4,1223.07,4892.28,2713.85,2178.43
+ORD10248,2025-05-21,NextGen Systems,Project Management Tool,Software,East,6,7987.1,47922.6,22890.97,25031.63
+ORD11232,2025-05-22,Matrix Systems,Keyboard,Electronics,East,1,1389.45,1389.45,858.39,531.06
+ORD11204,2025-05-22,Rapid Supplies,Network Switch,Networking,East,3,6908.86,20726.58,12629.08,8097.5
+ORD10669,2025-05-22,Ultra Traders,Webcam,Electronics,Central,1,2956.09,2956.09,1757.7,1198.39
+ORD10603,2025-05-22,Nimbus Stores,Desk Organizer,Office Accessories,West,8,828.43,6627.44,2996.45,3630.99
+ORD10111,2025-05-22,Prime Retail,Email Security,Software,North,4,5238.36,20953.44,11183.1,9770.34
+ORD11279,2025-05-22,Sharma Distributors,Conference Table,Furniture,South,5,29285.86,146429.3,101165.06,45264.24
+ORD10833,2025-05-23,Pacific Traders,Conference Table,Furniture,Central,5,28831.76,144158.8,100251.47,43907.33
+ORD10045,2025-05-23,Rapid Supplies,Tablet,Electronics,South,4,22154.04,88616.16,68124.81,20491.35
+ORD11029,2025-05-23,Nimbus Stores,UPS,Networking,North,3,4980.63,14941.89,10229.42,4712.47
+ORD10066,2025-05-24,Trinity Stores,Monitor 27-inch,Electronics,West,2,18365.44,36730.88,27372.64,9358.24
+ORD10052,2025-05-24,Mosaic Enterprises,CRM Subscription,Software,North,1,11933.33,11933.33,5997.53,5935.8
+ORD11365,2025-05-24,Ultra Traders,Headset,Electronics,West,5,2286.08,11430.4,6379.44,5050.96
+ORD10027,2025-05-24,Prime Retail,Document Shredder,Office Accessories,East,1,6909.25,6909.25,4570.49,2338.76
+ORD11336,2025-05-24,Quest Supplies,Antivirus License,Software,Central,2,2463.39,4926.78,2466.68,2460.1
+ORD10501,2025-05-25,Zephyr Retail,Office Desk,Furniture,Central,1,12579.57,12579.57,8222.99,4356.58
+ORD10071,2025-05-25,Unity Enterprises,Webcam,Electronics,East,12,2934.23,35210.76,20198.06,15012.7
+ORD10232,2025-05-25,Meridian Enterprises,Whiteboard,Office Accessories,West,6,3277.37,19664.22,10971.71,8692.51
+ORD11229,2025-05-25,Metro Stores,CRM Subscription,Software,North,12,12083.33,144999.96,76548.87,68451.09
+ORD10819,2025-05-25,Kite Retail,Email Security,Software,East,3,5189.95,15569.85,8717.49,6852.36
+ORD10413,2025-05-25,Granite Supplies,Standing Desk,Furniture,West,5,19275.54,96377.7,60251.13,36126.57
+ORD10812,2025-05-25,Tech Solutions,Keyboard,Electronics,North,2,1426.91,2853.82,1708.76,1145.06
+ORD10997,2025-05-26,Jade Enterprises,Document Shredder,Office Accessories,East,3,6706.94,20120.82,13358.94,6761.88
+ORD11492,2025-05-26,Diamond Supplies,UPS,Networking,West,3,5244.38,15733.14,9661.91,6071.23
+ORD10150,2025-05-26,Core Systems,Office Suite,Software,West,6,6291.46,37748.76,19693.63,18055.13
+ORD11227,2025-05-26,Bright Mart,Access Point,Networking,East,1,7424.81,7424.81,4342.43,3082.38
+ORD10736,2025-05-26,Beacon Supplies,Wireless Mouse,Electronics,South,6,857.22,5143.32,3178.89,1964.43
+ORD10842,2025-05-26,Silver Stores,Visitor Chair,Furniture,South,3,4346.86,13040.58,7953.54,5087.04
+ORD11266,2025-05-26,Bright Mart,Webcam,Electronics,West,8,2703.08,21624.64,13758.59,7866.05
+ORD10897,2025-05-27,Everest Traders,Desk Chair,Furniture,Central,10,9023.32,90233.2,55497.94,34735.26
+ORD10400,2025-05-27,Value Retail,Whiteboard,Office Accessories,South,12,3241.1,38893.2,23463.11,15430.09
+ORD11011,2025-05-27,Vertex Retail,Tablet,Electronics,South,4,23291.79,93167.16,65670.33,27496.83
+ORD11155,2025-05-27,Delta Stores,Router,Networking,South,5,4147.09,20735.45,13246.55,7488.9
+ORD11389,2025-05-28,Crest Enterprises,Notebook Pack,Office Accessories,South,8,593.51,4748.08,2169.41,2578.67
+ORD10646,2025-05-28,Future Tech,Desk Organizer,Office Accessories,North,2,847.4,1694.8,774.29,920.51
+ORD11289,2025-05-29,Prime Retail,Bookshelf,Furniture,North,4,6954.91,27819.64,17834.5,9985.14
+ORD10131,2025-05-29,Pacific Traders,Desk Chair,Furniture,South,5,8302.17,41510.85,29156.16,12354.69
+ORD10431,2025-05-29,Capital Traders,Tablet,Electronics,North,5,21469.76,107348.8,86622.24,20726.56
+ORD10792,2025-05-29,Horizon Supplies,Ethernet Cable,Networking,West,8,664.31,5314.48,2406.64,2907.84
+ORD10464,2025-05-29,Lighthouse Supplies,Visitor Chair,Furniture,Central,2,4448.45,8896.9,5246.13,3650.77
+ORD11064,2025-05-30,Silver Stores,Conference Camera,Electronics,South,5,16290.59,81452.95,54879.5,26573.45
+ORD11129,2025-05-30,Woodland Enterprises,Keyboard,Electronics,Central,1,1498.99,1498.99,855.42,643.57
+ORD10721,2025-05-30,Meridian Enterprises,Network Switch,Networking,North,4,6824.74,27298.96,17048.24,10250.72
+ORD10144,2025-05-31,Anchor Retail,Office Suite,Software,West,1,6036.24,6036.24,3422.59,2613.65
+ORD10264,2025-05-31,Flame Retail,Wireless Mouse,Electronics,South,2,895.52,1791.04,1018.29,772.75
+ORD10644,2025-05-31,Core Systems,Network Switch,Networking,West,2,6735.06,13470.12,8443.14,5026.98
+ORD10834,2025-05-31,Fusion Retail,External SSD,Electronics,North,3,7666.07,22998.21,16723.16,6275.05
+ORD10165,2025-06-01,Indigo Stores,Visitor Chair,Furniture,South,3,4252.66,12757.98,8349.48,4408.5
+ORD11408,2025-06-01,Eagle Traders,Filing Cabinet,Furniture,Central,1,7535.76,7535.76,4704.79,2830.97
+ORD11135,2025-06-01,Platinum Retail,Conference Table,Furniture,West,1,30071.58,30071.58,20105.42,9966.16
+ORD10022,2025-06-01,Summit Enterprises,Router,Networking,South,1,4109.45,4109.45,2612.09,1497.36
+ORD11467,2025-06-01,Matrix Systems,Office Suite,Software,East,8,6122.88,48983.04,26299.68,22683.36
+ORD11469,2025-06-01,Anchor Retail,Wi-Fi Adapter,Networking,Central,5,1811.28,9056.4,5247.09,3809.31
+ORD10288,2025-06-01,Apex Supplies,Wi-Fi Adapter,Networking,Central,10,1882.58,18825.8,10376.73,8449.07
+ORD11291,2025-06-03,Cobalt Retail,Notebook Pack,Office Accessories,West,2,576.59,1153.18,549.13,604.05
+ORD10494,2025-06-03,Galaxy Supplies,Access Point,Networking,North,1,7706.29,7706.29,4248.05,3458.24
+ORD11075,2025-06-03,Zenith Solutions,Webcam,Electronics,South,2,2709.13,5418.26,3344.56,2073.7
+ORD11108,2025-06-03,Matrix Systems,Project Management Tool,Software,West,8,7919.2,63353.6,30535.87,32817.73
+ORD10207,2025-06-03,Elite Stores,Project Management Tool,Software,North,2,8078.03,16156.06,7613.34,8542.72
+ORD11422,2025-06-04,Beta Enterprises,Scanner,Electronics,South,2,8798.36,17596.72,11997.59,5599.13
+ORD10078,2025-06-05,Anchor Retail,Headset,Electronics,East,1,2275.0,2275.0,1238.83,1036.17
+ORD11490,2025-06-05,Sharma Distributors,Notebook Pack,Office Accessories,East,3,575.02,1725.06,831.07,893.99
+ORD11400,2025-06-05,River Enterprises,Wi-Fi Adapter,Networking,Central,3,1743.66,5230.98,3026.33,2204.65
+ORD11188,2025-06-05,Fusion Retail,Laptop Stand,Office Accessories,South,4,1200.85,4803.4,2731.58,2071.82
+ORD10529,2025-06-05,Union Retail,Desk Chair,Furniture,North,3,8998.91,26996.73,17539.66,9457.07
+ORD11056,2025-06-06,Xpress Enterprises,Access Point,Networking,Central,5,7423.51,37117.55,22828.18,14289.37
+ORD11282,2025-06-06,Delta Stores,Wireless Mouse,Electronics,Central,10,862.4,8624.0,5242.85,3381.15
+ORD10360,2025-06-07,Kingdom Traders,Bookshelf,Furniture,North,4,7339.97,29359.88,17689.44,11670.44
+ORD11285,2025-06-07,Trinity Stores,External SSD,Electronics,North,3,8317.63,24952.89,17448.68,7504.21
+ORD10911,2025-06-08,Falcon Stores,Scanner,Electronics,South,12,8673.21,104078.52,69576.91,34501.61
+ORD11106,2025-06-08,Greenfield Retail,Monitor 24-inch,Electronics,West,3,12527.04,37581.12,27766.97,9814.15
+ORD10663,2025-06-08,Yardley Traders,Scanner,Electronics,East,2,8965.61,17931.22,11886.86,6044.36
+ORD10186,2025-06-09,River Enterprises,Power Bank,Electronics,East,8,1710.26,13682.08,8437.75,5244.33
+ORD11045,2025-06-09,Mosaic Enterprises,Office Desk,Furniture,Central,3,13169.23,39507.69,25596.01,13911.68
+ORD10205,2025-06-09,Oak Traders,Router,Networking,West,3,4327.51,12982.53,7926.34,5056.19
+ORD10095,2025-06-09,Loyalty Retail,Antivirus License,Software,North,6,2387.67,14326.02,7112.23,7213.79
+ORD10965,2025-06-10,Unity Enterprises,Access Point,Networking,East,4,6855.88,27423.52,18248.2,9175.32
+ORD11205,2025-06-10,Liberty Supplies,External SSD,Electronics,West,2,7722.79,15445.58,10769.96,4675.62
+ORD10857,2025-06-10,Omega Traders,Printer,Electronics,Central,5,15458.88,77294.4,52217.93,25076.47
+ORD10765,2025-06-10,Crest Enterprises,Tablet,Electronics,North,2,23043.22,46086.44,34723.16,11363.28
+ORD10676,2025-06-10,Yardley Traders,Keyboard,Electronics,West,5,1451.32,7256.6,4120.65,3135.95
+ORD11211,2025-06-10,Emerald Enterprises,Document Shredder,Office Accessories,East,1,6658.34,6658.34,4497.79,2160.55
+ORD11468,2025-06-11,Kite Retail,USB Hub,Electronics,South,5,1091.38,5456.9,3153.61,2303.29
+ORD10430,2025-06-11,Royal Distributors,Desk Chair,Furniture,Central,1,8795.06,8795.06,5808.8,2986.26
+ORD10806,2025-06-11,Summit Enterprises,USB Hub,Electronics,West,3,1070.51,3211.53,1801.69,1409.84
+ORD10393,2025-06-11,Vision Mart,Project Management Tool,Software,West,2,7942.59,15885.18,7710.26,8174.92
+ORD11041,2025-06-11,Jade Traders,Filing Cabinet,Furniture,West,4,7243.4,28973.6,18874.62,10098.98
+ORD10460,2025-06-12,Horizon Supplies,Visitor Chair,Furniture,Central,10,4305.11,43051.1,26691.38,16359.72
+ORD10068,2025-06-12,NextGen Systems,Notebook Pack,Office Accessories,West,3,572.97,1718.91,871.49,847.42
+ORD10057,2025-06-12,Harbor Enterprises,Document Shredder,Office Accessories,West,3,6942.33,20826.99,13976.78,6850.21
+ORD11003,2025-06-12,Golden Traders,External SSD,Electronics,North,10,7900.46,79004.6,55173.68,23830.92
+ORD10222,2025-06-13,Digital Hub,Notebook Pack,Office Accessories,South,3,539.38,1618.14,811.34,806.8
+ORD10923,2025-06-13,Titan Supplies,Barcode Scanner,Electronics,North,4,5836.32,23345.28,14430.95,8914.33
+ORD11355,2025-06-13,Junction Traders,Email Security,Software,East,2,5323.37,10646.74,5737.63,4909.11
+ORD10624,2025-06-13,Terra Traders,Printer,Electronics,South,3,14788.72,44366.16,30940.81,13425.35
+ORD10143,2025-06-14,Oak Traders,Office Suite,Software,North,3,6151.14,18453.42,9862.93,8590.49
+ORD11464,2025-06-14,BlueSky Enterprises,Project Management Tool,Software,West,4,7940.18,31760.72,15872.62,15888.1
+ORD10748,2025-06-15,Icon Supplies,Scanner,Electronics,Central,3,8168.1,24504.3,17958.64,6545.66
+ORD10892,2025-06-15,Heritage Enterprises,CRM Subscription,Software,South,3,11856.54,35569.62,18667.6,16902.02
+ORD10906,2025-06-15,Apex Supplies,Whiteboard,Office Accessories,South,2,3215.26,6430.52,3903.01,2527.51
+ORD11398,2025-06-15,Royal Distributors,External SSD,Electronics,North,1,7665.75,7665.75,5739.21,1926.54
+ORD10960,2025-06-15,Silver Stores,UPS,Networking,West,6,5039.11,30234.66,19260.91,10973.75
+ORD11472,2025-06-16,Zeta Traders,Barcode Scanner,Electronics,West,2,6342.67,12685.34,7350.15,5335.19
+ORD10385,2025-06-16,Willow Supplies,Standing Desk,Furniture,West,1,18610.42,18610.42,12142.59,6467.83
+ORD10703,2025-06-16,Yellow Stores,Tablet,Electronics,North,3,20940.99,62822.97,50312.65,12510.32
+ORD10523,2025-06-16,NextGen Systems,Antivirus License,Software,South,2,2513.81,5027.62,2413.81,2613.81
+ORD10478,2025-06-16,Kite Retail,Wi-Fi Adapter,Networking,South,1,1722.14,1722.14,1019.94,702.2
+ORD11262,2025-06-16,Alpha Retail,Webcam,Electronics,North,5,2824.4,14122.0,8742.58,5379.42
+ORD10578,2025-06-16,Falcon Stores,Printer,Electronics,East,12,15451.74,185420.88,124704.39,60716.49
+ORD11001,2025-06-17,Jade Traders,Router,Networking,North,4,4075.09,16300.36,10186.54,6113.82
+ORD10058,2025-06-17,Liberty Supplies,Office Desk,Furniture,North,2,12320.19,24640.38,16611.84,8028.54
+ORD11111,2025-06-17,Tech Solutions,Tablet,Electronics,South,1,20927.97,20927.97,16228.97,4699.0
+ORD10152,2025-06-17,Keystone Retail,Standing Desk,Furniture,West,4,19174.41,76697.64,48701.49,27996.15
+ORD10894,2025-06-18,Keystone Retail,Network Switch,Networking,West,1,6723.87,6723.87,4220.7,2503.17
+ORD10690,2025-06-18,Falcon Stores,Office Desk,Furniture,South,3,12852.94,38558.82,25666.74,12892.08
+ORD10926,2025-06-18,Mosaic Enterprises,Ethernet Cable,Networking,North,3,674.72,2024.16,913.15,1111.01
+ORD10407,2025-06-18,Alpha Retail,Pen Set,Office Accessories,Central,5,305.61,1528.05,614.08,913.97
+ORD10329,2025-06-18,Kite Retail,Access Point,Networking,West,5,7348.75,36743.75,21263.84,15479.91
+ORD10832,2025-06-18,Vision Mart,Router,Networking,South,2,4486.22,8972.44,5308.33,3664.11
+ORD10946,2025-06-19,Xenon Stores,External SSD,Electronics,North,3,8138.12,24414.36,16722.98,7691.38
+ORD11356,2025-06-19,Core Systems,Whiteboard,Office Accessories,North,2,3386.32,6772.64,3906.64,2866.0
+ORD11190,2025-06-19,Capital Traders,Printer,Electronics,East,1,13923.35,13923.35,10522.94,3400.41
+ORD11374,2025-06-19,Woodland Enterprises,Access Point,Networking,North,2,7076.06,14152.12,9120.97,5031.15
+ORD10767,2025-06-20,Ultra Traders,Access Point,Networking,North,6,7661.3,45967.8,26976.96,18990.84
+ORD10629,2025-06-20,Tech Solutions,Notebook Pack,Office Accessories,West,6,561.13,3366.78,1726.32,1640.46
+ORD10406,2025-06-20,Union Retail,Keyboard,Electronics,West,4,1354.47,5417.88,3345.44,2072.44
+ORD10862,2025-06-21,River Enterprises,Standing Desk,Furniture,South,2,19899.57,39799.14,25889.41,13909.73
+ORD10702,2025-06-21,Future Tech,USB Hub,Electronics,West,3,1108.69,3326.07,1787.77,1538.3
+ORD10700,2025-06-21,Core Systems,Ethernet Cable,Networking,Central,4,693.75,2775.0,1188.79,1586.21
+ORD10939,2025-06-21,Junction Traders,UPS,Networking,South,4,5567.84,22271.36,13196.56,9074.8
+ORD11140,2025-06-21,Xenon Stores,Network Switch,Networking,South,5,6285.71,31428.55,20665.57,10762.98
+ORD10296,2025-06-21,Vision Mart,Barcode Scanner,Electronics,South,3,5614.75,16844.25,11537.26,5306.99
+ORD11449,2025-06-22,BlueSky Enterprises,Desk Chair,Furniture,West,4,8779.38,35117.52,22897.45,12220.07
+ORD10075,2025-06-22,Beta Enterprises,Office Suite,Software,East,1,6635.26,6635.26,3514.0,3121.26
+ORD11346,2025-06-22,Mosaic Enterprises,Conference Camera,Electronics,West,1,15701.65,15701.65,11540.31,4161.34
+ORD10272,2025-06-22,Silver Stores,Bookshelf,Furniture,West,10,6842.33,68423.3,42352.65,26070.65
+ORD10412,2025-06-22,Future Tech,Barcode Scanner,Electronics,West,1,6337.57,6337.57,3706.68,2630.89
+ORD11158,2025-06-22,Smart Retail,Tablet,Electronics,North,4,22204.44,88817.76,66650.43,22167.33
+ORD10281,2025-06-22,Dawn Stores,Barcode Scanner,Electronics,East,3,5689.17,17067.51,11142.59,5924.92
+ORD11474,2025-06-23,Smart Retail,Tablet,Electronics,South,3,22790.39,68371.17,49685.94,18685.23
+ORD10796,2025-06-23,Heritage Enterprises,Tablet,Electronics,East,4,23272.04,93088.16,65535.25,27552.91
+ORD11416,2025-06-23,Pacific Traders,Scanner,Electronics,North,2,8233.1,16466.2,12137.85,4328.35
+ORD10375,2025-06-23,Yardley Traders,Notebook Pack,Office Accessories,West,5,581.82,2909.1,1348.54,1560.56
+ORD11252,2025-06-23,Union Retail,Project Management Tool,Software,East,10,7712.6,77126.0,39185.56,37940.44
+ORD10005,2025-06-24,Horizon Supplies,Keyboard,Electronics,Central,6,1453.82,8722.92,5079.8,3643.12
+ORD11259,2025-06-24,Horizon Supplies,Bookshelf,Furniture,North,2,7335.79,14671.58,8426.36,6245.22
+ORD10716,2025-06-24,Platinum Retail,Bookshelf,Furniture,West,1,6708.05,6708.05,4248.38,2459.67
+ORD10231,2025-06-24,Titan Supplies,Standing Desk,Furniture,East,4,19928.61,79714.44,49497.19,30217.25
+ORD11399,2025-06-24,Unity Enterprises,Monitor 24-inch,Electronics,North,3,11930.67,35792.01,26287.99,9504.02
+ORD10617,2025-06-24,Vantage Supplies,Wi-Fi Adapter,Networking,South,2,1758.92,3517.84,2030.23,1487.61
+ORD10181,2025-06-25,Royal Distributors,Whiteboard,Office Accessories,North,3,3440.24,10320.72,5521.92,4798.8
+ORD11018,2025-06-25,Urban Office,Headset,Electronics,South,1,2270.52,2270.52,1216.36,1054.16
+ORD10135,2025-06-26,Omega Traders,Cloud Backup,Software,South,3,4613.26,13839.78,8110.05,5729.73
+ORD10062,2025-06-26,Nova Enterprises,Visitor Chair,Furniture,West,3,4193.12,12579.36,8279.12,4300.24
+ORD11023,2025-06-26,Emerald Enterprises,Desk Organizer,Office Accessories,North,5,866.96,4334.8,1951.36,2383.44
+ORD10948,2025-06-26,Matrix Systems,Whiteboard,Office Accessories,North,4,3347.4,13389.6,7313.74,6075.86
+ORD11364,2025-06-26,Alpha Retail,Printer,Electronics,West,10,14041.94,140419.4,106199.8,34219.6
+ORD11339,2025-06-27,Metro Stores,Access Point,Networking,North,3,7320.83,21962.49,12925.72,9036.77
+ORD10543,2025-06-27,Crest Enterprises,Bookshelf,Furniture,West,3,6858.49,20575.47,13373.17,7202.3
+ORD10177,2025-06-27,Capital Traders,Ethernet Cable,Networking,North,4,630.5,2522.0,1230.32,1291.68
+ORD10112,2025-06-27,Fusion Retail,Office Desk,Furniture,West,3,12767.0,38301.0,24891.53,13409.47
+ORD10752,2025-06-27,Nexus Stores,Conference Table,Furniture,West,4,28215.67,112862.68,81850.43,31012.25
+ORD10692,2025-06-27,Beta Enterprises,Desk Chair,Furniture,East,1,8203.71,8203.71,5587.94,2615.77
+ORD10229,2025-06-27,Keystone Retail,Notebook Pack,Office Accessories,North,4,532.49,2129.96,1077.89,1052.07
+ORD11250,2025-06-28,Beacon Supplies,Barcode Scanner,Electronics,South,2,5946.13,11892.26,7131.49,4760.77
+ORD10749,2025-06-28,ABC Enterprises,Cloud Backup,Software,East,2,5048.73,10097.46,5326.15,4771.31
+ORD11107,2025-06-28,Platinum Retail,USB Hub,Electronics,East,2,1134.8,2269.6,1217.7,1051.9
+ORD10486,2025-06-28,BlueSky Enterprises,Ethernet Cable,Networking,South,2,631.26,1262.52,584.97,677.55
+ORD10740,2025-06-28,Value Retail,Monitor 27-inch,Electronics,North,5,19238.43,96192.15,70014.45,26177.7
+ORD10707,2025-06-28,Harbor Enterprises,Office Suite,Software,West,1,6335.95,6335.95,3405.56,2930.39
+ORD10265,2025-06-29,Loyalty Retail,Notebook Pack,Office Accessories,East,10,584.94,5849.4,2724.24,3125.16
+ORD11452,2025-06-29,Terra Traders,Barcode Scanner,Electronics,East,8,6007.95,48063.6,30132.59,17931.01
+ORD10200,2025-06-30,Orbit Stores,Pen Set,Office Accessories,North,10,309.05,3090.5,1228.47,1862.03
+ORD11035,2025-06-30,Quest Supplies,External SSD,Electronics,North,10,7458.45,74584.5,55337.99,19246.51
+ORD10469,2025-06-30,Galaxy Supplies,Notebook Pack,Office Accessories,North,10,550.52,5505.2,2810.46,2694.74
+ORD11047,2025-06-30,Summit Enterprises,Antivirus License,Software,South,12,2315.06,27780.72,14133.32,13647.4
+ORD11281,2025-07-01,Oak Traders,Wi-Fi Adapter,Networking,Central,2,1742.96,3485.92,2120.99,1364.93
+ORD10828,2025-07-01,Yellow Stores,Printer,Electronics,East,2,14190.3,28380.6,21025.71,7354.89
+ORD10322,2025-07-01,Keystone Retail,UPS,Networking,West,3,5465.06,16395.18,9555.77,6839.41
+ORD11334,2025-07-01,Nexus Stores,Scanner,Electronics,North,3,8222.81,24668.43,18246.15,6422.28
+ORD10985,2025-07-01,Jade Enterprises,Webcam,Electronics,South,2,2923.06,5846.12,3350.83,2495.29
+ORD10166,2025-07-02,Haven Retail,Notebook Pack,Office Accessories,West,1,545.04,545.04,280.88,264.16
+ORD10279,2025-07-02,Kingdom Traders,Wireless Mouse,Electronics,West,1,903.97,903.97,532.08,371.89
+ORD10372,2025-07-02,River Enterprises,Access Point,Networking,Central,3,7497.31,22491.93,13720.41,8771.52
+ORD10414,2025-07-03,Silver Stores,UPS,Networking,North,2,5129.96,10259.92,6760.24,3499.68
+ORD11335,2025-07-03,Cobalt Retail,UPS,Networking,Central,1,5351.55,5351.55,3215.33,2136.22
+ORD11276,2025-07-03,Omega Traders,Email Security,Software,North,5,5433.41,27167.05,14201.29,12965.76
+ORD10970,2025-07-04,Westline Traders,Keyboard,Electronics,North,4,1500.06,6000.24,3320.18,2680.06
+ORD10937,2025-07-04,Iris Stores,Power Bank,Electronics,South,1,1803.47,1803.47,1043.19,760.28
+ORD11396,2025-07-05,Emerald Enterprises,Scanner,Electronics,North,1,8562.05,8562.05,5890.07,2671.98
+ORD10218,2025-07-05,Pacific Traders,Bookshelf,Furniture,West,2,6871.78,13743.56,8831.17,4912.39
+ORD10424,2025-07-05,Value Retail,Notebook Pack,Office Accessories,North,3,550.22,1650.66,848.92,801.74
+ORD10585,2025-07-06,Crest Enterprises,Bookshelf,Furniture,Central,3,7207.09,21621.27,13205.4,8415.87
+ORD10552,2025-07-06,Nexus Stores,Office Suite,Software,South,5,6346.34,31731.7,16745.38,14986.32
+ORD11315,2025-07-06,Summit Enterprises,Monitor 24-inch,Electronics,East,1,13407.41,13407.41,9212.45,4194.96
+ORD10777,2025-07-06,Zenith Solutions,Notebook Pack,Office Accessories,South,12,565.82,6789.84,3361.0,3428.84
+ORD10451,2025-07-06,Horizon Supplies,Whiteboard,Office Accessories,East,3,3131.15,9393.45,5681.29,3712.16
+ORD10719,2025-07-06,Omega Traders,Document Shredder,Office Accessories,Central,6,7170.88,43025.28,27791.47,15233.81
+ORD10805,2025-07-06,Silver Stores,Keyboard,Electronics,East,3,1457.56,4372.68,2622.53,1750.15
+ORD11366,2025-07-06,Sharma Distributors,Power Bank,Electronics,North,1,1782.27,1782.27,1059.35,722.92
+ORD10435,2025-07-07,Mosaic Enterprises,Whiteboard,Office Accessories,North,4,3169.74,12678.96,7766.59,4912.37
+ORD10942,2025-07-07,Emerald Enterprises,Bookshelf,Furniture,North,3,6994.21,20982.63,13034.18,7948.45
+ORD11479,2025-07-07,Flame Retail,Visitor Chair,Furniture,North,6,4456.26,26737.56,15775.16,10962.4
+ORD10185,2025-07-07,Unity Enterprises,Webcam,Electronics,West,8,3009.92,24079.36,13562.43,10516.93
+ORD10831,2025-07-07,Oak Traders,Desk Chair,Furniture,West,3,9047.22,27141.66,17303.4,9838.26
+ORD10902,2025-07-07,Zephyr Retail,Email Security,Software,North,10,5580.04,55800.4,27578.1,28222.3
+ORD10678,2025-07-07,Indigo Stores,Project Management Tool,Software,North,2,7604.75,15209.5,7985.02,7224.48
+ORD11090,2025-07-07,Eagle Traders,Router,Networking,South,12,4385.81,52629.72,30237.0,22392.72
+ORD10869,2025-07-07,Flame Retail,Visitor Chair,Furniture,North,4,4176.77,16707.08,11067.82,5639.26
+ORD11096,2025-07-07,Nexus Stores,Cloud Backup,Software,East,8,5145.76,41166.08,21307.68,19858.4
+ORD10895,2025-07-08,Bright Mart,Conference Camera,Electronics,North,2,17008.16,34016.32,21897.99,12118.33
+ORD10369,2025-07-08,Jupiter Mart,Email Security,Software,North,6,5164.75,30988.5,17247.98,13740.52
+ORD10652,2025-07-08,Vertex Retail,UPS,Networking,South,2,5256.15,10512.3,6663.04,3849.26
+ORD10301,2025-07-08,Smart Retail,Document Shredder,Office Accessories,North,3,6723.03,20169.09,13570.22,6598.87
+ORD10468,2025-07-08,Harbor Enterprises,Conference Table,Furniture,East,4,29932.01,119728.04,83014.51,36713.53
+ORD11442,2025-07-08,Anchor Retail,Headset,Electronics,North,2,2179.62,4359.24,2492.47,1866.77
+ORD10020,2025-07-09,River Enterprises,Document Shredder,Office Accessories,West,2,7032.56,14065.12,8640.37,5424.75
+ORD10730,2025-07-09,Diamond Supplies,Laptop Stand,Office Accessories,South,1,1143.52,1143.52,720.25,423.27
+ORD10756,2025-07-09,Vision Mart,Printer,Electronics,Central,2,15236.83,30473.66,20820.44,9653.22
+ORD10153,2025-07-09,Beta Enterprises,Wireless Mouse,Electronics,West,1,941.35,941.35,502.64,438.71
+ORD11116,2025-07-09,Alpha Retail,Power Bank,Electronics,East,3,1938.82,5816.46,3074.54,2741.92
+ORD10616,2025-07-10,Union Retail,Office Suite,Software,South,5,5951.61,29758.05,17538.4,12219.65
+ORD11264,2025-07-10,Silver Stores,Laptop Stand,Office Accessories,South,2,1281.31,2562.62,1437.92,1124.7
+ORD11134,2025-07-10,Jade Traders,Desk Chair,Furniture,Central,5,8519.0,42595.0,27533.97,15061.03
+ORD10278,2025-07-10,Acme Solutions,Visitor Chair,Furniture,Central,2,4216.11,8432.22,5541.5,2890.72
+ORD10758,2025-07-11,Vantage Supplies,Desk Organizer,Office Accessories,South,1,916.09,916.09,382.2,533.89
+ORD10955,2025-07-11,Metro Stores,Antivirus License,Software,Central,1,2581.34,2581.34,1168.78,1412.56
+ORD10597,2025-07-11,Omega Traders,Headset,Electronics,South,5,2157.05,10785.25,6172.54,4612.71
+ORD10610,2025-07-11,Meridian Enterprises,Keyboard,Electronics,West,3,1432.03,4296.09,2640.3,1655.79
+ORD10284,2025-07-11,Nexus Stores,Wi-Fi Adapter,Networking,North,4,1930.62,7722.48,4303.78,3418.7
+ORD11320,2025-07-11,Lighthouse Supplies,Antivirus License,Software,North,2,2386.22,4772.44,2494.27,2278.17
+ORD10769,2025-07-12,Kingdom Traders,Monitor 24-inch,Electronics,East,12,13268.49,159221.88,104521.25,54700.63
+ORD11298,2025-07-12,Xpress Enterprises,Headset,Electronics,Central,5,2215.57,11077.85,6056.4,5021.45
+ORD10191,2025-07-12,Eagle Traders,Project Management Tool,Software,West,4,7169.6,28678.4,16063.68,12614.72
+ORD10675,2025-07-12,Smart Retail,Laptop Stand,Office Accessories,West,3,1244.91,3734.73,2130.61,1604.12
+ORD11275,2025-07-12,Mosaic Enterprises,External SSD,Electronics,West,1,8217.21,8217.21,5552.86,2664.35
+ORD10626,2025-07-13,Unity Enterprises,UPS,Networking,Central,1,5154.76,5154.76,3423.73,1731.03
+ORD10138,2025-07-13,Tech Solutions,Tablet,Electronics,North,3,22321.45,66964.35,51469.92,15494.43
+ORD10070,2025-07-13,Flame Retail,Monitor 27-inch,Electronics,Central,3,18135.91,54407.73,40763.43,13644.3
+ORD10109,2025-07-13,Metro Stores,Router,Networking,North,3,4250.23,12750.69,8011.28,4739.41
+ORD11427,2025-07-13,Vision Mart,Conference Table,Furniture,North,5,30532.18,152660.9,103789.02,48871.88
+ORD10853,2025-07-13,Junction Traders,Monitor 27-inch,Electronics,South,1,18673.44,18673.44,13315.57,5357.87
+ORD10657,2025-07-14,Omega Traders,Bookshelf,Furniture,West,1,7246.39,7246.39,4452.71,2793.68
+ORD11240,2025-07-14,Anchor Retail,External SSD,Electronics,South,3,7686.1,23058.3,16355.67,6702.63
+ORD10667,2025-07-14,Iris Stores,Notebook Pack,Office Accessories,South,1,541.94,541.94,273.68,268.26
+ORD11290,2025-07-15,Apex Supplies,Notebook Pack,Office Accessories,North,8,529.97,4239.76,2279.47,1960.29
+ORD10935,2025-07-15,Metro Stores,Scanner,Electronics,North,4,8336.66,33346.64,22814.52,10532.12
+ORD11094,2025-07-15,Heritage Enterprises,Network Switch,Networking,North,1,6538.21,6538.21,4030.22,2507.99
+ORD10715,2025-07-16,Oak Traders,Desk Organizer,Office Accessories,East,1,875.74,875.74,380.88,494.86
+ORD10866,2025-07-16,Rapid Supplies,Power Bank,Electronics,North,3,1851.16,5553.48,3081.27,2472.21
+ORD10314,2025-07-17,Mosaic Enterprises,Monitor 24-inch,Electronics,West,3,12164.66,36493.98,27401.57,9092.41
+ORD11160,2025-07-17,ABC Enterprises,Whiteboard,Office Accessories,North,8,3087.03,24696.24,15513.03,9183.21
+ORD10801,2025-07-18,Summit Enterprises,Document Shredder,Office Accessories,East,5,6886.62,34433.1,21988.86,12444.24
+ORD10325,2025-07-18,Xpress Enterprises,Office Suite,Software,East,1,6227.55,6227.55,3334.76,2892.79
+ORD11457,2025-07-18,Pioneer Retail,Whiteboard,Office Accessories,North,2,3273.11,6546.22,3654.61,2891.61
+ORD11435,2025-07-19,Global Traders,Scanner,Electronics,Central,10,8657.58,86575.8,58174.27,28401.53
+ORD10839,2025-07-19,Delta Stores,CRM Subscription,Software,South,10,11719.49,117194.9,63478.07,53716.83
+ORD10873,2025-07-19,Everest Traders,Visitor Chair,Furniture,Central,3,4270.62,12811.86,8223.2,4588.66
+ORD10750,2025-07-19,Bright Mart,Monitor 24-inch,Electronics,West,4,12912.32,51649.28,35444.58,16204.7
+ORD10679,2025-07-19,Royal Distributors,Whiteboard,Office Accessories,West,1,3239.05,3239.05,1913.01,1326.04
+ORD10584,2025-07-19,Vertex Retail,Headset,Electronics,South,2,2314.69,4629.38,2450.56,2178.82
+ORD10379,2025-07-20,Global Traders,Access Point,Networking,East,8,7517.64,60141.12,34131.49,26009.63
+ORD11089,2025-07-20,Heritage Enterprises,Tablet,Electronics,West,4,23340.91,93363.64,68476.12,24887.52
+ORD10762,2025-07-20,Acme Solutions,Monitor 27-inch,Electronics,West,6,17828.5,106971.0,81348.78,25622.22
+ORD10863,2025-07-20,Dawn Stores,Wi-Fi Adapter,Networking,East,4,1929.41,7717.64,4260.38,3457.26
+ORD10491,2025-07-21,Sharma Distributors,Headset,Electronics,East,1,2238.35,2238.35,1217.94,1020.41
+ORD11073,2025-07-22,Xpress Enterprises,Router,Networking,West,2,4385.51,8771.02,5070.86,3700.16
+ORD10789,2025-07-22,Galaxy Supplies,Office Desk,Furniture,North,5,12460.64,62303.2,41096.04,21207.16
+ORD10874,2025-07-23,Jupiter Mart,Wireless Mouse,Electronics,North,3,935.47,2806.41,1531.73,1274.68
+ORD11081,2025-07-23,ABC Enterprises,Power Bank,Electronics,South,2,1822.86,3645.72,2136.89,1508.83
+ORD11103,2025-07-23,Trinity Stores,Laptop Stand,Office Accessories,South,3,1285.32,3855.96,2030.95,1825.01
+ORD11312,2025-07-23,Acme Solutions,Wireless Mouse,Electronics,North,3,910.61,2731.83,1596.27,1135.56
+ORD10192,2025-07-23,Smart Retail,Conference Table,Furniture,North,4,29277.24,117108.96,81236.5,35872.46
+ORD10388,2025-07-23,Junction Traders,Email Security,Software,North,3,5613.17,16839.51,8158.45,8681.06
+ORD11272,2025-07-24,Crest Enterprises,Visitor Chair,Furniture,North,2,4205.17,8410.34,5320.77,3089.57
+ORD10511,2025-07-24,Cobalt Retail,Monitor 24-inch,Electronics,Central,4,12537.4,50149.6,35912.23,14237.37
+ORD10419,2025-07-24,Zenith Solutions,Notebook Pack,Office Accessories,North,5,551.2,2756.0,1361.77,1394.23
+ORD11100,2025-07-24,Nexus Stores,Monitor 27-inch,Electronics,South,1,17706.1,17706.1,13679.85,4026.25
+ORD11061,2025-07-24,Westline Traders,CRM Subscription,Software,North,2,12566.12,25132.24,12449.37,12682.87
+ORD11125,2025-07-25,Liberty Supplies,Power Bank,Electronics,East,2,1864.55,3729.1,2095.1,1634.0
+ORD10473,2025-07-25,Kingdom Traders,Conference Table,Furniture,North,12,29869.49,358433.88,243898.08,114535.8
+ORD11059,2025-07-25,Pacific Traders,UPS,Networking,North,2,4975.78,9951.56,6734.6,3216.96
+ORD10778,2025-07-25,Pioneer Retail,Scanner,Electronics,South,3,8729.4,26188.2,17984.52,8203.68
+ORD10755,2025-07-25,Urban Office,Router,Networking,West,1,4180.99,4180.99,2675.4,1505.59
+ORD11362,2025-07-26,Beacon Supplies,Conference Camera,Electronics,East,2,17077.88,34155.76,22249.86,11905.9
+ORD10016,2025-07-26,Summit Enterprises,Router,Networking,East,1,4229.88,4229.88,2537.96,1691.92
+ORD10774,2025-07-26,Alpha Retail,Project Management Tool,Software,West,5,7401.52,37007.6,19229.0,17778.6
+ORD10512,2025-07-26,ABC Enterprises,Laptop Stand,Office Accessories,Central,5,1203.91,6019.55,3543.45,2476.1
+ORD10787,2025-07-27,Zeta Traders,Barcode Scanner,Electronics,West,2,6237.01,12474.02,7224.82,5249.2
+ORD10010,2025-07-27,Anchor Retail,Ethernet Cable,Networking,East,3,667.08,2001.24,933.5,1067.74
+ORD10959,2025-07-27,Nova Enterprises,Office Desk,Furniture,North,1,13016.41,13016.41,8363.63,4652.78
+ORD10602,2025-07-27,Willow Supplies,Monitor 24-inch,Electronics,East,1,12142.94,12142.94,8812.79,3330.15
+ORD10786,2025-07-28,Eagle Traders,Document Shredder,Office Accessories,Central,1,6669.94,6669.94,4427.96,2241.98
+ORD11123,2025-07-28,Yardley Traders,Barcode Scanner,Electronics,South,8,5676.41,45411.28,29524.56,15886.72
+ORD10735,2025-07-28,Metro Stores,Network Switch,Networking,East,2,6646.01,13292.02,8335.8,4956.22
+ORD10148,2025-07-28,Nimbus Stores,Wi-Fi Adapter,Networking,North,2,1836.74,3673.48,2122.42,1551.06
+ORD11234,2025-07-28,Pioneer Retail,Notebook Pack,Office Accessories,North,1,557.07,557.07,284.15,272.92
+ORD10565,2025-07-28,Bright Mart,Cloud Backup,Software,East,8,5110.94,40887.52,21064.65,19822.87
+ORD10655,2025-07-28,Trinity Stores,Document Shredder,Office Accessories,West,3,6632.39,19897.17,13664.26,6232.91
+ORD10538,2025-07-28,Lighthouse Supplies,Visitor Chair,Furniture,West,4,4328.78,17315.12,11009.31,6305.81
+ORD10167,2025-07-29,Value Retail,Document Shredder,Office Accessories,South,8,7004.42,56035.36,35230.92,20804.44
+ORD10289,2025-07-30,Metro Stores,Webcam,Electronics,West,5,2789.16,13945.8,8440.25,5505.55
+ORD11244,2025-07-30,Anchor Retail,UPS,Networking,South,6,4962.6,29775.6,19588.94,10186.66
+ORD10680,2025-07-30,Apex Supplies,Access Point,Networking,East,12,7283.82,87405.84,50969.71,36436.13
+ORD10471,2025-07-31,Quest Supplies,Keyboard,Electronics,North,8,1339.45,10715.6,6631.97,4083.63
+ORD10793,2025-07-31,Smart Retail,CRM Subscription,Software,South,4,11713.97,46855.88,25574.23,21281.65
+ORD10631,2025-07-31,Apex Supplies,USB Hub,Electronics,West,2,1050.62,2101.24,1217.38,883.86
+ORD11043,2025-07-31,Zeta Traders,Standing Desk,Furniture,North,12,19237.11,230845.32,154598.32,76247.0
+ORD10971,2025-07-31,Everest Traders,Network Switch,Networking,Central,1,6528.2,6528.2,4215.88,2312.32
+ORD10080,2025-07-31,Sharma Distributors,Printer,Electronics,Central,4,14081.53,56326.12,43380.72,12945.4
+ORD11384,2025-07-31,Jade Enterprises,Tablet,Electronics,South,2,23097.68,46195.36,34634.92,11560.44
+ORD11076,2025-08-01,BlueSky Enterprises,Cloud Backup,Software,West,5,4750.79,23753.95,12555.76,11198.19
+ORD10953,2025-08-01,Global Traders,Office Desk,Furniture,West,5,12233.26,61166.3,41359.52,19806.78
+ORD10519,2025-08-02,Liberty Supplies,Desk Chair,Furniture,South,1,8819.38,8819.38,5553.74,3265.64
+ORD10722,2025-08-02,Sharma Distributors,Office Suite,Software,South,3,5992.82,17978.46,10125.81,7852.65
+ORD10718,2025-08-02,Golden Traders,Notebook Pack,Office Accessories,South,1,536.43,536.43,286.95,249.48
+ORD10879,2025-08-02,Nexus Stores,Project Management Tool,Software,North,10,7195.85,71958.5,38061.17,33897.33
+ORD10998,2025-08-02,Global Traders,Scanner,Electronics,West,3,8263.75,24791.25,17271.93,7519.32
+ORD10638,2025-08-02,Quest Supplies,Webcam,Electronics,North,1,2744.26,2744.26,1750.1,994.16
+ORD10704,2025-08-03,Everest Traders,Monitor 27-inch,Electronics,South,5,18833.78,94168.9,66024.57,28144.33
+ORD11143,2025-08-03,Insight Solutions,Barcode Scanner,Electronics,North,3,5957.87,17873.61,10920.34,6953.27
+ORD10686,2025-08-03,Orbit Stores,Notebook Pack,Office Accessories,North,2,563.95,1127.9,553.08,574.82
+ORD10490,2025-08-03,Nova Enterprises,Antivirus License,Software,South,5,2467.54,12337.7,6235.37,6102.33
+ORD10570,2025-08-04,Core Systems,Office Desk,Furniture,West,1,12587.49,12587.49,8520.32,4067.17
+ORD10803,2025-08-04,Fusion Retail,Standing Desk,Furniture,North,4,18803.88,75215.52,49715.06,25500.46
+ORD10228,2025-08-04,Willow Supplies,Standing Desk,Furniture,East,2,19915.3,39830.6,25160.22,14670.38
+ORD10482,2025-08-04,Xenon Stores,External SSD,Electronics,South,6,7964.08,47784.48,34855.39,12929.09
+ORD10620,2025-08-05,Kite Retail,Standing Desk,Furniture,West,1,18718.81,18718.81,12407.75,6311.06
+ORD10061,2025-08-05,Nova Enterprises,Office Suite,Software,West,10,6331.67,63316.7,33791.84,29524.86
+ORD11109,2025-08-05,Galaxy Supplies,Wireless Mouse,Electronics,North,2,872.82,1745.64,1020.36,725.28
+ORD10924,2025-08-05,Loyalty Retail,Network Switch,Networking,South,3,6847.26,20541.78,11947.12,8594.66
+ORD11213,2025-08-06,Prime Retail,Desk Chair,Furniture,West,4,9134.82,36539.28,23586.31,12952.97
+ORD10844,2025-08-06,Heritage Enterprises,Wi-Fi Adapter,Networking,West,2,1723.43,3446.86,2114.0,1332.86
+ORD11481,2025-08-06,Flame Retail,Router,Networking,North,5,4297.47,21487.35,12486.0,9001.35
+ORD10255,2025-08-06,Beta Enterprises,Email Security,Software,North,4,5322.46,21289.84,10823.16,10466.68
+ORD10920,2025-08-06,Woodland Enterprises,Monitor 24-inch,Electronics,Central,3,12533.89,37601.67,28045.63,9556.04
+ORD11368,2025-08-06,Acme Solutions,Project Management Tool,Software,East,4,7762.32,31049.28,16169.36,14879.92
+ORD11019,2025-08-07,Greenfield Retail,Tablet,Electronics,Central,2,22404.21,44808.42,34430.05,10378.37
+ORD10751,2025-08-07,Platinum Retail,Network Switch,Networking,West,6,6498.97,38993.82,23947.17,15046.65
+ORD10979,2025-08-07,Iris Stores,USB Hub,Electronics,Central,5,1114.57,5572.85,3058.84,2514.01
+ORD10881,2025-08-07,Zeta Traders,Printer,Electronics,South,2,14511.88,29023.76,21800.45,7223.31
+ORD11051,2025-08-08,Union Retail,Printer,Electronics,West,6,15062.79,90376.74,60743.76,29632.98
+ORD10539,2025-08-08,Prime Retail,USB Hub,Electronics,South,5,1174.88,5874.4,3164.16,2710.24
+ORD10234,2025-08-08,Galaxy Supplies,Wireless Mouse,Electronics,Central,12,860.64,10327.68,6478.21,3849.47
+ORD10108,2025-08-08,Rapid Supplies,Filing Cabinet,Furniture,West,6,7604.78,45628.68,28242.21,17386.47
+ORD10614,2025-08-08,Zenith Solutions,Power Bank,Electronics,North,2,1936.92,3873.84,2088.45,1785.39
+ORD10079,2025-08-08,Greenfield Retail,CRM Subscription,Software,South,12,12938.49,155261.88,75579.46,79682.42
+ORD10339,2025-08-08,Nexus Stores,Laptop Stand,Office Accessories,North,1,1196.74,1196.74,713.03,483.71
+ORD11391,2025-08-08,Haven Retail,Keyboard,Electronics,South,6,1333.71,8002.26,5142.63,2859.63
+ORD10596,2025-08-09,Pioneer Retail,Office Suite,Software,South,3,6638.89,19916.67,10108.06,9808.61
+ORD10731,2025-08-09,Nimbus Stores,Antivirus License,Software,East,6,2470.83,14824.98,7082.35,7742.63
+ORD11217,2025-08-09,Yardley Traders,USB Hub,Electronics,West,3,1079.1,3237.3,1925.74,1311.56
+ORD10840,2025-08-09,Jade Enterprises,Antivirus License,Software,East,2,2343.49,4686.98,2487.27,2199.71
+ORD11284,2025-08-09,Metro Stores,Pen Set,Office Accessories,North,1,303.27,303.27,120.94,182.33
+ORD10591,2025-08-09,Value Retail,Power Bank,Electronics,East,3,1867.81,5603.43,3216.25,2387.18
+ORD10017,2025-08-10,Beta Enterprises,CRM Subscription,Software,Central,2,12040.2,24080.4,12653.51,11426.89
+ORD11331,2025-08-10,Nexus Stores,Ethernet Cable,Networking,North,2,638.39,1276.78,623.81,652.97
+ORD10807,2025-08-10,Trinity Stores,Webcam,Electronics,North,3,2872.55,8617.65,4980.45,3637.2
+ORD10576,2025-08-11,NextGen Systems,UPS,Networking,North,2,5423.47,10846.94,6484.85,4362.09
+ORD11163,2025-08-11,Matrix Systems,Webcam,Electronics,North,5,2813.0,14065.0,8801.62,5263.38
+ORD10164,2025-08-11,Greenfield Retail,Power Bank,Electronics,West,1,1816.5,1816.5,1051.88,764.62
+ORD10063,2025-08-12,Titan Supplies,CRM Subscription,Software,Central,2,12460.56,24921.12,12637.99,12283.13
+ORD10785,2025-08-12,Kingdom Traders,USB Hub,Electronics,South,2,1066.24,2132.48,1249.57,882.91
+ORD11030,2025-08-12,Unity Enterprises,Scanner,Electronics,Central,2,8118.56,16237.12,12027.8,4209.32
+ORD10189,2025-08-12,Haven Retail,Standing Desk,Furniture,West,2,19096.46,38192.92,25864.06,12328.86
+ORD10753,2025-08-12,Dawn Stores,Keyboard,Electronics,West,5,1349.18,6745.9,4365.21,2380.69
+ORD10136,2025-08-12,Crest Enterprises,Printer,Electronics,North,2,14579.5,29159.0,21503.63,7655.37
+ORD10986,2025-08-12,Nova Enterprises,Wi-Fi Adapter,Networking,Central,3,1764.84,5294.52,3055.14,2239.38
+ORD11050,2025-08-13,Dawn Stores,Webcam,Electronics,South,3,2663.63,7990.89,4930.58,3060.31
+ORD10724,2025-08-13,Woodland Enterprises,Office Suite,Software,North,3,6336.1,19008.3,10257.35,8750.95
+ORD11363,2025-08-13,Bright Mart,Scanner,Electronics,Central,6,8204.81,49228.86,36209.01,13019.85
+ORD10294,2025-08-14,Nimbus Stores,Filing Cabinet,Furniture,South,1,6943.72,6943.72,4837.84,2105.88
+ORD11014,2025-08-14,Insight Solutions,Headset,Electronics,East,2,2194.27,4388.54,2568.74,1819.8
+ORD10662,2025-08-14,Beta Enterprises,Cloud Backup,Software,North,3,5045.13,15135.39,7907.86,7227.53
+ORD10447,2025-08-14,Sharma Distributors,Router,Networking,South,2,4508.19,9016.38,5392.32,3624.06
+ORD10954,2025-08-14,Zeta Traders,Standing Desk,Furniture,West,1,18493.84,18493.84,12028.23,6465.61
+ORD10580,2025-08-15,Crest Enterprises,Ethernet Cable,Networking,Central,1,676.53,676.53,297.99,378.54
+ORD10988,2025-08-15,Trinity Stores,Headset,Electronics,North,2,2282.21,4564.42,2410.4,2154.02
+ORD10428,2025-08-15,Unity Enterprises,Webcam,Electronics,West,5,2811.61,14058.05,8719.08,5338.97
+ORD10101,2025-08-15,Everest Traders,Router,Networking,South,1,4392.62,4392.62,2533.92,1858.7
+ORD10015,2025-08-15,Digital Hub,CRM Subscription,Software,East,12,12724.31,152691.72,75719.73,76971.99
+ORD10155,2025-08-15,Willow Supplies,Standing Desk,Furniture,North,2,19869.58,39739.16,24270.0,15469.16
+ORD11187,2025-08-16,Yellow Stores,Antivirus License,Software,North,12,2575.08,30900.96,14051.07,16849.89
+ORD11062,2025-08-16,Yardley Traders,Wi-Fi Adapter,Networking,South,1,1875.39,1875.39,1085.28,790.11
+ORD10645,2025-08-16,Value Retail,Antivirus License,Software,North,2,2345.08,4690.16,2360.91,2329.25
+ORD10241,2025-08-16,Indigo Stores,Router,Networking,North,2,4289.98,8579.96,5302.7,3277.26
+ORD10089,2025-08-17,Eagle Traders,Office Suite,Software,North,4,6538.87,26155.48,14038.63,12116.85
+ORD11202,2025-08-17,Cobalt Retail,UPS,Networking,East,3,5235.51,15706.53,9716.16,5990.37
+ORD11392,2025-08-19,Westline Traders,Headset,Electronics,East,4,2282.83,9131.32,4888.6,4242.72
+ORD10855,2025-08-19,Junction Traders,Scanner,Electronics,North,1,8118.49,8118.49,5674.31,2444.18
+ORD10102,2025-08-19,Yardley Traders,Project Management Tool,Software,South,2,7241.77,14483.54,8043.69,6439.85
+ORD11097,2025-08-19,Union Retail,Office Desk,Furniture,North,2,12522.53,25045.06,16751.0,8294.06
+ORD10745,2025-08-20,Greenfield Retail,Headset,Electronics,South,1,2261.59,2261.59,1248.56,1013.03
+ORD10823,2025-08-20,Yardley Traders,Document Shredder,Office Accessories,South,6,6691.97,40151.82,26830.9,13320.92
+ORD11379,2025-08-20,Matrix Systems,Webcam,Electronics,South,2,2956.97,5913.94,3482.3,2431.64
+ORD10333,2025-08-20,Fusion Retail,Office Suite,Software,Central,4,6020.27,24081.08,13333.98,10747.1
+ORD11420,2025-08-20,Cobalt Retail,USB Hub,Electronics,South,3,1186.86,3560.58,1887.77,1672.81
+ORD10364,2025-08-20,Tech Solutions,Office Suite,Software,West,4,6366.91,25467.64,13820.47,11647.17
+ORD10283,2025-08-21,Capital Traders,External SSD,Electronics,North,2,7875.88,15751.76,11455.37,4296.39
+ORD10065,2025-08-21,Summit Enterprises,Antivirus License,Software,East,1,2379.63,2379.63,1243.21,1136.42
+ORD10230,2025-08-22,Metro Stores,Headset,Electronics,Central,10,2116.86,21168.6,12672.6,8496.0
+ORD10534,2025-08-22,Fusion Retail,External SSD,Electronics,North,3,7480.98,22442.94,17108.09,5334.85
+ORD11152,2025-08-22,Alpha Retail,Desk Chair,Furniture,North,12,8888.56,106662.72,69900.7,36762.02
+ORD10989,2025-08-23,Brighton Traders,Filing Cabinet,Furniture,North,6,7576.37,45458.22,28822.41,16635.81
+ORD11307,2025-08-23,Iris Stores,Whiteboard,Office Accessories,Central,12,3201.76,38421.12,21974.49,16446.63
+ORD10149,2025-08-23,Core Systems,Monitor 24-inch,Electronics,North,1,13338.43,13338.43,9137.68,4200.75
+ORD11242,2025-08-23,Metro Stores,Whiteboard,Office Accessories,West,8,3150.09,25200.72,15456.9,9743.82
+ORD10104,2025-08-24,Eagle Traders,Antivirus License,Software,East,2,2385.28,4770.56,2476.73,2293.83
+ORD11403,2025-08-24,Vertex Retail,Headset,Electronics,East,3,2253.99,6761.97,3878.37,2883.6
+ORD10904,2025-08-24,ABC Enterprises,Whiteboard,Office Accessories,North,2,3092.1,6184.2,3847.28,2336.92
+ORD10196,2025-08-24,Yardley Traders,Tablet,Electronics,South,5,23501.24,117506.2,86401.46,31104.74
+ORD11393,2025-08-25,Elite Stores,Visitor Chair,Furniture,Central,6,4427.0,26562.0,16144.3,10417.7
+ORD10660,2025-08-25,Union Retail,Project Management Tool,Software,South,1,7808.85,7808.85,3779.39,4029.46
+ORD10575,2025-08-26,Greenfield Retail,Pen Set,Office Accessories,South,4,295.67,1182.68,479.53,703.15
+ORD11079,2025-08-26,Core Systems,Laptop Stand,Office Accessories,East,2,1274.85,2549.7,1378.65,1171.05
+ORD10053,2025-08-26,Everest Traders,Monitor 27-inch,Electronics,South,3,17810.29,53430.87,40472.84,12958.03
+ORD11022,2025-08-27,BlueSky Enterprises,Headset,Electronics,West,1,2361.91,2361.91,1240.87,1121.04
+ORD10403,2025-08-27,Meridian Enterprises,Monitor 24-inch,Electronics,West,6,12649.29,75895.74,56143.25,19752.49
+ORD10472,2025-08-27,Orbit Stores,Monitor 27-inch,Electronics,North,5,19041.16,95205.8,69638.62,25567.18
+ORD10566,2025-08-27,Alpha Retail,Conference Camera,Electronics,North,5,16289.58,81447.9,57355.83,24092.07
+ORD11087,2025-08-27,Tech Solutions,Cloud Backup,Software,West,1,4566.87,4566.87,2582.66,1984.21
+ORD10544,2025-08-27,Keystone Retail,Keyboard,Electronics,West,10,1445.82,14458.2,8380.67,6077.53
+ORD11065,2025-08-27,Jade Traders,Power Bank,Electronics,Central,2,1922.72,3845.44,2020.89,1824.55
+ORD11432,2025-08-27,Diamond Supplies,UPS,Networking,North,1,5492.57,5492.57,3414.37,2078.2
+ORD11439,2025-08-28,Delta Stores,Desk Organizer,Office Accessories,West,1,875.48,875.48,400.23,475.25
+ORD11380,2025-08-28,Elite Stores,Router,Networking,South,10,4185.18,41851.8,25097.06,16754.74
+ORD11423,2025-08-28,Cobalt Retail,Keyboard,Electronics,North,2,1444.17,2888.34,1673.0,1215.34
+ORD10219,2025-08-28,Core Systems,Power Bank,Electronics,West,1,1765.59,1765.59,1089.6,675.99
+ORD10757,2025-08-29,Haven Retail,Printer,Electronics,East,12,14470.82,173649.84,124560.5,49089.34
+ORD11322,2025-08-29,Union Retail,Network Switch,Networking,North,5,6667.13,33335.65,20809.96,12525.69
+ORD10446,2025-08-29,Westline Traders,Monitor 27-inch,Electronics,Central,3,18128.75,54386.25,39024.39,15361.86
+ORD10561,2025-08-30,Westline Traders,Wi-Fi Adapter,Networking,East,6,1749.72,10498.32,6057.65,4440.67
+ORD10073,2025-08-30,Everest Traders,Tablet,Electronics,West,4,23019.19,92076.76,68636.44,23440.32
+ORD11017,2025-08-30,Liberty Supplies,Desk Organizer,Office Accessories,North,2,881.76,1763.52,792.61,970.91
+ORD10402,2025-08-30,Rapid Supplies,Wi-Fi Adapter,Networking,East,6,1939.49,11636.94,6253.42,5383.52
+ORD10206,2025-08-30,Westline Traders,Document Shredder,Office Accessories,West,3,6537.67,19613.01,13338.68,6274.33
+ORD10251,2025-08-30,Kingdom Traders,Monitor 27-inch,Electronics,North,1,19347.18,19347.18,13891.82,5455.36
+ORD11214,2025-08-30,Kingdom Traders,Pen Set,Office Accessories,North,6,301.67,1810.02,706.88,1103.14
+ORD10621,2025-08-30,Bright Mart,Ethernet Cable,Networking,South,2,695.92,1391.84,616.55,775.29
+ORD10059,2025-08-30,Oak Traders,Visitor Chair,Furniture,North,2,4348.02,8696.04,5350.49,3345.55
+ORD10668,2025-08-31,Vantage Supplies,Scanner,Electronics,West,3,8121.93,24365.79,17961.43,6404.36
+ORD10212,2025-08-31,Trinity Stores,Antivirus License,Software,West,12,2385.11,28621.32,14033.8,14587.52
+ORD10734,2025-09-01,NextGen Systems,Desk Chair,Furniture,South,4,8503.13,34012.52,23462.99,10549.53
+ORD11271,2025-09-01,Golden Traders,USB Hub,Electronics,East,1,1110.38,1110.38,622.46,487.92
+ORD10837,2025-09-01,River Enterprises,Tablet,Electronics,South,6,21282.37,127694.22,104311.02,23383.2
+ORD11377,2025-09-02,Mosaic Enterprises,Visitor Chair,Furniture,North,3,4419.89,13259.67,8126.79,5132.88
+ORD10227,2025-09-02,Jupiter Mart,Monitor 27-inch,Electronics,Central,1,18981.13,18981.13,13703.26,5277.87
+ORD10689,2025-09-03,Vantage Supplies,Email Security,Software,Central,3,5421.3,16263.9,8554.89,7709.01
+ORD10850,2025-09-03,Terra Traders,Cloud Backup,Software,East,1,5166.43,5166.43,2602.62,2563.81
+ORD10824,2025-09-03,Jade Traders,Ethernet Cable,Networking,North,2,644.16,1288.32,581.12,707.2
+ORD10107,2025-09-04,Jade Enterprises,Keyboard,Electronics,Central,3,1404.69,4214.07,2648.41,1565.66
+ORD10930,2025-09-04,Oak Traders,Bookshelf,Furniture,Central,2,7133.72,14267.44,8900.09,5367.35
+ORD11180,2025-09-04,Icon Supplies,Cloud Backup,Software,North,1,5177.35,5177.35,2504.17,2673.18
+ORD11273,2025-09-04,NextGen Systems,Visitor Chair,Furniture,South,3,4257.88,12773.64,8326.0,4447.64
+ORD10951,2025-09-04,Pacific Traders,External SSD,Electronics,East,2,8253.37,16506.74,11167.03,5339.71
+ORD10908,2025-09-05,Haven Retail,Cloud Backup,Software,East,3,4937.99,14813.97,7882.29,6931.68
+ORD10262,2025-09-05,Woodland Enterprises,Laptop Stand,Office Accessories,West,6,1221.27,7327.62,4241.52,3086.1
+ORD10636,2025-09-05,Icon Supplies,Desk Organizer,Office Accessories,North,5,887.53,4437.65,1979.7,2457.95
+ORD10349,2025-09-05,ABC Enterprises,Tablet,Electronics,West,4,21378.0,85512.0,68034.8,17477.2
+ORD10728,2025-09-06,Prime Retail,Email Security,Software,North,1,5353.72,5353.72,2711.45,2642.27
+ORD10470,2025-09-06,Delta Stores,USB Hub,Electronics,North,1,1184.15,1184.15,606.42,577.73
+ORD10884,2025-09-06,Emerald Enterprises,Printer,Electronics,South,3,14395.88,43187.64,31987.31,11200.33
+ORD10962,2025-09-06,Jade Traders,Laptop Stand,Office Accessories,East,3,1287.76,3863.28,2084.29,1778.99
+ORD11251,2025-09-06,Westline Traders,Bookshelf,Furniture,East,4,6573.32,26293.28,17097.29,9195.99
+ORD11126,2025-09-06,Cobalt Retail,Filing Cabinet,Furniture,North,1,7194.75,7194.75,4743.77,2450.98
+ORD10394,2025-09-07,Iris Stores,Office Suite,Software,South,2,6107.82,12215.64,7053.73,5161.91
+ORD11440,2025-09-07,BlueSky Enterprises,Notebook Pack,Office Accessories,South,4,583.09,2332.36,1107.18,1225.18
+ORD10055,2025-09-07,Tech Solutions,Antivirus License,Software,East,3,2547.22,7641.66,3645.7,3995.96
+ORD11297,2025-09-07,Mosaic Enterprises,Whiteboard,Office Accessories,South,5,3227.61,16138.05,9196.57,6941.48
+ORD10768,2025-09-07,Bright Mart,Standing Desk,Furniture,West,3,19953.16,59859.48,37449.7,22409.78
+ORD10672,2025-09-08,Orbit Stores,Cloud Backup,Software,South,3,4881.02,14643.06,7541.08,7101.98
+ORD11286,2025-09-08,River Enterprises,Webcam,Electronics,West,1,2995.51,2995.51,1735.02,1260.49
+ORD11327,2025-09-08,Kingdom Traders,Router,Networking,East,4,4276.73,17106.92,10152.89,6954.03
+ORD11436,2025-09-08,Titan Supplies,Monitor 24-inch,Electronics,West,5,12860.92,64304.6,45456.42,18848.18
+ORD10313,2025-09-08,Keystone Retail,Tablet,Electronics,North,5,23755.27,118776.35,86910.52,31865.83
+ORD11325,2025-09-09,BlueSky Enterprises,Bookshelf,Furniture,West,2,6907.79,13815.58,8643.23,5172.35
+ORD11359,2025-09-09,Fusion Retail,Barcode Scanner,Electronics,North,8,5926.44,47411.52,30270.89,17140.63
+ORD10510,2025-09-09,Apex Supplies,CRM Subscription,Software,East,5,12054.25,60271.25,31000.2,29271.05
+ORD10069,2025-09-10,Pioneer Retail,Email Security,Software,Central,1,5622.08,5622.08,2704.3,2917.78
+ORD11328,2025-09-10,Junction Traders,External SSD,Electronics,North,1,7858.96,7858.96,5489.46,2369.5
+ORD11069,2025-09-10,Beta Enterprises,USB Hub,Electronics,South,3,1122.34,3367.02,1907.37,1459.65
+ORD11113,2025-09-10,Omega Traders,Keyboard,Electronics,Central,3,1481.95,4445.85,2602.2,1843.65
+ORD10253,2025-09-11,Harbor Enterprises,Desk Organizer,Office Accessories,South,12,822.58,9870.96,4753.06,5117.9
+ORD10872,2025-09-11,NextGen Systems,Standing Desk,Furniture,West,2,17797.34,35594.68,24915.8,10678.88
+ORD10054,2025-09-11,Zenith Solutions,Power Bank,Electronics,North,4,1721.25,6885.0,4350.91,2534.09
+ORD10310,2025-09-11,Anchor Retail,Pen Set,Office Accessories,South,4,316.39,1265.56,471.16,794.4
+ORD10141,2025-09-12,Golden Traders,Headset,Electronics,North,1,2318.78,2318.78,1217.85,1100.93
+ORD11383,2025-09-12,Woodland Enterprises,Wireless Mouse,Electronics,West,2,971.92,1943.84,1020.7,923.14
+ORD10843,2025-09-12,ABC Enterprises,Router,Networking,North,2,4494.67,8989.34,5087.84,3901.5
+ORD11283,2025-09-12,Crest Enterprises,Network Switch,Networking,West,4,6877.68,27510.72,15941.21,11569.51
+ORD10026,2025-09-12,Apex Supplies,Email Security,Software,West,2,5573.88,11147.76,5659.82,5487.94
+ORD11465,2025-09-12,Flame Retail,Document Shredder,Office Accessories,South,2,6758.77,13517.54,8978.29,4539.25
+ORD10554,2025-09-13,Xenon Stores,Visitor Chair,Furniture,East,10,4216.49,42164.9,26789.04,15375.86
+ORD10972,2025-09-13,Brighton Traders,Barcode Scanner,Electronics,North,5,5665.65,28328.25,18422.3,9905.95
+ORD10081,2025-09-13,Metro Stores,Monitor 27-inch,Electronics,North,4,18580.87,74323.48,55869.39,18454.09
+ORD10282,2025-09-13,Woodland Enterprises,Whiteboard,Office Accessories,South,1,3399.7,3399.7,1861.01,1538.69
+ORD11414,2025-09-14,Zephyr Retail,CRM Subscription,Software,West,1,12021.75,12021.75,6036.4,5985.35
+ORD11015,2025-09-14,Urban Office,Document Shredder,Office Accessories,Central,3,6585.19,19755.57,13070.7,6684.87
+ORD10197,2025-09-14,Orbit Stores,Email Security,Software,West,2,5279.6,10559.2,5389.95,5169.25
+ORD10547,2025-09-14,Alpha Retail,CRM Subscription,Software,West,2,11452.54,22905.08,12776.15,10128.93
+ORD11371,2025-09-14,Prime Retail,Standing Desk,Furniture,South,12,18911.26,226935.12,146041.71,80893.41
+ORD10077,2025-09-16,Future Tech,Network Switch,Networking,Central,5,6948.39,34741.95,21252.27,13489.68
+ORD11386,2025-09-16,Platinum Retail,Email Security,Software,East,3,5766.88,17300.64,8561.49,8739.15
+ORD10905,2025-09-16,Granite Supplies,UPS,Networking,West,12,5604.55,67254.6,39580.93,27673.67
+ORD10316,2025-09-16,Kite Retail,Printer,Electronics,East,5,14879.25,74396.25,52863.21,21533.04
+ORD11230,2025-09-16,NextGen Systems,Visitor Chair,Furniture,South,2,4361.85,8723.7,5345.08,3378.62
+ORD10411,2025-09-17,Digital Hub,Power Bank,Electronics,West,1,1781.64,1781.64,1054.13,727.51
+ORD11345,2025-09-17,Emerald Enterprises,Headset,Electronics,West,1,2185.91,2185.91,1260.8,925.11
+ORD10340,2025-09-17,BlueSky Enterprises,Power Bank,Electronics,West,4,1729.53,6918.12,4328.49,2589.63
+ORD11239,2025-09-18,Alpha Retail,Printer,Electronics,East,2,15527.12,31054.24,20449.71,10604.53
+ORD10180,2025-09-18,Meridian Enterprises,Filing Cabinet,Furniture,West,1,7222.31,7222.31,4751.11,2471.2
+ORD10013,2025-09-18,BlueSky Enterprises,Access Point,Networking,South,4,7696.4,30785.6,18092.85,12692.75
+ORD10618,2025-09-19,Ultra Traders,Visitor Chair,Furniture,West,2,4198.02,8396.04,5533.23,2862.81
+ORD10335,2025-09-19,Insight Solutions,Access Point,Networking,South,4,7609.49,30437.96,17431.63,13006.33
+ORD10640,2025-09-19,Emerald Enterprises,Bookshelf,Furniture,South,2,6960.53,13921.06,8260.31,5660.75
+ORD10276,2025-09-20,Fusion Retail,Network Switch,Networking,West,4,6697.25,26789.0,16574.74,10214.26
+ORD10007,2025-09-21,Global Traders,Visitor Chair,Furniture,South,8,4131.29,33050.32,21880.84,11169.48
+ORD10408,2025-09-21,Flame Retail,Whiteboard,Office Accessories,South,6,3162.56,18975.36,10957.06,8018.3
+ORD10371,2025-09-22,Rapid Supplies,Pen Set,Office Accessories,West,1,309.07,309.07,116.29,192.78
+ORD10344,2025-09-22,Apex Supplies,Email Security,Software,Central,3,5628.59,16885.77,8275.24,8610.53
+ORD11072,2025-09-23,Harbor Enterprises,Wireless Mouse,Electronics,North,5,947.91,4739.55,2598.88,2140.67
+ORD10493,2025-09-23,Oak Traders,Standing Desk,Furniture,West,3,18220.82,54662.46,36862.38,17800.08
+ORD11495,2025-09-23,Nexus Stores,Router,Networking,South,1,4407.87,4407.87,2659.55,1748.32
+ORD11121,2025-09-23,Yardley Traders,Project Management Tool,Software,North,2,7703.16,15406.32,7823.51,7582.81
+ORD10162,2025-09-23,Bright Mart,Network Switch,Networking,North,10,6327.59,63275.9,41222.86,22053.04
+ORD10811,2025-09-23,Vertex Retail,Bookshelf,Furniture,West,1,6541.96,6541.96,4311.08,2230.88
+ORD10810,2025-09-24,Digital Hub,Email Security,Software,North,6,5598.18,33589.08,16713.17,16875.91
+ORD11070,2025-09-24,Summit Enterprises,Bookshelf,Furniture,East,3,7078.38,21235.14,12809.2,8425.94
+ORD10336,2025-09-24,Beta Enterprises,Bookshelf,Furniture,South,3,6713.83,20141.49,13202.23,6939.26
+ORD10613,2025-09-24,Meridian Enterprises,Tablet,Electronics,South,2,23397.09,46794.18,34378.16,12416.02
+ORD10595,2025-09-25,Indigo Stores,Laptop Stand,Office Accessories,West,4,1171.18,4684.72,2700.44,1984.28
+ORD10338,2025-09-25,Fusion Retail,Wireless Mouse,Electronics,East,2,955.29,1910.58,1073.79,836.79
+ORD10374,2025-09-25,Urban Office,Document Shredder,Office Accessories,West,6,7304.27,43825.62,27693.79,16131.83
+ORD10367,2025-09-25,Flame Retail,USB Hub,Electronics,South,1,1065.02,1065.02,608.93,456.09
+ORD10880,2025-09-26,Sharma Distributors,Wireless Mouse,Electronics,West,1,888.9,888.9,509.13,379.77
+ORD10235,2025-09-26,Tech Solutions,Desk Chair,Furniture,West,1,8394.0,8394.0,5521.75,2872.25
+ORD11288,2025-09-26,Galaxy Supplies,External SSD,Electronics,West,3,8213.28,24639.84,17255.11,7384.73
+ORD11253,2025-09-26,Xpress Enterprises,Webcam,Electronics,East,4,2762.84,11051.36,6733.65,4317.71
+ORD10541,2025-09-26,Fusion Retail,Filing Cabinet,Furniture,East,2,7029.31,14058.62,9457.02,4601.6
+ORD10619,2025-09-26,Acme Solutions,UPS,Networking,North,2,5570.41,11140.82,6398.64,4742.18
+ORD10416,2025-09-26,Unity Enterprises,Office Suite,Software,Central,2,6225.39,12450.78,6941.23,5509.55
+ORD10600,2025-09-26,Xenon Stores,Barcode Scanner,Electronics,South,3,5871.06,17613.18,11042.85,6570.33
+ORD10009,2025-09-27,Crest Enterprises,UPS,Networking,South,10,4999.82,49998.2,32197.39,17800.81
+ORD11168,2025-09-27,Lighthouse Supplies,Desk Organizer,Office Accessories,East,3,898.05,2694.15,1207.96,1486.19
+ORD11201,2025-09-27,Matrix Systems,Conference Camera,Electronics,North,10,17331.13,173311.3,115067.65,58243.65
+ORD10744,2025-09-27,Diamond Supplies,Antivirus License,Software,Central,10,2397.52,23975.2,11845.67,12129.53
+ORD10605,2025-09-28,Zenith Solutions,Visitor Chair,Furniture,West,2,4352.28,8704.56,5361.64,3342.92
+ORD10594,2025-09-28,Meridian Enterprises,Bookshelf,Furniture,Central,5,6558.65,32793.25,21686.31,11106.94
+ORD10502,2025-09-28,Golden Traders,Monitor 24-inch,Electronics,East,3,13050.6,39151.8,25939.56,13212.24
+ORD10909,2025-09-28,Yardley Traders,Power Bank,Electronics,North,5,1846.29,9231.45,5118.37,4113.08
+ORD10795,2025-09-28,Diamond Supplies,Tablet,Electronics,West,2,23027.57,46055.14,34726.83,11328.31
+ORD10051,2025-09-29,Harbor Enterprises,Access Point,Networking,North,4,7247.79,28991.16,17923.9,11067.26
+ORD10474,2025-09-29,NextGen Systems,UPS,Networking,North,5,4953.97,24769.85,16195.11,8574.74
+ORD10590,2025-09-29,Capital Traders,Wireless Mouse,Electronics,West,5,915.01,4575.05,2642.45,1932.6
+ORD10588,2025-09-30,Liberty Supplies,Pen Set,Office Accessories,East,3,320.91,962.73,346.75,615.98
+ORD10309,2025-09-30,Union Retail,Webcam,Electronics,North,3,2893.81,8681.43,4922.46,3758.97
+ORD10201,2025-09-30,Dawn Stores,Cloud Backup,Software,West,3,4685.13,14055.39,7794.75,6260.64
+ORD11373,2025-09-30,Apex Supplies,Project Management Tool,Software,West,10,8024.86,80248.6,40198.31,40050.29
+ORD11459,2025-10-01,Zephyr Retail,Wireless Mouse,Electronics,East,3,932.66,2797.98,1558.73,1239.25
+ORD10198,2025-10-01,Diamond Supplies,Router,Networking,West,3,4286.61,12859.83,7587.37,5272.46
+ORD10355,2025-10-02,Nimbus Stores,Desk Chair,Furniture,South,6,9159.89,54959.34,34532.0,20427.34
+ORD10977,2025-10-03,Matrix Systems,Power Bank,Electronics,South,6,1825.36,10952.16,6285.84,4666.32
+ORD10550,2025-10-03,Oak Traders,Bookshelf,Furniture,North,2,7121.39,14242.78,8810.99,5431.79
+ORD10269,2025-10-03,Ultra Traders,Ethernet Cable,Networking,South,4,687.0,2748.0,1164.72,1583.28
+ORD10361,2025-10-03,Beacon Supplies,CRM Subscription,Software,North,4,11579.3,46317.2,23994.21,22322.99
+ORD10568,2025-10-03,Heritage Enterprises,Access Point,Networking,Central,3,7210.62,21631.86,13378.79,8253.07
+ORD11105,2025-10-04,Nimbus Stores,Ethernet Cable,Networking,South,1,627.74,627.74,290.05,337.69
+ORD10346,2025-10-04,Summit Enterprises,Tablet,Electronics,Central,6,21187.82,127126.92,98702.34,28424.58
+ORD10035,2025-10-04,Westline Traders,Cloud Backup,Software,East,2,5024.36,10048.72,5291.91,4756.81
+ORD10861,2025-10-04,Value Retail,Visitor Chair,Furniture,North,1,4074.37,4074.37,2686.95,1387.42
+ORD10037,2025-10-04,Beacon Supplies,Power Bank,Electronics,East,4,1866.53,7466.12,4322.36,3143.76
+ORD10763,2025-10-05,Horizon Supplies,Standing Desk,Furniture,West,1,17864.47,17864.47,12067.6,5796.87
+ORD10463,2025-10-05,Apex Supplies,Standing Desk,Furniture,East,4,18115.86,72463.44,49725.52,22737.92
+ORD10711,2025-10-06,Capital Traders,USB Hub,Electronics,North,4,1180.7,4722.8,2409.08,2313.72
+ORD10546,2025-10-06,Westline Traders,USB Hub,Electronics,South,5,1155.63,5778.15,3161.46,2616.69
+ORD10822,2025-10-06,Unity Enterprises,Standing Desk,Furniture,North,3,18597.01,55791.03,37148.65,18642.38
+ORD10664,2025-10-07,Digital Hub,Office Suite,Software,West,1,5962.44,5962.44,3427.45,2534.99
+ORD10433,2025-10-07,Orbit Stores,Wireless Mouse,Electronics,West,1,869.55,869.55,516.41,353.14
+ORD11166,2025-10-07,Horizon Supplies,External SSD,Electronics,East,6,7521.56,45129.36,34802.69,10326.67
+ORD11169,2025-10-07,Terra Traders,Conference Camera,Electronics,North,6,15795.12,94770.72,67093.06,27677.66
+ORD11354,2025-10-08,NextGen Systems,Webcam,Electronics,North,5,3012.92,15064.6,8667.45,6397.15
+ORD11256,2025-10-08,Kingdom Traders,Webcam,Electronics,East,3,2784.46,8353.38,5273.08,3080.3
+ORD11311,2025-10-08,Rapid Supplies,Barcode Scanner,Electronics,East,1,5806.19,5806.19,3800.31,2005.88
+ORD10426,2025-10-08,Core Systems,Power Bank,Electronics,North,2,1821.25,3642.5,2122.57,1519.93
+ORD10343,2025-10-08,Beacon Supplies,Cloud Backup,Software,South,8,4609.55,36876.4,21185.21,15691.19
+ORD11430,2025-10-09,Smart Retail,Filing Cabinet,Furniture,South,4,7231.25,28925.0,19300.7,9624.3
+ORD10821,2025-10-10,Pacific Traders,Office Desk,Furniture,South,3,13124.21,39372.63,24606.37,14766.26
+ORD10641,2025-10-10,Liberty Supplies,Router,Networking,North,2,4483.72,8967.44,5147.88,3819.56
+ORD10483,2025-10-10,Insight Solutions,Network Switch,Networking,South,6,6326.47,37958.82,25190.41,12768.41
+ORD11141,2025-10-10,Iris Stores,Office Desk,Furniture,Central,1,12468.2,12468.2,8454.06,4014.14
+ORD10712,2025-10-11,Willow Supplies,Ethernet Cable,Networking,South,4,631.85,2527.4,1157.32,1370.08
+ORD10499,2025-10-11,Beta Enterprises,Laptop Stand,Office Accessories,Central,1,1230.94,1230.94,686.17,544.77
+ORD10382,2025-10-11,Nimbus Stores,Office Suite,Software,South,4,6236.52,24946.08,13788.19,11157.89
+ORD11099,2025-10-11,Nimbus Stores,Barcode Scanner,Electronics,South,3,5937.3,17811.9,11366.13,6445.77
+ORD10137,2025-10-12,Silver Stores,External SSD,Electronics,West,3,7982.75,23948.25,16216.31,7731.94
+ORD10747,2025-10-12,Royal Distributors,Desk Organizer,Office Accessories,West,1,881.46,881.46,381.62,499.84
+ORD10628,2025-10-13,Everest Traders,Office Desk,Furniture,West,2,11944.96,23889.92,17382.11,6507.81
+ORD10259,2025-10-13,Haven Retail,Headset,Electronics,West,4,2115.39,8461.56,5184.67,3276.89
+ORD10357,2025-10-13,Platinum Retail,Desk Chair,Furniture,North,1,8592.99,8592.99,5609.38,2983.61
+ORD11238,2025-10-15,Unity Enterprises,Headset,Electronics,East,3,2238.04,6714.12,3773.36,2940.76
+ORD10195,2025-10-15,Harbor Enterprises,Wireless Mouse,Electronics,Central,5,881.92,4409.6,2523.32,1886.28
+ORD10263,2025-10-15,Digital Hub,Document Shredder,Office Accessories,North,4,6908.05,27632.2,17509.4,10122.8
+ORD10042,2025-10-15,Emerald Enterprises,Project Management Tool,Software,West,2,7372.81,14745.62,7672.26,7073.36
+ORD11175,2025-10-16,Galaxy Supplies,Email Security,Software,East,1,5203.4,5203.4,2885.34,2318.06
+ORD10976,2025-10-16,Yellow Stores,Desk Organizer,Office Accessories,East,1,859.94,859.94,385.68,474.26
+ORD11139,2025-10-16,Future Tech,Wireless Mouse,Electronics,North,2,960.25,1920.5,1074.18,846.32
+ORD11033,2025-10-16,Urban Office,Wi-Fi Adapter,Networking,South,12,1775.03,21300.36,12598.17,8702.19
+ORD10082,2025-10-16,Pacific Traders,Laptop Stand,Office Accessories,South,3,1293.7,3881.1,2079.29,1801.81
+ORD10978,2025-10-16,Ultra Traders,Access Point,Networking,East,3,7390.28,22170.84,13658.87,8511.97
+ORD10233,2025-10-16,Junction Traders,Laptop Stand,Office Accessories,East,2,1242.79,2485.58,1388.11,1097.47
+ORD11302,2025-10-17,Acme Solutions,Document Shredder,Office Accessories,East,5,7066.31,35331.55,23099.89,12231.66
+ORD11083,2025-10-17,Fusion Retail,Laptop Stand,Office Accessories,South,10,1225.03,12250.3,7090.42,5159.88
+ORD11052,2025-10-17,Unity Enterprises,Webcam,Electronics,West,1,2971.1,2971.1,1717.76,1253.34
+ORD11102,2025-10-17,Granite Supplies,Office Desk,Furniture,East,10,12224.81,122248.1,87115.51,35132.59
+ORD10267,2025-10-18,Union Retail,Power Bank,Electronics,North,8,1913.13,15305.04,8605.58,6699.46
+ORD10633,2025-10-18,River Enterprises,Project Management Tool,Software,Central,1,7497.7,7497.7,3937.24,3560.46
+ORD10142,2025-10-18,Future Tech,Barcode Scanner,Electronics,South,12,6067.65,72811.8,45489.93,27321.87
+ORD10158,2025-10-18,BlueSky Enterprises,Keyboard,Electronics,South,1,1330.43,1330.43,881.8,448.63
+ORD11265,2025-10-18,Rapid Supplies,Printer,Electronics,West,1,14650.94,14650.94,10769.42,3881.52
+ORD11410,2025-10-18,Quest Supplies,Notebook Pack,Office Accessories,East,2,539.18,1078.36,570.49,507.87
+ORD10841,2025-10-19,NextGen Systems,Desk Organizer,Office Accessories,West,3,833.91,2501.73,1182.06,1319.67
+ORD11185,2025-10-19,Loyalty Retail,Wi-Fi Adapter,Networking,West,3,1772.66,5317.98,3138.65,2179.33
+ORD11049,2025-10-20,Haven Retail,Pen Set,Office Accessories,North,3,290.66,871.98,360.7,511.28
+ORD10252,2025-10-20,Nimbus Stores,Router,Networking,South,2,4102.58,8205.16,5257.39,2947.77
+ORD11054,2025-10-20,Urban Office,Wi-Fi Adapter,Networking,West,5,1882.1,9410.5,5073.61,4336.89
+ORD10567,2025-10-20,Jade Enterprises,Wi-Fi Adapter,Networking,West,4,1937.77,7751.08,4188.24,3562.84
+ORD10809,2025-10-20,Kingdom Traders,Desk Chair,Furniture,West,4,8292.12,33168.48,22274.22,10894.26
+ORD11200,2025-10-20,Emerald Enterprises,Antivirus License,Software,North,2,2367.24,4734.48,2328.46,2406.02
+ORD10916,2025-10-20,Vantage Supplies,Cloud Backup,Software,South,6,4738.55,28431.3,15775.28,12656.02
+ORD11101,2025-10-20,NextGen Systems,Laptop Stand,Office Accessories,West,2,1285.47,2570.94,1440.26,1130.68
+ORD10608,2025-10-21,Orbit Stores,Router,Networking,North,10,4064.85,40648.5,26486.48,14162.02
+ORD10090,2025-10-21,Summit Enterprises,Standing Desk,Furniture,East,4,18909.33,75637.32,48364.01,27273.31
+ORD11146,2025-10-21,Jade Traders,Access Point,Networking,Central,8,6848.58,54788.64,34359.14,20429.5
+ORD10003,2025-10-21,Loyalty Retail,Wireless Mouse,Electronics,North,1,876.46,876.46,511.86,364.6
+ORD10706,2025-10-21,Yardley Traders,Printer,Electronics,South,10,15440.52,154405.2,103073.21,51331.99
+ORD11048,2025-10-22,Omega Traders,Bookshelf,Furniture,Central,1,7084.09,7084.09,4209.94,2874.15
+ORD11300,2025-10-22,Kingdom Traders,Notebook Pack,Office Accessories,Central,1,553.49,553.49,277.69,275.8
+ORD10187,2025-10-22,Greenfield Retail,Wireless Mouse,Electronics,North,2,927.18,1854.36,1080.03,774.33
+ORD10517,2025-10-22,Alpha Retail,Network Switch,Networking,South,8,6261.67,50093.36,32518.53,17574.83
+ORD10173,2025-10-22,Summit Enterprises,Pen Set,Office Accessories,North,3,308.92,926.76,350.41,576.35
+ORD10319,2025-10-22,Ultra Traders,Visitor Chair,Furniture,North,3,4388.31,13164.93,8272.05,4892.88
+ORD11148,2025-10-22,Terra Traders,Tablet,Electronics,North,5,23526.3,117631.5,83382.03,34249.47
+ORD11267,2025-10-23,River Enterprises,Antivirus License,Software,West,3,2411.39,7234.17,3574.23,3659.94
+ORD11066,2025-10-23,Oak Traders,Office Suite,Software,North,4,6185.02,24740.08,13934.13,10805.95
+ORD10659,2025-10-23,Core Systems,Document Shredder,Office Accessories,West,4,7120.42,28481.68,17594.95,10886.73
+ORD10118,2025-10-23,Delta Stores,Headset,Electronics,East,3,2197.81,6593.43,3738.8,2854.63
+ORD11164,2025-10-23,Xpress Enterprises,USB Hub,Electronics,North,1,1132.47,1132.47,623.26,509.21
+ORD10571,2025-10-23,Eagle Traders,Headset,Electronics,South,3,2169.61,6508.83,3839.49,2669.34
+ORD11055,2025-10-24,Xenon Stores,Filing Cabinet,Furniture,West,10,6848.52,68485.2,46369.58,22115.62
+ORD10921,2025-10-24,Omega Traders,Notebook Pack,Office Accessories,Central,6,555.23,3331.38,1647.6,1683.78
+ORD10030,2025-10-25,Anchor Retail,Visitor Chair,Furniture,North,2,4085.53,8171.06,5608.3,2562.76
+ORD10738,2025-10-25,Nimbus Stores,Printer,Electronics,West,2,14559.66,29119.32,20759.04,8360.28
+ORD11337,2025-10-25,Beta Enterprises,Printer,Electronics,North,8,14617.9,116943.2,83576.34,33366.86
+ORD10847,2025-10-26,Xpress Enterprises,Standing Desk,Furniture,West,6,18697.84,112187.04,74158.32,38028.72
+ORD10043,2025-10-26,Orbit Stores,Access Point,Networking,East,2,7597.56,15195.12,9018.32,6176.8
+ORD10940,2025-10-27,Titan Supplies,Office Desk,Furniture,North,5,12157.69,60788.45,42028.13,18760.32
+ORD11367,2025-10-27,Zeta Traders,Ethernet Cable,Networking,West,1,621.93,621.93,309.79,312.14
+ORD11263,2025-10-27,Tech Solutions,Monitor 24-inch,Electronics,North,1,12200.76,12200.76,8937.7,3263.06
+ORD11471,2025-10-27,Icon Supplies,Antivirus License,Software,South,4,2451.79,9807.16,4704.22,5102.94
+ORD10893,2025-10-27,Royal Distributors,Ethernet Cable,Networking,East,2,626.22,1252.44,604.08,648.36
+ORD11340,2025-10-27,Harbor Enterprises,Project Management Tool,Software,East,1,7454.3,7454.3,3874.56,3579.74
+ORD10836,2025-10-27,NextGen Systems,Bookshelf,Furniture,East,2,6726.8,13453.6,8281.73,5171.87
+ORD11402,2025-10-27,Vantage Supplies,Document Shredder,Office Accessories,South,2,6470.67,12941.34,9013.63,3927.71
+ORD11224,2025-10-28,Quest Supplies,Headset,Electronics,North,2,2325.84,4651.68,2521.67,2130.01
+ORD10918,2025-10-28,Nova Enterprises,Whiteboard,Office Accessories,East,3,3046.09,9138.27,5892.04,3246.23
+ORD10298,2025-10-29,Loyalty Retail,Webcam,Electronics,Central,1,2679.6,2679.6,1675.53,1004.07
+ORD10514,2025-10-30,BlueSky Enterprises,Cloud Backup,Software,North,3,5062.85,15188.55,7492.97,7695.58
+ORD10145,2025-10-30,Brighton Traders,Monitor 27-inch,Electronics,North,2,18198.91,36397.82,26740.14,9657.68
+ORD10725,2025-10-30,NextGen Systems,Webcam,Electronics,West,5,2865.26,14326.3,8337.59,5988.71
+ORD11215,2025-10-30,Everest Traders,Project Management Tool,Software,North,3,7944.43,23833.29,11888.41,11944.88
+ORD11413,2025-10-31,Pacific Traders,Access Point,Networking,East,1,7468.4,7468.4,4408.15,3060.25
+ORD10961,2025-10-31,Delta Stores,Laptop Stand,Office Accessories,West,1,1238.76,1238.76,722.35,516.41
+ORD10808,2025-10-31,Junction Traders,Webcam,Electronics,West,6,2726.18,16357.08,10143.16,6213.92
+ORD10031,2025-10-31,Insight Solutions,Bookshelf,Furniture,West,3,7240.25,21720.75,12578.75,9142.0
+ORD10208,2025-11-01,Nimbus Stores,Filing Cabinet,Furniture,North,1,7678.86,7678.86,4836.39,2842.47
+ORD10172,2025-11-01,Indigo Stores,Pen Set,Office Accessories,East,1,322.3,322.3,122.86,199.44
+ORD10527,2025-11-01,Crest Enterprises,Keyboard,Electronics,West,2,1422.42,2844.84,1689.02,1155.82
+ORD11194,2025-11-01,Junction Traders,Desk Chair,Furniture,East,1,8838.13,8838.13,5733.02,3105.11
+ORD11401,2025-11-02,Everest Traders,Tablet,Electronics,North,3,22754.79,68264.37,49631.63,18632.74
+ORD10760,2025-11-02,Everest Traders,Wi-Fi Adapter,Networking,South,2,1720.78,3441.56,2172.38,1269.18
+ORD10710,2025-11-02,Silver Stores,Bookshelf,Furniture,North,12,7164.09,85969.08,52659.9,33309.18
+ORD11246,2025-11-02,Granite Supplies,Antivirus License,Software,North,1,2314.21,2314.21,1206.44,1107.77
+ORD10347,2025-11-03,Loyalty Retail,Ethernet Cable,Networking,West,5,672.52,3362.6,1514.51,1848.09
+ORD10213,2025-11-03,Willow Supplies,Ethernet Cable,Networking,Central,1,672.7,672.7,295.98,376.72
+ORD11218,2025-11-03,Jade Enterprises,Ethernet Cable,Networking,North,3,673.44,2020.32,897.47,1122.85
+ORD10439,2025-11-03,Meridian Enterprises,Desk Chair,Furniture,North,3,8991.89,26975.67,17245.21,9730.46
+ORD11411,2025-11-04,Global Traders,Conference Table,Furniture,West,1,27532.84,27532.84,19845.69,7687.15
+ORD11358,2025-11-04,Junction Traders,Headset,Electronics,South,4,2307.56,9230.24,4859.95,4370.29
+ORD10479,2025-11-04,Value Retail,Keyboard,Electronics,East,1,1469.18,1469.18,861.63,607.55
+ORD10852,2025-11-04,Iris Stores,Antivirus License,Software,South,3,2350.97,7052.91,3503.86,3549.05
+ORD11020,2025-11-04,River Enterprises,Network Switch,Networking,East,2,6464.15,12928.3,7999.57,4928.73
+ORD10775,2025-11-04,Falcon Stores,Office Suite,Software,West,3,5952.75,17858.25,10571.65,7286.6
+ORD11351,2025-11-04,Titan Supplies,UPS,Networking,South,2,5442.64,10885.28,6642.63,4242.65
+ORD10717,2025-11-05,Flame Retail,Whiteboard,Office Accessories,South,8,3385.54,27084.32,14865.18,12219.14
+ORD11425,2025-11-05,Eagle Traders,Bookshelf,Furniture,East,4,6467.31,25869.24,17585.23,8284.01
+ORD10199,2025-11-05,Prime Retail,Headset,Electronics,West,5,2331.61,11658.05,6380.51,5277.54
+ORD10308,2025-11-06,Xpress Enterprises,Access Point,Networking,South,1,7419.94,7419.94,4349.13,3070.81
+ORD10927,2025-11-06,Nimbus Stores,Whiteboard,Office Accessories,South,3,3410.65,10231.95,5731.69,4500.26
+ORD11310,2025-11-06,Everest Traders,Desk Organizer,Office Accessories,West,5,916.82,4584.1,1977.95,2606.15
+ORD10875,2025-11-07,Jade Enterprises,Monitor 24-inch,Electronics,East,6,12100.82,72604.92,55068.33,17536.59
+ORD11196,2025-11-07,Indigo Stores,Bookshelf,Furniture,South,3,6729.48,20188.44,13093.92,7094.52
+ORD10452,2025-11-07,Smart Retail,Email Security,Software,Central,4,5818.79,23275.16,10922.34,12352.82
+ORD10260,2025-11-07,BlueSky Enterprises,Network Switch,Networking,South,3,6532.17,19596.51,12616.66,6979.85
+ORD10516,2025-11-07,Omega Traders,Barcode Scanner,Electronics,East,6,6208.14,37248.84,22434.82,14814.02
+ORD10084,2025-11-07,Prime Retail,USB Hub,Electronics,East,4,1121.41,4485.64,2529.58,1956.06
+ORD11024,2025-11-08,Alpha Retail,Laptop Stand,Office Accessories,East,1,1211.87,1211.87,688.03,523.84
+ORD11209,2025-11-08,Terra Traders,Webcam,Electronics,East,3,2975.62,8926.86,5284.69,3642.17
+ORD11434,2025-11-08,NextGen Systems,Monitor 24-inch,Electronics,East,2,12158.81,24317.62,18502.26,5815.36
+ORD10515,2025-11-08,Cobalt Retail,Notebook Pack,Office Accessories,West,2,575.59,1151.18,541.03,610.15
+ORD10175,2025-11-09,Metro Stores,Whiteboard,Office Accessories,North,1,3438.22,3438.22,1949.58,1488.64
+ORD10726,2025-11-09,Omega Traders,UPS,Networking,North,1,5286.91,5286.91,3202.45,2084.46
+ORD10944,2025-11-09,Platinum Retail,Desk Chair,Furniture,West,1,8867.7,8867.7,5774.94,3092.76
+ORD10438,2025-11-09,Bright Mart,Bookshelf,Furniture,West,1,6725.02,6725.02,4350.38,2374.64
+ORD10593,2025-11-09,Union Retail,Desk Chair,Furniture,North,6,8252.55,49515.3,32900.32,16614.98
+ORD10351,2025-11-09,River Enterprises,Scanner,Electronics,Central,8,8332.2,66657.6,48360.73,18296.87
+ORD10485,2025-11-09,Future Tech,CRM Subscription,Software,Central,1,11888.07,11888.07,6415.91,5472.16
+ORD11258,2025-11-09,Galaxy Supplies,Notebook Pack,Office Accessories,West,2,525.2,1050.4,543.11,507.29
+ORD10915,2025-11-10,Global Traders,USB Hub,Electronics,North,5,1055.12,5275.6,3139.78,2135.82
+ORD10280,2025-11-10,Zephyr Retail,Access Point,Networking,North,4,7142.8,28571.2,18070.7,10500.5
+ORD11114,2025-11-10,Golden Traders,Ethernet Cable,Networking,East,3,636.91,1910.73,878.37,1032.36
+ORD10958,2025-11-10,Heritage Enterprises,External SSD,Electronics,Central,2,7695.22,15390.44,11120.37,4270.07
+ORD11120,2025-11-10,Royal Distributors,Antivirus License,Software,West,1,2419.06,2419.06,1156.74,1262.32
+ORD10665,2025-11-10,Loyalty Retail,Bookshelf,Furniture,East,1,7212.81,7212.81,4469.06,2743.75
+ORD10784,2025-11-10,Beacon Supplies,Barcode Scanner,Electronics,South,4,6313.76,25255.04,15179.26,10075.78
+ORD10589,2025-11-11,Royal Distributors,Whiteboard,Office Accessories,West,5,3285.42,16427.1,9124.89,7302.21
+ORD10105,2025-11-11,Kite Retail,USB Hub,Electronics,South,4,1078.92,4315.68,2400.99,1914.69
+ORD10864,2025-11-11,Crest Enterprises,Cloud Backup,Software,West,5,4575.0,22875.0,13035.51,9839.49
+ORD10498,2025-11-11,Titan Supplies,Project Management Tool,Software,West,10,7131.52,71315.2,39849.58,31465.62
+ORD10295,2025-11-11,Titan Supplies,Scanner,Electronics,Central,3,8752.3,26256.9,18327.4,7929.5
+ORD10557,2025-11-11,Heritage Enterprises,Monitor 27-inch,Electronics,West,12,19934.59,239215.08,163937.64,75277.44
+ORD10006,2025-11-12,Yardley Traders,Scanner,Electronics,North,6,8411.6,50469.6,34260.61,16208.99
+ORD10548,2025-11-12,Smart Retail,USB Hub,Electronics,South,3,1073.75,3221.25,1862.11,1359.14
+ORD11493,2025-11-12,Emerald Enterprises,Notebook Pack,Office Accessories,North,2,544.25,1088.5,572.13,516.37
+ORD10658,2025-11-12,Vertex Retail,Power Bank,Electronics,West,2,1743.55,3487.1,2019.09,1468.01
+ORD10653,2025-11-12,Unity Enterprises,Pen Set,Office Accessories,West,3,318.17,954.51,351.4,603.11
+ORD10273,2025-11-12,Matrix Systems,USB Hub,Electronics,North,1,1047.53,1047.53,625.09,422.44
+ORD10044,2025-11-12,Future Tech,Webcam,Electronics,North,3,2950.58,8851.74,5161.19,3690.55
+ORD10708,2025-11-12,Galaxy Supplies,Scanner,Electronics,Central,10,8128.81,81288.1,57102.6,24185.5
+ORD10754,2025-11-13,Woodland Enterprises,UPS,Networking,South,1,5145.67,5145.67,3204.76,1940.91
+ORD11326,2025-11-13,Orbit Stores,Standing Desk,Furniture,South,1,19734.2,19734.2,12349.9,7384.3
+ORD10526,2025-11-13,Capital Traders,External SSD,Electronics,South,3,8404.16,25212.48,16816.51,8395.97
+ORD10505,2025-11-14,Vertex Retail,Document Shredder,Office Accessories,Central,4,6531.74,26126.96,18650.15,7476.81
+ORD10743,2025-11-14,Value Retail,Network Switch,Networking,West,6,6872.3,41233.8,25180.67,16053.13
+ORD10492,2025-11-14,Omega Traders,Monitor 27-inch,Electronics,South,1,18975.15,18975.15,13180.8,5794.35
+ORD10311,2025-11-15,Unity Enterprises,Antivirus License,Software,West,1,2384.28,2384.28,1227.35,1156.93
+ORD11324,2025-11-15,Willow Supplies,Desk Organizer,Office Accessories,Central,2,824.92,1649.84,759.66,890.18
+ORD11228,2025-11-15,Smart Retail,Desk Organizer,Office Accessories,South,6,859.75,5158.5,2253.72,2904.78
+ORD10772,2025-11-15,Smart Retail,Visitor Chair,Furniture,West,2,4229.5,8459.0,5606.28,2852.72
+ORD11496,2025-11-16,Future Tech,Scanner,Electronics,South,2,8823.6,17647.2,12043.94,5603.26
+ORD10203,2025-11-16,Keystone Retail,Ethernet Cable,Networking,West,3,668.2,2004.6,885.0,1119.6
+ORD11153,2025-11-16,Sharma Distributors,UPS,Networking,East,2,5571.11,11142.22,6716.14,4426.08
+ORD10422,2025-11-16,NextGen Systems,External SSD,Electronics,West,10,8248.29,82482.9,54342.09,28140.81
+ORD10113,2025-11-17,Delta Stores,CRM Subscription,Software,South,1,11582.05,11582.05,6186.69,5395.36
+ORD10507,2025-11-17,Nimbus Stores,Conference Camera,Electronics,North,3,15821.84,47465.52,33253.55,14211.97
+ORD10714,2025-11-19,Icon Supplies,Whiteboard,Office Accessories,East,4,3343.12,13372.48,7487.74,5884.74
+ORD10994,2025-11-19,Kingdom Traders,Access Point,Networking,West,1,7015.36,7015.36,4235.43,2779.93
+ORD10882,2025-11-20,Diamond Supplies,CRM Subscription,Software,West,1,11894.37,11894.37,6084.33,5810.04
+ORD10467,2025-11-20,Quantum Solutions,Router,Networking,West,8,4241.16,33929.28,20126.17,13803.11
+ORD10376,2025-11-20,Royal Distributors,Power Bank,Electronics,East,6,1865.06,11190.36,6094.51,5095.85
+ORD10791,2025-11-20,Yellow Stores,Wi-Fi Adapter,Networking,West,1,1843.48,1843.48,1056.85,786.63
+ORD10883,2025-11-20,Vantage Supplies,Scanner,Electronics,West,1,8787.16,8787.16,5750.31,3036.85
+ORD10826,2025-11-20,Ultra Traders,Antivirus License,Software,North,4,2370.49,9481.96,4685.36,4796.6
+ORD11378,2025-11-20,Titan Supplies,Cloud Backup,Software,West,5,4972.9,24864.5,13329.64,11534.86
+ORD10625,2025-11-20,Royal Distributors,Network Switch,Networking,East,6,6210.42,37262.52,24440.95,12821.57
+ORD10128,2025-11-20,Golden Traders,Monitor 27-inch,Electronics,South,10,19275.91,192759.1,131247.42,61511.68
+ORD10171,2025-11-20,Terra Traders,Ethernet Cable,Networking,South,2,621.06,1242.12,576.86,665.26
+ORD10243,2025-11-20,Iris Stores,Office Suite,Software,North,3,6046.81,18140.43,9927.73,8212.7
+ORD11313,2025-11-20,Beacon Supplies,Desk Chair,Furniture,East,4,8521.58,34086.32,23484.68,10601.64
+ORD10683,2025-11-20,Rapid Supplies,Desk Organizer,Office Accessories,Central,5,892.63,4463.15,1924.62,2538.53
+ORD10673,2025-11-21,Brighton Traders,Conference Camera,Electronics,North,2,15878.7,31757.4,22068.33,9689.07
+ORD10867,2025-11-21,Titan Supplies,Ethernet Cable,Networking,West,1,673.95,673.95,291.2,382.75
+ORD10643,2025-11-21,Quest Supplies,Whiteboard,Office Accessories,South,1,3227.22,3227.22,1875.29,1351.93
+ORD10405,2025-11-21,Loyalty Retail,Printer,Electronics,West,12,14191.11,170293.32,128359.02,41934.3
+ORD10890,2025-11-22,Acme Solutions,Notebook Pack,Office Accessories,East,1,577.98,577.98,286.9,291.08
+ORD10903,2025-11-22,Emerald Enterprises,Keyboard,Electronics,West,3,1394.66,4183.98,2587.23,1596.75
+ORD11000,2025-11-22,Nova Enterprises,Pen Set,Office Accessories,North,1,290.68,290.68,121.9,168.78
+ORD11463,2025-11-22,Dawn Stores,Wireless Mouse,Electronics,Central,2,963.85,1927.7,1028.74,898.96
+ORD11208,2025-11-23,Anchor Retail,Pen Set,Office Accessories,West,6,312.04,1872.24,701.01,1171.23
+ORD10465,2025-11-23,Yardley Traders,Whiteboard,Office Accessories,East,8,3214.49,25715.92,15540.92,10175.0
+ORD11165,2025-11-23,Emerald Enterprises,Conference Camera,Electronics,Central,3,17762.93,53288.79,33435.18,19853.61
+ORD10018,2025-11-23,Sharma Distributors,Project Management Tool,Software,South,8,7733.75,61870.0,30689.9,31180.1
+ORD10328,2025-11-23,Royal Distributors,Project Management Tool,Software,West,3,7635.31,22905.93,11339.42,11566.51
+ORD10945,2025-11-24,Crest Enterprises,Antivirus License,Software,East,1,2286.23,2286.23,1208.31,1077.92
+ORD11138,2025-11-24,Icon Supplies,Monitor 27-inch,Electronics,North,3,19811.34,59434.02,40447.5,18986.52
+ORD10771,2025-11-24,Lighthouse Supplies,Laptop Stand,Office Accessories,North,10,1161.38,11613.8,7021.05,4592.75
+ORD11409,2025-11-25,Capital Traders,Webcam,Electronics,East,3,2823.07,8469.21,4945.28,3523.93
+ORD10815,2025-11-25,Vertex Retail,Wireless Mouse,Electronics,West,3,894.13,2682.39,1562.41,1119.98
+ORD11104,2025-11-26,Indigo Stores,Monitor 27-inch,Electronics,Central,1,18456.76,18456.76,13628.65,4828.11
+ORD10814,2025-11-26,Xpress Enterprises,Standing Desk,Furniture,East,1,18364.77,18364.77,12487.21,5877.56
+ORD10974,2025-11-26,Junction Traders,Pen Set,Office Accessories,North,6,300.02,1800.12,715.27,1084.85
+ORD10092,2025-11-26,Trinity Stores,Wi-Fi Adapter,Networking,South,2,1817.44,3634.88,2180.65,1454.23
+ORD11241,2025-11-26,Elite Stores,Tablet,Electronics,North,8,21634.05,173072.4,135399.77,37672.63
+ORD11245,2025-11-26,Beacon Supplies,UPS,Networking,Central,10,5090.92,50909.2,34114.89,16794.31
+ORD10330,2025-11-26,Oak Traders,Office Suite,Software,South,1,6425.34,6425.34,3322.78,3102.56
+ORD10992,2025-11-27,Horizon Supplies,Tablet,Electronics,North,2,21210.03,42420.06,34610.51,7809.55
+ORD10487,2025-11-27,Xpress Enterprises,Monitor 27-inch,Electronics,West,2,19069.21,38138.42,26641.55,11496.87
+ORD10442,2025-11-27,Emerald Enterprises,Router,Networking,North,3,4414.2,13242.6,7615.91,5626.69
+ORD11306,2025-11-27,Dawn Stores,Pen Set,Office Accessories,East,8,288.24,2305.92,936.27,1369.65
+ORD10699,2025-11-28,Summit Enterprises,External SSD,Electronics,North,2,7544.03,15088.06,11146.11,3941.95
+ORD11039,2025-11-28,Yellow Stores,Tablet,Electronics,North,4,22804.35,91217.4,66547.75,24669.65
+ORD10363,2025-11-28,Summit Enterprises,Bookshelf,Furniture,South,3,6581.57,19744.71,12735.72,7008.99
+ORD10215,2025-11-28,Core Systems,Power Bank,Electronics,South,10,1807.32,18073.2,10790.85,7282.35
+ORD11431,2025-11-29,Zeta Traders,Bookshelf,Furniture,North,4,6463.85,25855.4,17784.32,8071.08
+ORD11483,2025-11-29,Summit Enterprises,Laptop Stand,Office Accessories,West,6,1281.02,7686.12,4037.26,3648.86
+ORD10957,2025-11-29,Loyalty Retail,Wireless Mouse,Electronics,West,1,902.61,902.61,508.38,394.23
+ORD10579,2025-11-29,Anchor Retail,Network Switch,Networking,South,4,6647.84,26591.36,16645.4,9945.96
+ORD11412,2025-11-30,Dawn Stores,Tablet,Electronics,North,10,23344.21,233442.1,164377.85,69064.25
+ORD10358,2025-11-30,Global Traders,Power Bank,Electronics,West,4,1725.09,6900.36,4326.75,2573.61
+ORD10891,2025-12-01,Metro Stores,External SSD,Electronics,North,3,8185.48,24556.44,16484.91,8071.53
+ORD11433,2025-12-01,Diamond Supplies,Network Switch,Networking,South,2,6181.15,12362.3,7911.96,4450.34
+ORD10091,2025-12-01,Tech Solutions,Power Bank,Electronics,South,4,1911.79,7647.16,4351.04,3296.12
+ORD11303,2025-12-01,Greenfield Retail,Office Desk,Furniture,West,2,12664.84,25329.68,16746.74,8582.94
+ORD11500,2025-12-01,Westline Traders,Monitor 27-inch,Electronics,North,8,19502.41,156019.28,111831.22,44188.06
+ORD11372,2025-12-01,Zeta Traders,UPS,Networking,West,2,5597.23,11194.46,6416.98,4777.48
+ORD10732,2025-12-02,Kite Retail,Ethernet Cable,Networking,East,2,664.41,1328.82,604.22,724.6
+ORD10666,2025-12-02,Jupiter Mart,Conference Table,Furniture,Central,4,28215.72,112862.88,84214.2,28648.68
+ORD10056,2025-12-02,Nova Enterprises,Wireless Mouse,Electronics,West,1,923.54,923.54,538.31,385.23
+ORD11305,2025-12-02,Haven Retail,Monitor 24-inch,Electronics,Central,2,12480.48,24960.96,17611.69,7349.27
+ORD10480,2025-12-03,Iris Stores,Keyboard,Electronics,South,3,1422.21,4266.63,2527.0,1739.63
+ORD10999,2025-12-03,Vantage Supplies,Barcode Scanner,Electronics,North,1,6349.08,6349.08,3558.51,2790.57
+ORD10404,2025-12-03,Delta Stores,Wi-Fi Adapter,Networking,North,6,1918.98,11513.88,6079.48,5434.4
+ORD10794,2025-12-04,River Enterprises,Cloud Backup,Software,North,4,4921.27,19685.08,10029.35,9655.73
+ORD10034,2025-12-04,Westline Traders,Wireless Mouse,Electronics,North,4,931.28,3725.12,2034.12,1691.0
+ORD10160,2025-12-05,Union Retail,Headset,Electronics,West,4,2307.08,9228.32,5089.64,4138.68
+ORD10481,2025-12-05,Beacon Supplies,Visitor Chair,Furniture,North,1,4374.22,4374.22,2801.58,1572.64
+ORD10560,2025-12-05,Quest Supplies,Laptop Stand,Office Accessories,North,4,1233.49,4933.96,2728.18,2205.78
+ORD11162,2025-12-05,Xenon Stores,Whiteboard,Office Accessories,North,8,3074.42,24595.36,15704.74,8890.62
+ORD10606,2025-12-06,ABC Enterprises,Bookshelf,Furniture,South,8,6737.47,53899.76,34925.79,18973.97
+ORD11044,2025-12-06,Omega Traders,Ethernet Cable,Networking,West,6,647.63,3885.78,1765.64,2120.14
+ORD10513,2025-12-07,Lighthouse Supplies,External SSD,Electronics,West,1,7598.25,7598.25,5673.57,1924.68
+ORD10967,2025-12-07,Orbit Stores,External SSD,Electronics,East,5,8239.6,41198.0,28374.82,12823.18
+ORD11021,2025-12-07,Flame Retail,Monitor 27-inch,Electronics,North,1,19061.54,19061.54,13510.27,5551.27
+ORD10083,2025-12-08,ABC Enterprises,Conference Camera,Electronics,North,3,15811.23,47433.69,32354.98,15078.71
+ORD10266,2025-12-08,Delta Stores,CRM Subscription,Software,West,2,12181.8,24363.6,12298.0,12065.6
+ORD10849,2025-12-08,Unity Enterprises,Bookshelf,Furniture,North,3,6828.77,20486.31,13289.84,7196.47
+ORD10817,2025-12-08,Brighton Traders,Office Suite,Software,East,1,5946.19,5946.19,3507.01,2439.18
+ORD10321,2025-12-08,Vertex Retail,Tablet,Electronics,South,2,21688.25,43376.5,34371.8,9004.7
+ORD11235,2025-12-08,River Enterprises,Printer,Electronics,West,6,15297.96,91787.76,61436.86,30350.9
+ORD10147,2025-12-08,Brighton Traders,Pen Set,Office Accessories,West,1,307.07,307.07,124.66,182.41
+ORD10825,2025-12-09,Capital Traders,Filing Cabinet,Furniture,West,6,7368.5,44211.0,28838.31,15372.69
+ORD11353,2025-12-09,Golden Traders,Bookshelf,Furniture,South,6,6957.14,41742.84,26152.59,15590.25
+ORD10350,2025-12-09,Dawn Stores,Keyboard,Electronics,North,4,1423.3,5693.2,3347.04,2346.16
+ORD10650,2025-12-09,Zenith Solutions,Filing Cabinet,Furniture,North,2,7468.31,14936.62,9423.85,5512.77
+ORD10389,2025-12-10,Eagle Traders,Keyboard,Electronics,South,10,1399.93,13999.3,8186.52,5812.78
+ORD10980,2025-12-10,Icon Supplies,Office Suite,Software,South,1,6517.41,6517.41,3310.39,3207.02
+ORD11157,2025-12-10,Xenon Stores,Printer,Electronics,North,6,14427.71,86566.26,64551.01,22015.25
+ORD10354,2025-12-10,Xenon Stores,Scanner,Electronics,Central,8,8384.44,67075.52,48553.1,18522.42
+ORD10221,2025-12-11,Fusion Retail,Tablet,Electronics,East,2,22778.27,45556.54,33130.11,12426.43
+ORD11349,2025-12-11,Zephyr Retail,Pen Set,Office Accessories,West,1,294.1,294.1,119.55,174.55
+ORD11038,2025-12-11,Vertex Retail,Barcode Scanner,Electronics,Central,3,5743.73,17231.19,11308.47,5922.72
+ORD10004,2025-12-11,Union Retail,Conference Camera,Electronics,North,4,15974.21,63896.84,44055.05,19841.79
+ORD11028,2025-12-11,Royal Distributors,Pen Set,Office Accessories,West,8,306.12,2448.96,969.94,1479.02
+ORD10327,2025-12-11,Pioneer Retail,Office Suite,Software,West,4,6171.7,24686.8,13180.14,11506.66
+ORD10028,2025-12-12,Westline Traders,Keyboard,Electronics,South,6,1393.46,8360.76,4935.24,3425.52
+ORD10540,2025-12-12,Quest Supplies,Conference Table,Furniture,South,6,29081.8,174490.8,125541.35,48949.45
+ORD10130,2025-12-12,Value Retail,Conference Table,Furniture,North,1,30486.72,30486.72,21106.63,9380.09
+ORD11173,2025-12-13,Vision Mart,Scanner,Electronics,East,3,9064.69,27194.07,17170.63,10023.44
+ORD10183,2025-12-13,Fusion Retail,Printer,Electronics,North,2,15431.22,30862.44,21499.68,9362.76
+ORD10987,2025-12-13,Core Systems,Desk Organizer,Office Accessories,West,2,811.33,1622.66,756.74,865.92
+ORD10366,2025-12-13,Woodland Enterprises,Laptop Stand,Office Accessories,South,2,1203.49,2406.98,1443.85,963.13
+ORD10551,2025-12-13,Alpha Retail,Visitor Chair,Furniture,North,4,4156.0,16624.0,10642.84,5981.16
+ORD10293,2025-12-13,Vision Mart,Wireless Mouse,Electronics,East,4,923.14,3692.56,2121.28,1571.28
+ORD10074,2025-12-14,Jade Traders,Desk Organizer,Office Accessories,Central,6,832.21,4993.26,2426.72,2566.54
+ORD10365,2025-12-14,Granite Supplies,Tablet,Electronics,South,2,23150.11,46300.22,34865.42,11434.8
+ORD11350,2025-12-14,Rapid Supplies,Email Security,Software,North,10,5735.81,57358.1,27885.38,29472.72
+ORD11448,2025-12-15,River Enterprises,Cloud Backup,Software,East,1,4992.96,4992.96,2630.24,2362.72
+ORD10612,2025-12-15,Anchor Retail,Monitor 27-inch,Electronics,East,1,19005.61,19005.61,13757.98,5247.63
+ORD11167,2025-12-15,Anchor Retail,Access Point,Networking,North,1,7349.07,7349.07,4343.17,3005.9
+ORD10116,2025-12-15,Alpha Retail,Headset,Electronics,North,6,2304.64,13827.84,7679.72,6148.12
+ORD10461,2025-12-15,ABC Enterprises,Cloud Backup,Software,North,4,4819.34,19277.36,10688.93,8588.43
+ORD11318,2025-12-15,Value Retail,Laptop Stand,Office Accessories,West,6,1265.2,7591.2,4195.43,3395.77
+ORD10048,2025-12-16,Titan Supplies,Visitor Chair,Furniture,North,4,4386.45,17545.8,11211.14,6334.66
+ORD10572,2025-12-16,Beta Enterprises,Office Desk,Furniture,North,2,12452.39,24904.78,17236.63,7668.15
+ORD10380,2025-12-16,Flame Retail,Wireless Mouse,Electronics,North,1,904.38,904.38,511.47,392.91
+ORD11078,2025-12-17,Granite Supplies,Printer,Electronics,East,4,14761.15,59044.6,43258.24,15786.36
+ORD11418,2025-12-18,Summit Enterprises,Monitor 27-inch,Electronics,South,10,18799.68,187996.8,136377.61,51619.19
+ORD10290,2025-12-18,Golden Traders,Headset,Electronics,Central,2,2095.99,4191.98,2416.43,1775.55
+ORD11491,2025-12-18,Alpha Retail,Conference Camera,Electronics,East,4,16393.01,65572.04,45500.63,20071.41
+ORD10190,2025-12-18,Loyalty Retail,Conference Table,Furniture,West,1,28190.07,28190.07,20841.4,7348.67
+ORD10671,2025-12-19,Crest Enterprises,UPS,Networking,East,2,5314.75,10629.5,6414.26,4215.24
+ORD11154,2025-12-19,Eagle Traders,Barcode Scanner,Electronics,East,5,5684.74,28423.7,19184.3,9239.4
+ORD11477,2025-12-19,Metro Stores,Monitor 24-inch,Electronics,South,1,12079.97,12079.97,9311.5,2768.47
+ORD10687,2025-12-19,Harbor Enterprises,Conference Table,Furniture,South,1,27301.39,27301.39,20498.86,6802.53
+ORD10813,2025-12-20,Global Traders,Office Suite,Software,North,4,6671.67,26686.68,13847.66,12839.02
+ORD10188,2025-12-20,Lighthouse Supplies,Pen Set,Office Accessories,East,6,290.01,1740.06,707.52,1032.54
+ORD10217,2025-12-20,Heritage Enterprises,Conference Table,Furniture,Central,8,30412.1,243296.8,162972.98,80323.82
+ORD10398,2025-12-20,Apex Supplies,Filing Cabinet,Furniture,East,2,7269.12,14538.24,9245.17,5293.07
+ORD10420,2025-12-20,Haven Retail,Filing Cabinet,Furniture,North,2,7216.69,14433.38,9294.91,5138.47
+ORD10453,2025-12-20,Urban Office,Wi-Fi Adapter,Networking,North,10,1832.02,18320.2,10900.94,7419.26
+ORD11487,2025-12-21,Kite Retail,Barcode Scanner,Electronics,West,4,5849.02,23396.08,14742.48,8653.6
+ORD10729,2025-12-21,Cobalt Retail,Document Shredder,Office Accessories,East,1,7013.1,7013.1,4518.19,2494.91
+ORD10682,2025-12-21,Apex Supplies,Headset,Electronics,Central,4,2298.84,9195.36,4945.93,4249.43
+ORD10601,2025-12-21,Dawn Stores,Tablet,Electronics,Central,2,21882.09,43764.18,34499.33,9264.85
+ORD11260,2025-12-21,Diamond Supplies,Whiteboard,Office Accessories,North,2,3063.51,6127.02,3679.43,2447.59
+ORD11460,2025-12-22,Ultra Traders,Whiteboard,Office Accessories,South,3,3380.75,10142.25,5721.49,4420.76
+ORD10648,2025-12-22,Insight Solutions,Project Management Tool,Software,East,2,7429.11,14858.22,7564.2,7294.02
+ORD11344,2025-12-22,Heritage Enterprises,Access Point,Networking,West,1,7005.79,7005.79,4374.89,2630.9
+ORD11067,2025-12-22,Core Systems,Pen Set,Office Accessories,North,5,292.62,1463.1,580.16,882.94
+ORD10647,2025-12-22,Crest Enterprises,Power Bank,Electronics,Central,2,1873.14,3746.28,2048.5,1697.78
+ORD11261,2025-12-23,Horizon Supplies,Wireless Mouse,Electronics,South,10,961.0,9610.0,5227.79,4382.21
+ORD10381,2025-12-23,Nova Enterprises,Office Suite,Software,West,6,6064.14,36384.84,20345.5,16039.34
+ORD11497,2025-12-23,Kite Retail,Monitor 24-inch,Electronics,Central,2,12754.43,25508.86,17314.15,8194.71
+ORD10922,2025-12-23,Jupiter Mart,Router,Networking,South,2,4325.07,8650.14,5084.8,3565.34
+ORD10476,2025-12-23,Vantage Supplies,Email Security,Software,Central,5,5627.36,28136.8,13632.74,14504.06
+ORD10391,2025-12-23,Smart Retail,Visitor Chair,Furniture,South,8,4319.21,34553.68,22164.55,12389.13
+ORD11046,2025-12-23,Insight Solutions,Wi-Fi Adapter,Networking,East,1,1833.59,1833.59,1018.66,814.93
+ORD11025,2025-12-24,Platinum Retail,Notebook Pack,Office Accessories,West,3,527.73,1583.19,824.79,758.4
+ORD10021,2025-12-25,Rapid Supplies,USB Hub,Electronics,North,3,1104.69,3314.07,1818.65,1495.42
+ORD10170,2025-12-25,Digital Hub,Cloud Backup,Software,South,5,4709.0,23545.0,12594.89,10950.11
+ORD10277,2025-12-25,Dawn Stores,External SSD,Electronics,West,4,7944.42,31777.68,22267.54,9510.14
+ORD11161,2025-12-25,Urban Office,Keyboard,Electronics,North,3,1353.86,4061.58,2604.3,1457.28
+ORD11006,2025-12-25,Woodland Enterprises,Tablet,Electronics,South,1,21404.62,21404.62,17412.73,3991.89
+ORD10126,2025-12-26,BlueSky Enterprises,Email Security,Software,Central,2,5427.36,10854.72,5504.99,5349.73
+ORD10604,2025-12-26,Quantum Solutions,Office Desk,Furniture,North,1,12353.18,12353.18,8238.06,4115.12
+ORD10457,2025-12-26,Quantum Solutions,Wireless Mouse,Electronics,North,3,949.57,2848.71,1529.28,1319.43
+ORD11475,2025-12-26,Nova Enterprises,Office Desk,Furniture,East,1,13437.67,13437.67,8507.8,4929.87
+ORD11008,2025-12-26,Zenith Solutions,Keyboard,Electronics,East,2,1451.18,2902.36,1661.31,1241.05
+ORD10444,2025-12-26,Omega Traders,Monitor 24-inch,Electronics,Central,2,12970.46,25940.92,17654.26,8286.66
+ORD11482,2025-12-27,Capital Traders,Whiteboard,Office Accessories,North,4,3332.07,13328.28,7734.3,5593.98
+ORD10443,2025-12-28,River Enterprises,Whiteboard,Office Accessories,West,6,3171.1,19026.6,11195.93,7830.67
+ORD11142,2025-12-28,Emerald Enterprises,External SSD,Electronics,West,1,7992.01,7992.01,5661.56,2330.45
+ORD11034,2025-12-28,Urban Office,External SSD,Electronics,South,4,8383.66,33534.64,22687.32,10847.32
+ORD11031,2025-12-29,Mosaic Enterprises,Monitor 27-inch,Electronics,South,1,19234.86,19234.86,13657.24,5577.62
+ORD11405,2025-12-29,Insight Solutions,CRM Subscription,Software,West,6,11851.62,71109.72,37688.44,33421.28
+ORD11002,2025-12-29,Apex Supplies,Tablet,Electronics,West,4,20903.63,83614.52,69318.18,14296.34
+ORD11407,2025-12-30,Omega Traders,Document Shredder,Office Accessories,North,10,7195.66,71956.6,45444.21,26512.39
+ORD10458,2025-12-30,Quantum Solutions,Printer,Electronics,Central,1,15474.11,15474.11,10209.2,5264.91
+ORD10216,2025-12-30,Beta Enterprises,Cloud Backup,Software,North,3,4899.02,14697.06,7808.73,6888.33
+ORD10701,2025-12-30,Haven Retail,UPS,Networking,North,6,5498.61,32991.66,19939.39,13052.27
+ORD10530,2025-12-30,Keystone Retail,Webcam,Electronics,East,3,2726.77,8180.31,5244.83,2935.48
+ORD10345,2025-12-30,Golden Traders,Desk Chair,Furniture,East,2,8621.1,17242.2,11699.36,5542.84
+ORD11269,2025-12-30,Urban Office,Office Desk,Furniture,West,3,13474.72,40424.16,25087.42,15336.74
+ORD10320,2025-12-30,Nova Enterprises,UPS,Networking,North,10,5259.11,52591.1,31715.38,20875.72
+ORD10303,2025-12-30,Eagle Traders,Monitor 27-inch,Electronics,West,8,18243.35,145946.8,105355.76,40591.04
+ORD11295,2025-12-30,Kingdom Traders,Ethernet Cable,Networking,North,2,684.58,1369.16,617.97,751.19
+ORD10072,2025-12-30,Harbor Enterprises,Access Point,Networking,North,3,7688.35,23065.05,12789.42,10275.63
+ORD10462,2025-12-31,Metro Stores,Cloud Backup,Software,North,1,4875.72,4875.72,2541.94,2333.78
+ORD10838,2025-12-31,Lighthouse Supplies,Scanner,Electronics,West,1,8548.65,8548.65,5960.65,2588.0
+ORD10581,2025-12-31,Anchor Retail,Wi-Fi Adapter,Networking,East,6,1829.37,10976.22,6419.06,4557.16
+ORD10317,2025-12-31,Haven Retail,Antivirus License,Software,South,2,2414.05,4828.1,2471.56,2356.54
